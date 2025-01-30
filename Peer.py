@@ -3,9 +3,8 @@ import random
 import networkx as nx
 
 
-class Peer(object):
-    def __init__(self,ID,env):
-        self.env = env
+class Peer:
+    def __init__(self,ID):
         self.ID = ID
         self.isSlow = False
         self.isLowCPU = False

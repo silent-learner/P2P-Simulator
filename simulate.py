@@ -12,7 +12,28 @@ P2P_network , peers = P2P_network_generate(n_peers, z0, z1)
 
 env = sp.Environment()
 
+transactions = []
 
+def generate_transaction(env, p1 : Peer, p2 : Peer): 
+    print(f'{env.now}: Transaction generated: {p1.ID} to {p2.ID}')
+    # transactions.append({"current_time": env.now, "sender": p1, "receiver": p2})
+    pass
 
+def process_transaction(env):
+    pass
+
+for peer in peers:
+    pass
+    # 1. generate first transaction for each peer
+    filtered_peer = [x for x in peers if x != peer]
+    def transaction_generator_for_every_peer(env, peer, filtered_peer):
+        while True:
+            waitTime = random.expovariate(1 / Ttx)
+            yield env.timeout(waitTime)
+            generate_transaction(env, peer, random.choice(filtered_peer))
+    env.process(transaction_generator_for_every_peer(env, peer, filtered_peer))
+    # 2. whenever a transaction is processed, another transaction is generated
+
+env.run(until=100)
 
 print("The end")
