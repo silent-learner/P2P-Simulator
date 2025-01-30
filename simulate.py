@@ -9,8 +9,8 @@ import simpy as sp
 n_peers = 8
 z0 = 0.2
 z1 = 0.2
-Ttx = 1
-IaT = 1
+Ttx = 5
+IaT = 10
 
 P2P_network , peers = P2P_network_generate(n_peers, z0, z1)
 
@@ -112,22 +112,23 @@ def generate_block(env,peer :Peer):
     if longest_chain_node != longest_chain_node_new:
             print(f"Peer {peer.ID} was slow in mining someone else mined first.")
 
-    block = Block(peer,env.now,longest_chain_node,txns)
-        # peer.mempool.clear()
-    block.TxnList.append(Transaction(env.now,peer,None,50)) # coinbase
-    block.peers_already_received.add(peer.ID)
-    print(f"Block {block.BlkId} mined by {peer.ID} and added in its ledger at {env.now}.")
-    print(f"Peer {peer.ID} previous ledger",[blk.BlkId for blk in peer.ledger.nodes])
-    peer.Tree.add(block.BlkId)
-    peer.ledger.add_node(block)
-    peer.ledger.add_edge(longest_chain_node,block)
-    print(f'Longest node {longest_chain_node.BlkId} for {peer.ID} at {env.now}')
-    print(f"Peer {peer.ID} updated ledger",[blk.BlkId for blk in peer.ledger.nodes])
+    if longest_chain_node == longest_chain_node_new:
+        block = Block(peer,env.now,longest_chain_node,txns)
+            # peer.mempool.clear()
+        block.TxnList.append(Transaction(env.now,peer,None,50)) # coinbase
+        block.peers_already_received.add(peer.ID)
+        print(f"Block {block.BlkId} mined by {peer.ID} and added in its ledger at {env.now}.")
+        print(f"Peer {peer.ID} previous ledger",[blk.BlkId for blk in peer.ledger.nodes])
+        peer.Tree.add(block.BlkId)
+        peer.ledger.add_node(block)
+        peer.ledger.add_edge(longest_chain_node,block)
+        print(f'Longest node {longest_chain_node.BlkId} for {peer.ID} at {env.now}')
+        print(f"Peer {peer.ID} updated ledger",[blk.BlkId for blk in peer.ledger.nodes])
 
-    for neigh in peer.neighbours:
-        if neigh.ID not in block.peers_already_received:
-            print(f"Forwarding from generator function -- Block {block.BlkId} to Peer {neigh.ID} from Peer {peer.ID}")
-            env.process(forward_block(env,block,peer,neigh))
+        for neigh in peer.neighbours:
+            if neigh.ID not in block.peers_already_received:
+                print(f"Forwarding from generator function -- Block {block.BlkId} to Peer {neigh.ID} from Peer {peer.ID}")
+                env.process(forward_block(env,block,peer,neigh))
     # else:
     #     print(f"Peer {peer.ID} was slow in mining someone else mined first.")
 
@@ -159,7 +160,7 @@ for peer in peers:
 #     for key , value in peer.prop_delays.items():
 #         print('\t',key,value)
 
-env.run(until=2)
+env.run(until=12)
 
 
 
@@ -170,7 +171,7 @@ for peer in peers:
     # nx.draw(peer.ledger,labels={n: n.BlkId for n in peer.ledger.nodes})
     # plt.savefig(f'Blockchain{peer.ID}.png')
     # plt.clf()
-    draw_tree_multipartite(peer.ledger,peer.genesis,f'Tree {peer.ID}.png')
+    draw_tree_multipartite(peer.ledger,peer.genesis,f'./BlockChainTrees/Tree {peer.ID}.png')
     print()
 
 
