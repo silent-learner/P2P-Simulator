@@ -1,7 +1,7 @@
 import random
 import matplotlib.pyplot as plt
 import networkx as nx
-import Peer
+from Peer import Peer
 
 def random_graph(peers):
     P2P_network = nx.Graph()
