@@ -4,12 +4,13 @@ import Peer
 
 class Block:
     count = 0
-    def __init__(self,miner,time,prevID):
+    def __init__(self,miner,time,prevID,TxnList=[]):
         self.BlkId = Block.count
         self.time = time
         self.miner = miner
         self.prevId = prevID
         self.TxnList = []
+        self.peers_already_received = set()
         Block.count += 1
 
 

@@ -92,4 +92,4 @@ def P2P_network_generate(n_peers, z0, z1):
     plt.savefig('P2P_network.png')
     plt.clf()
 
-    return P2P_network,peers
+    return P2P_network,peers,genesis_block

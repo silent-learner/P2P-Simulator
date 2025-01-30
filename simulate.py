@@ -11,7 +11,7 @@ z1 = 0.2
 Ttx = 0.1
 IaT = 600
 
-P2P_network , peers = P2P_network_generate(n_peers, z0, z1)
+P2P_network , peers, genesis_block = P2P_network_generate(n_peers, z0, z1)
 
 env = sp.Environment()
 
@@ -47,9 +47,22 @@ def process_transaction(env):
     pass
 
 
+def forward_block(env,block : Block,peer : Peer,neigh : Peer):
+    latency =  delay(peer,neigh,len(block.TxnList))
+    yield env.timeout(latency)
+
+    
+
 def generate_block(env,peer :Peer):
     txns = peer.mempool
-    block = Block(peer,env.now,)
+    path_lengths = nx.shortest_path_length(peer.ledger,source=genesis_block)
+    print(path_lengths)
+    block = Block(peer,env.now,0,txns)
+    block.TxnList.append(Transaction(env.now,peer,None,50))
+    for neigh in peer.neighbours:
+            if neigh not in block.peers_already_received:
+                env.process(forward_block(env,block,peer,neigh))
+
 
 for peer in peers:
     # 1. generate first transaction for each peer
