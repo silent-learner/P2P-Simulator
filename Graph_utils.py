@@ -2,6 +2,7 @@ import random
 import matplotlib.pyplot as plt
 import networkx as nx
 from Peer import Peer
+from Block import Block
 
 def random_graph(peers):
     P2P_network = nx.Graph()
@@ -37,8 +38,8 @@ def isConnected(G : nx.Graph):
     return nx.is_connected(G)
 
 def P2P_network_generate(n_peers, z0, z1):
-
-    peers = [Peer(i) for i in range(n_peers)]
+    genesis_block = Block(None,0,-1)
+    peers = [Peer(i,genesis=genesis_block) for i in range(n_peers)]
 
     slow = z0 * n_peers
     lowcpu = z1 * n_peers
@@ -46,8 +47,24 @@ def P2P_network_generate(n_peers, z0, z1):
     slow_peers = random.sample(peers, int(slow))
     lowcpu_peers = random.sample(peers, int(lowcpu))
 
+    slow_hashing_power = 1/(n_peers*(10-9*z1)) 
+
     for peer in slow_peers:
         peer.isSlow = True
+        
+    for peer in peers:
+        if peer.isSlow:
+            peer.hashingPower = slow_hashing_power
+        else:
+            peer.hashingPower = 10*slow_hashing_power
+
+    total_hashing_power = 0
+
+    for peer in peers:
+        total_hashing_power += peer.hashingPower
+
+    for peer in peers:
+        peer.hashingPower = peer.hashingPower/total_hashing_power
 
     for peer in lowcpu_peers:
         peer.isLowCPU = True

@@ -3,12 +3,14 @@ import uuid
 import Peer
 
 class Block:
+    count = 0
     def __init__(self,miner,time,prevID):
-        self.BlkId = uuid.uuid4()
+        self.BlkId = Block.count
         self.time = time
         self.miner = miner
         self.prevId = prevID
         self.TxnList = []
+        Block.count += 1
 
 
     def delay(self, A : Peer ,B : Peer):
