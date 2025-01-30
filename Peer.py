@@ -2,8 +2,7 @@ import random
 
 import networkx as nx
 
-
-class Peer():
+class Peer:
     def __init__(self,ID):
         self.ID = ID
         self.isSlow = False

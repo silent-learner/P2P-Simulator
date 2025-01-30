@@ -38,7 +38,7 @@ def isConnected(G : nx.Graph):
 
 def P2P_network_generate(n_peers, z0, z1):
 
-    peers = [Peer(i + 1) for i in range(n_peers)]
+    peers = [Peer.Peer(i + 1) for i in range(n_peers)]
 
     slow = z0 * n_peers
     lowcpu = z1 * n_peers

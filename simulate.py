@@ -19,7 +19,6 @@ def generate_transaction(env, p1 : Peer, p2 : Peer):
     print(f'{env.now}: Transaction generated: {p1.ID} to {p2.ID}')
     txn = Transaction(env.now,p1,p2,random.randint(10,25))
     p1.mempool.append(txn)
-    # transactions.append({"current_time": env.now, "sender": p1, "receiver": p2})
 
 def process_transaction(env):
     pass
