@@ -1,5 +1,6 @@
 import random
 from Peer import *
+from utils import *
 from Transaction import *
 from Graph_utils import *
 import simpy as sp
@@ -15,10 +16,29 @@ env = sp.Environment()
 
 transactions = []
 
-def generate_transaction(env, p1 : Peer, p2 : Peer): 
-    txn = Transaction(env.now,p1,p2,random.randint(10,25))
+def generate_transaction(env, sender : Peer, receiver : Peer): 
+    txn = Transaction(env.now,sender,receiver,random.randint(10,25))
     print(txn)
-    p1.mempool.append(txn)
+    sender.mempool.append(txn)
+    txn.peers_already_received.add(sender.ID)
+    print(f"Txn {txn.TxnID} created by {sender.ID} and added in its mempool at {env.now}.")
+    for neigh in sender.neighbours:
+        if neigh not in txn.peers_already_received:
+            env.process(forward_transaction(env,txn,sender,neigh))
+
+
+def forward_transaction(env,txn : Transaction,peer1 : Peer,peer2 : Peer):
+    latency =  delay(peer1,peer2)
+    yield env.timeout(latency)
+
+    if txn.TxnID in [trxn.TxnID for trxn in peer2.mempool]:
+        return
+    peer2.mempool.append(txn)
+    print(f"Txn {txn.TxnID} reached peer {peer2.ID} and added to its mempool at time {env.now}.")
+    txn.peers_already_received.add(peer2.ID)
+    for neigh in peer2.neighbours:
+        if neigh != peer1 and neigh not in txn.peers_already_received:
+            env.process(forward_transaction(env,txn,peer2,neigh))
 
 
 def process_transaction(env):
@@ -45,5 +65,5 @@ for peer in peers:
 
 
 
-env.run(until=100)
+env.run(until=3)
 print("------------------------------------The end--------------------------------------------")

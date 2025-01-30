@@ -9,6 +9,7 @@ class Transaction:
         self.sender = sender
         self.receiver = receiver
         self.amount = amount
+        self.peers_already_received = set()
         Transaction.uID += 1
 
     def __str__(self):
