@@ -8,7 +8,7 @@ z0 = 0.2
 z1 = 0.2
 Ttx = 10
 
-P2P_network , peers = P2P_network_generate(n_peers)
+P2P_network , peers = P2P_network_generate(n_peers, z0, z1)
 
 env = sp.Environment()
 

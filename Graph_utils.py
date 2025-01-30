@@ -1,6 +1,7 @@
 import random
 import matplotlib.pyplot as plt
 import networkx as nx
+import Peer
 
 def random_graph(peers):
     P2P_network = nx.Graph()
@@ -35,7 +36,7 @@ def random_graph(peers):
 def isConnected(G : nx.Graph):
     return nx.is_connected(G)
 
-def P2P_network_generate(n_peers):
+def P2P_network_generate(n_peers, z0, z1):
 
     peers = [Peer(i + 1) for i in range(n_peers)]
 
