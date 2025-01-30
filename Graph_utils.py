@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 import networkx as nx
 from Peer import Peer
 from Block import Block
+import copy
+
 
 def random_graph(peers):
     P2P_network = nx.Graph()
@@ -92,4 +94,4 @@ def P2P_network_generate(n_peers, z0, z1):
     plt.savefig('P2P_network.png')
     plt.clf()
 
-    return P2P_network,peers,genesis_block
+    return P2P_network,peers

@@ -13,7 +13,10 @@ class Peer:
         self.neighbours = set()
         self.mempool = []
         self.hashingPower = 0
+        self.Tree = set()
+        self.Tree.add(0)
         self.ledger = nx.DiGraph()
+        self.genesis = genesis
         self.ledger.add_node(genesis)
 
 
