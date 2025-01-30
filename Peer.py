@@ -5,7 +5,7 @@ import networkx as nx
 class Peer:
     def __init__(self,ID):
         self.ID = ID
-        self.link_delays = {}
+        self.prop_delays = {}
         self.isSlow = False
         self.isLowCPU = False
         self.balance = random.randint(10,25)

@@ -25,11 +25,11 @@ def random_graph(peers):
                 neigh.neighbours.add(peer)
 
     for peer in peers:
-        print(peer.ID,end='--->')
+        # print(peer.ID,end='--->')
         for neigh in peer.neighbours:
-            print(neigh.ID,end=',')
+            # print(neigh.ID,end=',')
             P2P_network.add_edge(peer.ID,neigh.ID,weight=random.uniform(10/1000,500/1000))
-        print()
+        # print()
 
     return P2P_network
 
@@ -55,19 +55,19 @@ def P2P_network_generate(n_peers, z0, z1):
     P2P_network = random_graph(peers)
 
     min_degree = min([degree for _ , degree in P2P_network.degree()])
-    print("Min degree", min_degree)
-    max_degree = max([degree for _ , degree in P2P_network.degree()])
-    print("Max degree", max_degree)
+    # print("Min degree", min_degree)
+    # max_degree = max([degree for _ , degree in P2P_network.degree()])
+    # print("Max degree", max_degree)
     while (not isConnected(P2P_network)) or min_degree < 3:
         P2P_network = random_graph(peers)
         min_degree = min([degree for _, degree in P2P_network.degree()])
-        print("Min degree", min_degree)
-        max_degree = max([degree for _ , degree in P2P_network.degree()])
-        print("Max degree", max_degree)
+        # print("Min degree", min_degree)
+        # max_degree = max([degree for _ , degree in P2P_network.degree()])
+        # print("Max degree", max_degree)
 
 
     for (u,v,pij) in P2P_network.edges(data=True):
-        print(u,v,pij,end='--')
+        # print(u,v,pij,end='--')
         peers[u].prop_delays[v] = pij['weight']
         peers[v].prop_delays[u] = pij['weight']
 
