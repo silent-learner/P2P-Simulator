@@ -5,6 +5,7 @@ import networkx as nx
 class Peer:
     def __init__(self,ID):
         self.ID = ID
+        self.link_delays = {}
         self.isSlow = False
         self.isLowCPU = False
         self.balance = random.randint(10,25)
@@ -14,5 +15,5 @@ class Peer:
 
 
     def __str__(self):
-        return f'Peer Id {self.ID} neighbours : {self.neighbours} isslow : {self.isSlow} isHighCPu : {self.isLowCPU} balance : {self.balance}'
+        return f'Peer Id {self.ID} isslow : {self.isSlow} isHighCPu : {self.isLowCPU} balance : {self.balance}'
 

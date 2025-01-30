@@ -4,7 +4,7 @@ from Transaction import *
 from Graph_utils import *
 import simpy as sp
 
-n_peers = 25
+n_peers = 10
 z0 = 0.2
 z1 = 0.2
 Ttx = 10
@@ -16,8 +16,8 @@ env = sp.Environment()
 transactions = []
 
 def generate_transaction(env, p1 : Peer, p2 : Peer): 
-    print(f'{env.now}: Transaction generated: {p1.ID} to {p2.ID}')
     txn = Transaction(env.now,p1,p2,random.randint(10,25))
+    print(txn)
     p1.mempool.append(txn)
 
 def process_transaction(env):
@@ -31,10 +31,20 @@ for peer in peers:
             waitTime = random.expovariate(1 / Ttx)
             yield env.timeout(waitTime)
             generate_transaction(env, peer, random.choice(filtered_peer))
-            
+
     env.process(transaction_generator_for_every_peer(env, peer, filtered_peer))
     # 2. whenever a transaction is processed, another transaction is generated
 
 env.run(until=100)
+
+# for peer in peers:
+#     print(peer)
+#     for txn in peer.mempool:
+#         print(txn)
+
+for peer in peers:
+    print(peer.ID)
+    for key , value in peer.prop_delays.items():
+        print('\t',key,value)
 
 print("The end")

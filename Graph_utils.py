@@ -28,7 +28,7 @@ def random_graph(peers):
         print(peer.ID,end='--->')
         for neigh in peer.neighbours:
             print(neigh.ID,end=',')
-            P2P_network.add_edge(peer.ID,neigh.ID)
+            P2P_network.add_edge(peer.ID,neigh.ID,weight=random.uniform(10/1000,500/1000))
         print()
 
     return P2P_network
@@ -38,7 +38,7 @@ def isConnected(G : nx.Graph):
 
 def P2P_network_generate(n_peers, z0, z1):
 
-    peers = [Peer.Peer(i + 1) for i in range(n_peers)]
+    peers = [Peer(i) for i in range(n_peers)]
 
     slow = z0 * n_peers
     lowcpu = z1 * n_peers
@@ -64,6 +64,12 @@ def P2P_network_generate(n_peers, z0, z1):
         print("Min degree", min_degree)
         max_degree = max([degree for _ , degree in P2P_network.degree()])
         print("Max degree", max_degree)
+
+
+    for (u,v,pij) in P2P_network.edges(data=True):
+        print(u,v,pij,end='--')
+        peers[u].prop_delays[v] = pij['weight']
+        peers[v].prop_delays[u] = pij['weight']
 
     nx.draw(P2P_network, with_labels=True)
     plt.savefig('P2P_network.png')
