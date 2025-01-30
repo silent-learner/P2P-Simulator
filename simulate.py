@@ -23,7 +23,6 @@ def process_transaction(env):
     pass
 
 for peer in peers:
-    pass
     # 1. generate first transaction for each peer
     filtered_peer = [x for x in peers if x != peer]
     def transaction_generator_for_every_peer(env, peer, filtered_peer):
