@@ -1,7 +1,6 @@
 import random
 
 import networkx as nx
-from Block import Block
 
 class Peer:
     def __init__(self,ID,genesis):

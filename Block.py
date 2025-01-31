@@ -1,5 +1,4 @@
 import random
-import uuid
 import Peer
 
 class Block:

@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import networkx as nx
 from Peer import Peer
 from Block import Block
-import copy
 
 
 def random_graph(peers):

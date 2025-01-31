@@ -11,22 +11,17 @@ def delay(A : Peer , B : Peer , m):
 import networkx as nx
 import matplotlib.pyplot as plt
 
-def draw_tree_multipartite(graph,genesis,filename="tree_multipartite.png"):
-    plt.figure(figsize=(10, 6))  # Larger figure for better spacing
+def make_blockChainTree(graph,genesis,filename="tree_multipartite.png"):
+    plt.figure(figsize=(10, 6))  
 
-    # Assign each node a depth (layer) based on shortest path from root
-      # Assuming 0 is the root node (Genesis block in blockchain)
     layers = nx.single_source_shortest_path_length(graph, genesis)
     for node in graph.nodes:
         graph.nodes[node]["subset"] = layers.get(node, 0)
 
-    # Apply multipartite layout using node levels
     pos = nx.multipartite_layout(graph, align='horizontal',  subset_key="subset")
 
-    # Draw graph
     nx.draw(graph, pos, labels={n: n.BlkId for n in graph.nodes}, node_color="lightblue", edge_color="black",
             font_weight="bold", arrows=True)
 
-    # Save and show
     plt.savefig(filename, format="png", dpi=300)
     plt.clf()
