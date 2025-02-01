@@ -8,18 +8,24 @@ from Block import Block
 def random_graph(peers):
     P2P_network = nx.Graph()
 
+    # add each peer id as a node in the graph
     for peer in peers:
         P2P_network.add_node(peer.ID)
 
     for peer in peers:
+        # choose a random degree for this peer
+        # if random degree is less than the number
+        # of current neighbours then try to add more neighbours
         degree = random.randint(3,6)
         effective_degree = max(0,degree - len(peer.neighbours))
-        candiadtes = []
-        for p in peers:
-            if p != peer:
-                candiadtes.append(p)
 
-        neighbours = random.sample(candiadtes, effective_degree)
+        # candidates are the peers that are not connected to the current peer
+        candidates = []
+        for p in peers:
+            if p != peer and p not in peer.neighbours: # p not in neighbours?
+                candidates.append(p)
+
+        neighbours = random.sample(candidates, effective_degree)
 
         for neigh in neighbours:
             if len(neigh.neighbours) < 6:
@@ -30,6 +36,10 @@ def random_graph(peers):
         # print(peer.ID,end='--->')
         for neigh in peer.neighbours:
             # print(neigh.ID,end=',')
+
+            # weight of an edge is pij
+            # the positive minimum value (speed of light)
+            # chose from a uniform distribution of 10 ms to 500 ms.
             P2P_network.add_edge(peer.ID,neigh.ID,weight=random.uniform(10/1000,500/1000))
         # print()
 
@@ -48,20 +58,19 @@ def P2P_network_generate(n_peers, z0, z1):
     slow_peers = random.sample(peers, int(slow))
     lowcpu_peers = random.sample(peers, int(lowcpu))
 
+    # since slow peers hashing power = 1/10 of fast peer hashing power
+    # we can calculate slow peer hashing power as follows
     slow_hashing_power = 1/(n_peers*(10-9*z1)) 
 
     for peer in slow_peers:
         peer.isSlow = True
-        
+    
+    total_hashing_power = 0
     for peer in peers:
         if peer.isSlow:
             peer.hashingPower = slow_hashing_power
         else:
             peer.hashingPower = 10*slow_hashing_power
-
-    total_hashing_power = 0
-
-    for peer in peers:
         total_hashing_power += peer.hashingPower
 
     for peer in peers:

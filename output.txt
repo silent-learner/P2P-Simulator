@@ -1,0 +1,2028 @@
+Block prev  None
+Peer 0 starts mining at 1.9353918248208395.
+Peer 4 starts mining at 2.034072814035008.
+Txn 0 created by 2 sender balance 11 amount 2 and added in its mempool at 2.064918961551846.
+Peer 1 starts mining at 2.185223508852984.
+Txn 1 created by 2 sender balance 11 amount 3 and added in its mempool at 3.126716934122125.
+Txn 2 created by 4 sender balance 24 amount 5 and added in its mempool at 3.3695207682829467.
+Peer 2 starts mining at 3.494380116017864.
+Peer 5 starts mining at 5.30568372931278.
+Txn 3 created by 6 sender balance 17 amount 5 and added in its mempool at 5.788992008142664.
+Txn 4 created by 6 sender balance 17 amount 4 and added in its mempool at 6.034170428001712.
+Txn 5 created by 2 sender balance 11 amount 2 and added in its mempool at 6.74902030159215.
+Txn 6 created by 1 sender balance 23 amount 3 and added in its mempool at 6.860330542180778.
+Txn 7 created by 3 sender balance 17 amount 5 and added in its mempool at 7.065507851322903.
+Txn 8 created by 4 sender balance 24 amount 3 and added in its mempool at 7.202818743629175.
+Txn 9 created by 3 sender balance 17 amount 5 and added in its mempool at 7.273773860815739.
+Txn 10 created by 3 sender balance 17 amount 3 and added in its mempool at 7.438187697246291.
+Txn 11 created by 6 sender balance 17 amount 5 and added in its mempool at 8.533370676464052.
+Txn 12 created by 2 sender balance 11 amount 5 and added in its mempool at 9.100312319036771.
+Txn 13 created by 3 sender balance 17 amount 2 and added in its mempool at 11.860382559770327.
+Txn 14 created by 2 sender balance 11 amount 1 and added in its mempool at 11.939794199041204.
+Txn 15 created by 5 sender balance 19 amount 3 and added in its mempool at 13.007968702909812.
+Txn 16 created by 0 sender balance 14 amount 5 and added in its mempool at 13.502088055891273.
+Txn 17 created by 6 sender balance 17 amount 3 and added in its mempool at 13.585237225321638.
+Txn 18 created by 2 sender balance 11 amount 4 and added in its mempool at 13.820723074937888.
+Txn 19 created by 4 sender balance 24 amount 1 and added in its mempool at 14.031291581415044.
+Txn 20 created by 6 sender balance 17 amount 2 and added in its mempool at 15.519281199013497.
+Txn 21 created by 1 sender balance 23 amount 4 and added in its mempool at 15.738701374310473.
+Txn 22 created by 3 sender balance 17 amount 4 and added in its mempool at 16.095243216377987.
+Txn 23 created by 1 sender balance 23 amount 2 and added in its mempool at 16.339027557066053.
+Txn 24 created by 0 sender balance 14 amount 2 and added in its mempool at 16.52604881394125.
+Txn 25 created by 5 sender balance 19 amount 3 and added in its mempool at 16.708939439898348.
+Txn 26 created by 1 sender balance 23 amount 4 and added in its mempool at 17.40480366941523.
+Peer 6 starts mining at 18.243892205000744.
+Txn 27 created by 2 sender balance 11 amount 4 and added in its mempool at 18.84173627427768.
+Txn 28 created by 2 sender balance 11 amount 3 and added in its mempool at 19.194486888324253.
+Txn 29 created by 3 sender balance 17 amount 2 and added in its mempool at 19.557651243896352.
+Txn 30 created by 3 sender balance 17 amount 2 and added in its mempool at 19.918509433995716.
+Txn 31 created by 3 sender balance 17 amount 2 and added in its mempool at 19.938996046903753.
+Txn 32 created by 5 sender balance 19 amount 1 and added in its mempool at 20.009179093226003.
+Txn 33 created by 5 sender balance 19 amount 1 and added in its mempool at 20.508177831792192.
+Txn 34 created by 4 sender balance 24 amount 3 and added in its mempool at 21.541426745042312.
+Txn 35 created by 0 sender balance 14 amount 3 and added in its mempool at 23.500131561305917.
+Txn 36 created by 1 sender balance 23 amount 4 and added in its mempool at 24.352178563619976.
+Txn 37 created by 5 sender balance 19 amount 5 and added in its mempool at 25.408847296257683.
+Txn 38 created by 5 sender balance 19 amount 2 and added in its mempool at 26.462064275146126.
+Txn 39 created by 2 sender balance 11 amount 4 and added in its mempool at 28.353410666815805.
+Txn 40 created by 6 sender balance 17 amount 4 and added in its mempool at 28.353649257314643.
+Txn 41 created by 5 sender balance 19 amount 1 and added in its mempool at 28.525179518853438.
+Peer 3 starts mining at 28.52865940539985.
+Txn 42 created by 6 sender balance 17 amount 2 and added in its mempool at 28.73399034146779.
+Txn 43 created by 3 sender balance 17 amount 4 and added in its mempool at 29.673994432317393.
+Txn 44 created by 1 sender balance 23 amount 3 and added in its mempool at 30.27168393847218.
+Txn 45 created by 0 sender balance 14 amount 5 and added in its mempool at 30.549240915106758.
+Txn 46 created by 4 sender balance 24 amount 5 and added in its mempool at 31.314442185578017.
+Txn 47 created by 0 sender balance 14 amount 3 and added in its mempool at 32.28994776493067.
+Txn 48 created by 1 sender balance 23 amount 4 and added in its mempool at 33.45727696591353.
+Txn 49 created by 4 sender balance 24 amount 3 and added in its mempool at 34.203070693645884.
+Txn 50 created by 4 sender balance 24 amount 4 and added in its mempool at 36.98573172048009.
+Txn 51 created by 0 sender balance 14 amount 1 and added in its mempool at 37.17419312390118.
+Txn 52 created by 6 sender balance 17 amount 1 and added in its mempool at 37.907279329488944.
+Txn 53 created by 3 sender balance 17 amount 1 and added in its mempool at 38.51500132927276.
+Txn 54 created by 6 sender balance 17 amount 2 and added in its mempool at 39.33763790400086.
+Txn 55 created by 6 sender balance 17 amount 5 and added in its mempool at 39.82177228669696.
+Txn 56 created by 3 sender balance 17 amount 4 and added in its mempool at 40.01962119814085.
+Txn 57 created by 5 sender balance 19 amount 5 and added in its mempool at 41.57440665619501.
+Txn 58 created by 5 sender balance 19 amount 4 and added in its mempool at 41.68777013778992.
+Txn 59 created by 3 sender balance 17 amount 3 and added in its mempool at 42.99704695760952.
+Txn 60 created by 5 sender balance 19 amount 1 and added in its mempool at 44.17496161880913.
+Txn 61 created by 4 sender balance 24 amount 2 and added in its mempool at 44.19156701445839.
+Txn 62 created by 0 sender balance 14 amount 4 and added in its mempool at 46.40601131698767.
+Txn 63 created by 1 sender balance 23 amount 3 and added in its mempool at 46.79860766343772.
+Txn 64 created by 2 sender balance 11 amount 3 and added in its mempool at 46.99372538734022.
+Txn 65 created by 2 sender balance 11 amount 5 and added in its mempool at 47.181295727308175.
+Txn 66 created by 0 sender balance 14 amount 4 and added in its mempool at 47.88612622083708.
+Txn 67 created by 0 sender balance 14 amount 2 and added in its mempool at 48.020011650522264.
+Peer 0 ends mining at 48.42693207438901.
+Longest node 0 for 0 at 48.42693207438901 before mining
+Longest node 0 for 0 at 48.42693207438901 after mining
+Block prev   Block 0 --- prevBlock None --------- mined by None at 0.
+Block 1 mined by 0 and added in its ledger at 48.42693207438901.
+Peer 0 previous ledger [0]
+Peer 0 updated ledger [0, 1]
+Forwarding from generator function -- Block 1 to Peer 6 from Peer 0
+Forwarding from generator function -- Block 1 to Peer 5 from Peer 0
+Forwarding from generator function -- Block 1 to Peer 1 from Peer 0
+Forwarding from generator function -- Block 1 to Peer 3 from Peer 0
+Forwarding from generator function -- Block 1 to Peer 4 from Peer 0
+Forwarding from generator function -- Block 1 to Peer 2 from Peer 0
+ here for txn 0
+ here for txn 1
+ here for txn 2
+ here for txn 3
+ here for txn 4
+ here for txn 5
+ here for txn 6
+ here for txn 7
+ here for txn 9
+ here for txn 8
+ here for txn 10
+ here for txn 11
+ here for txn 12
+ here for txn 13
+ here for txn 14
+ here for txn 15
+ here for txn 16
+ here for txn 17
+ here for txn 18
+ here for txn 19
+ here for txn 20
+ here for txn 21
+ here for txn 22
+ here for txn 24
+ here for txn 23
+ here for txn 25
+ here for txn 26
+ here for txn 27
+ here for txn 28
+ here for txn 29
+ here for txn 32
+ here for txn 30
+ here for txn 31
+ here for txn 33
+ here for txn 34
+ here for txn 35
+ here for txn 36
+ here for txn 37
+ here for txn 38
+ here for txn 41
+ here for txn 40
+ here for txn 39
+ here for txn 42
+ here for txn 43
+ here for txn 45
+ here for txn 44
+ here for txn 46
+ here for txn 47
+ here for txn 48
+ here for txn 49
+ here for txn 51
+ here for txn 50
+ here for txn 52
+ here for txn 53
+ here for txn 54
+ here for txn 55
+ here for txn 56
+ here for txn 57
+ here for txn 58
+ here for txn 59
+ here for txn 60
+ here for txn 61
+ here for txn 62
+ here for txn 63
+ here for txn 64
+ here for txn 65
+ here for txn 66
+ here for txn 67
+ here for txn 68
+Block 1 reached peer 2 and added to its ledger at time 48.70083010145317.
+Peer 2 previuos ledger [0]
+Longest node 0 for 2 at 48.70083010145317
+Peer 2 updated ledger [0, 1]
+Forwarding from forward fucntion-- Block 1 to Peer 6 from Peer 2
+Forwarding from forward fucntion-- Block 1 to Peer 5 from Peer 2
+Forwarding from forward fucntion-- Block 1 to Peer 1 from Peer 2
+Forwarding from forward fucntion-- Block 1 to Peer 3 from Peer 2
+Forwarding from forward fucntion-- Block 1 to Peer 4 from Peer 2
+Block 1 is discarded by peer 5 since Txn 15 is invalid.
+Block 1 is discarded by peer 1 since Txn 15 is invalid.
+Txn 69 created by 1 sender balance 26 amount 4 and added in its mempool at 49.00151990132912.
+Block 1 is discarded by peer 6 since Txn 15 is invalid.
+Block 1 is discarded by peer 3 since Txn 15 is invalid.
+Block 1 is discarded by peer 4 since Txn 15 is invalid.
+Txn 70 created by 3 sender balance 23 amount 5 and added in its mempool at 49.45865501508012.
+Txn 71 created by 5 sender balance 2 amount 4 and added in its mempool at 49.5803779303786.
+Txn 72 created by 4 sender balance 33 amount 4 and added in its mempool at 49.58917443957437.
+Txn 73 created by 2 sender balance 17 amount 5 and added in its mempool at 49.820394153858324.
+Txn 74 created by 2 sender balance 17 amount 5 and added in its mempool at 51.164117788537276.
+Peer 2 ends mining at 51.50540077046108.
+Peer 2 was slow in mining someone else mined first.
+Longest node 0 for 2 at 51.50540077046108 before mining
+Longest node 1 for 2 at 51.50540077046108 after mining
+Block prev   Block 0 --- prevBlock None --------- mined by None at 0.
+Block 2 mined by 2 and added in its ledger at 51.50540077046108.
+Peer 2 previous ledger [0, 1]
+Peer 2 updated ledger [0, 1, 2]
+Forwarding from generator function -- Block 2 to Peer 6 from Peer 2
+Forwarding from generator function -- Block 2 to Peer 5 from Peer 2
+Forwarding from generator function -- Block 2 to Peer 1 from Peer 2
+Forwarding from generator function -- Block 2 to Peer 3 from Peer 2
+Forwarding from generator function -- Block 2 to Peer 4 from Peer 2
+Forwarding from generator function -- Block 2 to Peer 0 from Peer 2
+Txn 76 created by 1 sender balance 26 amount 1 and added in its mempool at 51.611077705910574.
+Peer 2 starts mining at 51.729048026216.
+Block 2 is discarded by peer 0 since Txn 15 is invalid.
+Peer 0 starts mining at 51.94224692629614.
+Txn 77 created by 5 sender balance 2 amount 2 and added in its mempool at 52.3843521389137.
+Txn 78 created by 5 sender balance 2 amount 5 and added in its mempool at 52.416352850456114.
+Txn 79 created by 5 sender balance 2 amount 4 and added in its mempool at 52.514692211155996.
+Txn 80 created by 3 sender balance 23 amount 4 and added in its mempool at 52.76750714077087.
+Txn 81 created by 5 sender balance 2 amount 1 and added in its mempool at 53.810530851587345.
+Txn 82 created by 3 sender balance 23 amount 5 and added in its mempool at 54.15674723517577.
+Txn 83 created by 1 sender balance 26 amount 5 and added in its mempool at 54.18716684297777.
+Txn 84 created by 1 sender balance 26 amount 4 and added in its mempool at 54.27122067278947.
+Txn 85 created by 3 sender balance 23 amount 3 and added in its mempool at 54.91328291251801.
+Txn 86 created by 0 sender balance 67 amount 5 and added in its mempool at 56.476730192090635.
+Txn 87 created by 1 sender balance 26 amount 5 and added in its mempool at 58.027110461527194.
+Txn 88 created by 5 sender balance 2 amount 5 and added in its mempool at 58.11704256280286.
+Txn 89 created by 5 sender balance 2 amount 5 and added in its mempool at 58.33690717468981.
+Peer 5 ends mining at 59.16780683428026.
+Longest node 0 for 5 at 59.16780683428026 before mining
+Longest node 0 for 5 at 59.16780683428026 after mining
+Block prev   Block 0 --- prevBlock None --------- mined by None at 0.
+Block 3 mined by 5 and added in its ledger at 59.16780683428026.
+Peer 5 previous ledger [0]
+Peer 5 updated ledger [0, 3]
+Forwarding from generator function -- Block 3 to Peer 6 from Peer 5
+Forwarding from generator function -- Block 3 to Peer 1 from Peer 5
+Forwarding from generator function -- Block 3 to Peer 3 from Peer 5
+Forwarding from generator function -- Block 3 to Peer 2 from Peer 5
+Forwarding from generator function -- Block 3 to Peer 0 from Peer 5
+ here for txn 0
+ here for txn 1
+ here for txn 2
+ here for txn 3
+ here for txn 4
+ here for txn 5
+ here for txn 6
+ here for txn 7
+ here for txn 9
+ here for txn 10
+ here for txn 8
+ here for txn 11
+ here for txn 12
+ here for txn 13
+ here for txn 14
+ here for txn 15
+ here for txn 16
+ here for txn 17
+ here for txn 18
+ here for txn 19
+ here for txn 20
+ here for txn 21
+ here for txn 22
+ here for txn 24
+ here for txn 25
+ here for txn 23
+ here for txn 26
+ here for txn 27
+ here for txn 28
+ here for txn 29
+ here for txn 32
+ here for txn 30
+ here for txn 31
+ here for txn 33
+ here for txn 34
+ here for txn 35
+ here for txn 36
+ here for txn 37
+ here for txn 38
+ here for txn 41
+ here for txn 40
+ here for txn 39
+ here for txn 42
+ here for txn 43
+ here for txn 45
+ here for txn 44
+ here for txn 46
+ here for txn 47
+ here for txn 48
+ here for txn 49
+ here for txn 51
+ here for txn 50
+ here for txn 52
+ here for txn 53
+ here for txn 54
+ here for txn 55
+ here for txn 56
+ here for txn 57
+ here for txn 58
+ here for txn 59
+ here for txn 60
+ here for txn 61
+ here for txn 62
+ here for txn 63
+ here for txn 64
+ here for txn 65
+ here for txn 66
+ here for txn 67
+ here for txn 69
+ here for txn 71
+ here for txn 70
+ here for txn 73
+ here for txn 72
+ here for txn 74
+ here for txn 76
+ here for txn 77
+ here for txn 78
+ here for txn 79
+ here for txn 80
+ here for txn 81
+ here for txn 82
+ here for txn 83
+ here for txn 84
+ here for txn 85
+ here for txn 86
+ here for txn 88
+ here for txn 89
+ here for txn 87
+ here for txn 90
+Block 3 reached peer 0 and added to its ledger at time 59.24748093481259.
+Peer 0 previuos ledger [0, 1]
+Longest node 1 for 0 at 59.24748093481259
+Peer 0 updated ledger [0, 1, 3]
+Forwarding from forward fucntion-- Block 3 to Peer 6 from Peer 0
+Forwarding from forward fucntion-- Block 3 to Peer 1 from Peer 0
+Forwarding from forward fucntion-- Block 3 to Peer 3 from Peer 0
+Forwarding from forward fucntion-- Block 3 to Peer 4 from Peer 0
+Forwarding from forward fucntion-- Block 3 to Peer 2 from Peer 0
+ here for txn 0
+ here for txn 1
+ here for txn 2
+ here for txn 3
+ here for txn 4
+ here for txn 5
+ here for txn 6
+ here for txn 7
+ here for txn 9
+ here for txn 10
+ here for txn 8
+ here for txn 11
+ here for txn 12
+ here for txn 13
+ here for txn 14
+ here for txn 15
+ here for txn 16
+ here for txn 17
+ here for txn 18
+ here for txn 19
+ here for txn 20
+ here for txn 21
+ here for txn 22
+ here for txn 24
+ here for txn 25
+ here for txn 23
+ here for txn 26
+ here for txn 27
+ here for txn 28
+ here for txn 29
+ here for txn 32
+ here for txn 30
+ here for txn 31
+ here for txn 33
+ here for txn 34
+ here for txn 35
+ here for txn 36
+ here for txn 37
+ here for txn 38
+ here for txn 41
+ here for txn 40
+ here for txn 39
+ here for txn 42
+ here for txn 43
+ here for txn 45
+ here for txn 44
+ here for txn 46
+ here for txn 47
+ here for txn 48
+ here for txn 49
+ here for txn 51
+ here for txn 50
+ here for txn 52
+ here for txn 53
+ here for txn 54
+ here for txn 55
+ here for txn 56
+ here for txn 57
+ here for txn 58
+ here for txn 59
+ here for txn 60
+ here for txn 61
+ here for txn 62
+ here for txn 63
+ here for txn 64
+ here for txn 65
+ here for txn 66
+ here for txn 67
+ here for txn 69
+ here for txn 71
+ here for txn 70
+ here for txn 73
+ here for txn 72
+ here for txn 74
+ here for txn 76
+ here for txn 77
+ here for txn 78
+ here for txn 79
+ here for txn 80
+ here for txn 81
+ here for txn 82
+ here for txn 83
+ here for txn 84
+ here for txn 85
+ here for txn 86
+ here for txn 88
+ here for txn 89
+ here for txn 87
+ here for txn 90
+Block 3 reached peer 3 and added to its ledger at time 59.466349513316615.
+Peer 3 previuos ledger [0]
+Longest node 0 for 3 at 59.466349513316615
+Peer 3 updated ledger [0, 3]
+Forwarding from forward fucntion-- Block 3 to Peer 2 from Peer 3
+Forwarding from forward fucntion-- Block 3 to Peer 1 from Peer 3
+Block 3 is discarded by peer 2 since Txn 37 is invalid.
+Block 3 is discarded by peer 1 since Txn 37 is invalid.
+Block 3 is discarded by peer 6 since Txn 37 is invalid.
+Block 3 is discarded by peer 4 since Txn 37 is invalid.
+Block 3 is discarded by peer 2 since Txn 37 is invalid.
+Block 3 is discarded by peer 1 since Txn 37 is invalid.
+Txn 91 created by 3 sender balance 5 amount 4 and added in its mempool at 61.77777739126192.
+Txn 92 created by 5 sender balance 4 amount 5 and added in its mempool at 61.78108971935304.
+Txn 93 created by 6 sender balance 7 amount 2 and added in its mempool at 62.01540385514262.
+Txn 94 created by 6 sender balance 7 amount 3 and added in its mempool at 62.675665926257615.
+Txn 95 created by 3 sender balance 5 amount 3 and added in its mempool at 63.824248827626576.
+Txn 96 created by 0 sender balance 89 amount 5 and added in its mempool at 63.89133134701495.
+Txn 97 created by 5 sender balance 4 amount 4 and added in its mempool at 66.25208675219682.
+Txn 98 created by 4 sender balance 69 amount 3 and added in its mempool at 66.51588224730848.
+Peer 2 ends mining at 66.59943316371461.
+Longest node 1 for 2 at 66.59943316371461 before mining
+Longest node 1 for 2 at 66.59943316371461 after mining
+Block prev   Block 1 --- prevBlock 0 --------- mined by 0 at 48.42693207438901.
+Block 4 mined by 2 and added in its ledger at 66.59943316371461.
+Peer 2 previous ledger [0, 1, 2]
+Peer 2 updated ledger [0, 1, 2, 4]
+Forwarding from generator function -- Block 4 to Peer 6 from Peer 2
+Forwarding from generator function -- Block 4 to Peer 5 from Peer 2
+Forwarding from generator function -- Block 4 to Peer 1 from Peer 2
+Forwarding from generator function -- Block 4 to Peer 3 from Peer 2
+Forwarding from generator function -- Block 4 to Peer 4 from Peer 2
+Forwarding from generator function -- Block 4 to Peer 0 from Peer 2
+Block 4 is discarded by peer 0 since Txn 78 is invalid.
+Txn 100 created by 0 sender balance 89 amount 5 and added in its mempool at 67.32549813671955.
+Txn 101 created by 5 sender balance 4 amount 4 and added in its mempool at 67.44738679053069.
+Txn 102 created by 2 sender balance 127 amount 5 and added in its mempool at 67.83882365041707.
+Txn 103 created by 2 sender balance 127 amount 4 and added in its mempool at 68.51233114039077.
+Txn 104 created by 1 sender balance 24 amount 3 and added in its mempool at 69.87062626505187.
+Txn 105 created by 0 sender balance 89 amount 2 and added in its mempool at 70.59429384914546.
+Txn 106 created by 3 sender balance 5 amount 3 and added in its mempool at 70.8677484557188.
+Txn 107 created by 1 sender balance 24 amount 2 and added in its mempool at 70.94942098674763.
+Txn 108 created by 2 sender balance 127 amount 4 and added in its mempool at 71.85693018928406.
+Txn 109 created by 1 sender balance 24 amount 5 and added in its mempool at 72.10519923771533.
+Txn 110 created by 1 sender balance 24 amount 4 and added in its mempool at 72.55529013536156.
+Txn 111 created by 5 sender balance 4 amount 2 and added in its mempool at 72.84903385906027.
+Peer 5 starts mining at 72.87690973856255.
+Txn 112 created by 0 sender balance 89 amount 5 and added in its mempool at 73.6434013639997.
+Txn 113 created by 5 sender balance 4 amount 2 and added in its mempool at 74.83881437275477.
+Txn 114 created by 4 sender balance 69 amount 2 and added in its mempool at 75.0105409320488.
+Txn 115 created by 4 sender balance 69 amount 5 and added in its mempool at 75.21707544251261.
+Txn 116 created by 0 sender balance 89 amount 5 and added in its mempool at 77.11398980905527.
+Txn 117 created by 4 sender balance 69 amount 5 and added in its mempool at 77.22490314183199.
+Txn 118 created by 1 sender balance 24 amount 3 and added in its mempool at 77.44154404315836.
+Txn 119 created by 3 sender balance 5 amount 3 and added in its mempool at 77.4540924757118.
+Txn 120 created by 1 sender balance 24 amount 1 and added in its mempool at 77.8465465705777.
+Txn 121 created by 5 sender balance 4 amount 3 and added in its mempool at 78.02974995914211.
+Txn 122 created by 3 sender balance 5 amount 5 and added in its mempool at 78.04245373563772.
+Peer 2 starts mining at 78.46242361563013.
+Txn 123 created by 2 sender balance 127 amount 3 and added in its mempool at 78.58498453313118.
+Txn 124 created by 2 sender balance 127 amount 4 and added in its mempool at 79.45917555399839.
+Txn 125 created by 2 sender balance 127 amount 1 and added in its mempool at 80.1047049019221.
+Txn 126 created by 4 sender balance 69 amount 2 and added in its mempool at 80.3061023527319.
+Txn 127 created by 0 sender balance 89 amount 1 and added in its mempool at 80.98387099202786.
+Txn 128 created by 1 sender balance 24 amount 2 and added in its mempool at 81.40378032502355.
+Txn 129 created by 3 sender balance 5 amount 5 and added in its mempool at 81.89536347392517.
+Txn 130 created by 3 sender balance 5 amount 1 and added in its mempool at 82.10382599354374.
+Txn 131 created by 3 sender balance 5 amount 2 and added in its mempool at 82.46877095992338.
+Txn 132 created by 4 sender balance 69 amount 4 and added in its mempool at 82.67627935462399.
+Txn 133 created by 1 sender balance 24 amount 4 and added in its mempool at 83.39612296917132.
+Txn 134 created by 6 sender balance 7 amount 5 and added in its mempool at 83.42829942187898.
+Txn 135 created by 3 sender balance 5 amount 4 and added in its mempool at 83.9509503557178.
+Txn 136 created by 4 sender balance 69 amount 4 and added in its mempool at 84.17127597954311.
+Txn 137 created by 4 sender balance 69 amount 5 and added in its mempool at 84.19359472240441.
+Txn 138 created by 1 sender balance 24 amount 2 and added in its mempool at 84.805898814088.
+Txn 139 created by 0 sender balance 89 amount 4 and added in its mempool at 84.95352618255741.
+Txn 140 created by 4 sender balance 69 amount 5 and added in its mempool at 85.20857717209968.
+Txn 141 created by 6 sender balance 7 amount 5 and added in its mempool at 85.69532083543312.
+Txn 142 created by 5 sender balance 4 amount 5 and added in its mempool at 86.89459552122666.
+Txn 143 created by 0 sender balance 89 amount 3 and added in its mempool at 87.72630942885782.
+Txn 144 created by 0 sender balance 89 amount 2 and added in its mempool at 87.77081411819383.
+Txn 145 created by 0 sender balance 89 amount 3 and added in its mempool at 87.79503001925657.
+Txn 146 created by 6 sender balance 7 amount 3 and added in its mempool at 88.93905698629152.
+Txn 147 created by 1 sender balance 24 amount 5 and added in its mempool at 89.82399614528991.
+Txn 148 created by 2 sender balance 127 amount 3 and added in its mempool at 90.81725310455076.
+Txn 149 created by 5 sender balance 4 amount 2 and added in its mempool at 90.92670216879777.
+Txn 150 created by 0 sender balance 89 amount 1 and added in its mempool at 91.25923489114132.
+Txn 151 created by 6 sender balance 7 amount 2 and added in its mempool at 91.54755148872619.
+Txn 152 created by 0 sender balance 89 amount 5 and added in its mempool at 92.02922280254711.
+Txn 153 created by 3 sender balance 5 amount 2 and added in its mempool at 93.08640991272381.
+Txn 154 created by 3 sender balance 5 amount 3 and added in its mempool at 93.1922422578044.
+Txn 155 created by 5 sender balance 4 amount 5 and added in its mempool at 93.29702861316593.
+Txn 156 created by 5 sender balance 4 amount 1 and added in its mempool at 94.53897621285188.
+Txn 157 created by 1 sender balance 24 amount 4 and added in its mempool at 95.1409526663669.
+Txn 158 created by 5 sender balance 4 amount 3 and added in its mempool at 95.27978639095309.
+Txn 159 created by 3 sender balance 5 amount 1 and added in its mempool at 96.65049078968492.
+Txn 160 created by 3 sender balance 5 amount 2 and added in its mempool at 96.77346463863897.
+Txn 161 created by 6 sender balance 7 amount 4 and added in its mempool at 98.68216520288554.
+Txn 162 created by 6 sender balance 7 amount 2 and added in its mempool at 99.34899469342744.
+Txn 163 created by 1 sender balance 24 amount 3 and added in its mempool at 99.64155716950467.
+0 False 0.16393442622950818 89
+
+1 False 0.16393442622950818 24
+
+2 False 0.16393442622950818 127
+
+3 False 0.16393442622950818 5
+
+4 True 0.016393442622950817 69
+
+5 False 0.16393442622950818 4
+
+6 False 0.16393442622950818 7
+
+Peer 0 blockchain tree
+	  Block 3 --- prevBlock 0 --------- mined by 5 at 59.16780683428026.
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 1 --- prevBlock 0 --------- mined by 0 at 48.42693207438901.
+Peer 1 blockchain tree
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+Peer 2 blockchain tree
+	  Block 4 --- prevBlock 1 --------- mined by 2 at 66.59943316371461.
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 1 --- prevBlock 0 --------- mined by 0 at 48.42693207438901.
+	  Block 2 --- prevBlock 0 --------- mined by 2 at 51.50540077046108.
+Peer 3 blockchain tree
+	  Block 3 --- prevBlock 0 --------- mined by 5 at 59.16780683428026.
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+Peer 4 blockchain tree
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+Peer 5 blockchain tree
+	  Block 3 --- prevBlock 0 --------- mined by 5 at 59.16780683428026.
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+Peer 6 blockchain tree
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+------------------------------------The end--------------------------------------------
+Block prev  None
+Txn 0 created by 6 sender balance 20 amount 5 and added in its mempool at 0.38183339806535865.
+Txn 1 created by 3 sender balance 24 amount 4 and added in its mempool at 0.5893880652970844.
+Txn 2 created by 6 sender balance 20 amount 4 and added in its mempool at 0.9868125058690482.
+Txn 3 created by 6 sender balance 20 amount 2 and added in its mempool at 1.7351621354759055.
+Peer 0 starts mining at 2.14337795971311.
+Txn 4 created by 2 sender balance 22 amount 4 and added in its mempool at 2.2589741654132296.
+Txn 5 created by 4 sender balance 14 amount 4 and added in its mempool at 2.3262773020138563.
+Txn 6 created by 2 sender balance 22 amount 1 and added in its mempool at 4.009056447412591.
+Peer 2 starts mining at 5.216115680644274.
+Txn 7 created by 3 sender balance 24 amount 4 and added in its mempool at 5.370010630878109.
+Txn 8 created by 0 sender balance 25 amount 3 and added in its mempool at 5.4254808300332025.
+Txn 9 created by 4 sender balance 14 amount 5 and added in its mempool at 5.537703703185207.
+Txn 10 created by 4 sender balance 14 amount 1 and added in its mempool at 5.700279919738883.
+Txn 11 created by 4 sender balance 14 amount 4 and added in its mempool at 6.9223113270960965.
+Txn 12 created by 2 sender balance 22 amount 3 and added in its mempool at 7.1027815172135345.
+Txn 13 created by 5 sender balance 22 amount 2 and added in its mempool at 7.3040325331776375.
+Txn 14 created by 6 sender balance 20 amount 5 and added in its mempool at 7.517161004043107.
+Txn 15 created by 3 sender balance 24 amount 1 and added in its mempool at 7.5696853825369095.
+Txn 16 created by 6 sender balance 20 amount 5 and added in its mempool at 8.012512061137285.
+Txn 17 created by 5 sender balance 22 amount 1 and added in its mempool at 8.327200609090676.
+Txn 18 created by 4 sender balance 14 amount 2 and added in its mempool at 8.383918743362486.
+Txn 19 created by 2 sender balance 22 amount 5 and added in its mempool at 8.518559734536998.
+Peer 1 starts mining at 8.854445019089075.
+Txn 20 created by 3 sender balance 24 amount 2 and added in its mempool at 8.89308874307126.
+Txn 21 created by 0 sender balance 25 amount 4 and added in its mempool at 9.698076396477864.
+Txn 22 created by 3 sender balance 24 amount 1 and added in its mempool at 10.082858548905705.
+Peer 4 starts mining at 10.941675458295933.
+Txn 23 created by 6 sender balance 20 amount 1 and added in its mempool at 11.44508979029342.
+Txn 24 created by 2 sender balance 22 amount 3 and added in its mempool at 11.487289912711951.
+Txn 25 created by 3 sender balance 24 amount 5 and added in its mempool at 11.872126173199332.
+Txn 26 created by 3 sender balance 24 amount 5 and added in its mempool at 12.073001586025223.
+Txn 27 created by 0 sender balance 25 amount 5 and added in its mempool at 12.151285359223534.
+Peer 5 starts mining at 12.601106361907025.
+Txn 28 created by 2 sender balance 22 amount 1 and added in its mempool at 12.791267705159393.
+Txn 29 created by 4 sender balance 14 amount 4 and added in its mempool at 12.957084010176636.
+Peer 1 ends mining at 13.773641306453829.
+Longest node 0 for 1 at 13.773641306453829 before mining
+Longest node 0 for 1 at 13.773641306453829 after mining
+Block prev   Block 0 --- prevBlock None --------- mined by None at 0.
+Block 1 mined by 1 and added in its ledger at 13.773641306453829.
+Peer 1 previous ledger [0]
+Peer 1 updated ledger [0, 1]
+Forwarding from generator function -- Block 1 to Peer 2 from Peer 1
+Forwarding from generator function -- Block 1 to Peer 4 from Peer 1
+Forwarding from generator function -- Block 1 to Peer 6 from Peer 1
+Forwarding from generator function -- Block 1 to Peer 3 from Peer 1
+Forwarding from generator function -- Block 1 to Peer 0 from Peer 1
+ here for txn 0
+ here for txn 1
+ here for txn 2
+ here for txn 3
+ here for txn 4
+ here for txn 5
+ here for txn 6
+ here for txn 8
+ here for txn 7
+ here for txn 9
+ here for txn 10
+ here for txn 11
+ here for txn 12
+ here for txn 13
+ here for txn 15
+ here for txn 14
+ here for txn 16
+ here for txn 17
+ here for txn 19
+ here for txn 18
+ here for txn 20
+ here for txn 21
+ here for txn 22
+ here for txn 24
+ here for txn 23
+ here for txn 25
+ here for txn 27
+ here for txn 26
+ here for txn 28
+ here for txn 29
+ here for txn 30
+Block 1 reached peer 0 and added to its ledger at time 13.828158315600549.
+Peer 0 previuos ledger [0]
+Longest node 0 for 0 at 13.828158315600549
+Peer 0 updated ledger [0, 1]
+Forwarding from forward fucntion-- Block 1 to Peer 2 from Peer 0
+Forwarding from forward fucntion-- Block 1 to Peer 4 from Peer 0
+Forwarding from forward fucntion-- Block 1 to Peer 6 from Peer 0
+Forwarding from forward fucntion-- Block 1 to Peer 3 from Peer 0
+Forwarding from forward fucntion-- Block 1 to Peer 5 from Peer 0
+Block 1 is discarded by peer 3 since Txn 0 is invalid.
+Block 1 is discarded by peer 4 since Txn 0 is invalid.
+Block 1 is discarded by peer 6 since Txn 0 is invalid.
+Block 1 is discarded by peer 5 since Txn 0 is invalid.
+Block 1 is discarded by peer 2 since Txn 0 is invalid.
+Txn 31 created by 6 sender balance 4 amount 2 and added in its mempool at 14.30640717459122.
+Txn 32 created by 4 sender balance 8 amount 3 and added in its mempool at 14.490587407832393.
+Txn 33 created by 4 sender balance 8 amount 5 and added in its mempool at 14.966281477791112.
+Txn 34 created by 1 sender balance 81 amount 3 and added in its mempool at 15.38093933881048.
+Txn 35 created by 4 sender balance 8 amount 2 and added in its mempool at 15.993662936822512.
+Txn 36 created by 1 sender balance 81 amount 2 and added in its mempool at 16.13822197429151.
+Txn 37 created by 5 sender balance 30 amount 3 and added in its mempool at 16.39801856679415.
+Txn 38 created by 1 sender balance 81 amount 4 and added in its mempool at 16.410565255044983.
+Txn 39 created by 6 sender balance 4 amount 4 and added in its mempool at 16.57889435795313.
+Peer 1 starts mining at 17.504984499132348.
+Txn 40 created by 1 sender balance 81 amount 1 and added in its mempool at 18.028439162737893.
+Txn 41 created by 0 sender balance 33 amount 1 and added in its mempool at 18.36601925604522.
+Txn 42 created by 4 sender balance 8 amount 1 and added in its mempool at 18.620629600460312.
+Peer 3 starts mining at 18.879986737475505.
+Txn 43 created by 6 sender balance 4 amount 3 and added in its mempool at 19.540746462750807.
+Txn 44 created by 2 sender balance 24 amount 3 and added in its mempool at 19.554880475255867.
+Txn 45 created by 0 sender balance 33 amount 5 and added in its mempool at 20.684704205563452.
+Txn 46 created by 6 sender balance 4 amount 1 and added in its mempool at 20.68541452046376.
+Txn 47 created by 0 sender balance 33 amount 3 and added in its mempool at 20.785851078138105.
+Txn 48 created by 5 sender balance 30 amount 2 and added in its mempool at 21.272417858250897.
+Txn 49 created by 0 sender balance 33 amount 2 and added in its mempool at 21.293403154612566.
+Txn 50 created by 3 sender balance 14 amount 3 and added in its mempool at 21.54722097787917.
+Txn 51 created by 2 sender balance 24 amount 5 and added in its mempool at 22.458472637396703.
+Txn 52 created by 4 sender balance 8 amount 4 and added in its mempool at 22.520354484076883.
+Txn 53 created by 0 sender balance 33 amount 4 and added in its mempool at 22.759012445635168.
+Txn 54 created by 2 sender balance 24 amount 5 and added in its mempool at 23.243421733603455.
+Txn 55 created by 2 sender balance 24 amount 5 and added in its mempool at 23.364734164173427.
+Txn 56 created by 1 sender balance 81 amount 1 and added in its mempool at 23.44438832745101.
+Txn 57 created by 0 sender balance 33 amount 2 and added in its mempool at 24.044209472960613.
+Txn 58 created by 6 sender balance 4 amount 4 and added in its mempool at 24.14953701214283.
+Txn 59 created by 2 sender balance 24 amount 5 and added in its mempool at 24.31924527959924.
+Txn 60 created by 3 sender balance 14 amount 4 and added in its mempool at 24.965054672767533.
+Txn 61 created by 5 sender balance 30 amount 1 and added in its mempool at 25.43257831496879.
+Txn 62 created by 3 sender balance 14 amount 5 and added in its mempool at 26.163044256230858.
+Txn 63 created by 6 sender balance 4 amount 3 and added in its mempool at 27.414546853520978.
+Txn 64 created by 1 sender balance 81 amount 4 and added in its mempool at 30.3652393219862.
+Txn 65 created by 6 sender balance 4 amount 2 and added in its mempool at 32.070528593084795.
+Txn 66 created by 6 sender balance 4 amount 3 and added in its mempool at 32.72844780965439.
+Txn 67 created by 4 sender balance 8 amount 4 and added in its mempool at 32.84945110743581.
+Txn 68 created by 5 sender balance 30 amount 1 and added in its mempool at 32.93066592500361.
+Txn 69 created by 0 sender balance 33 amount 4 and added in its mempool at 32.99854441189777.
+Peer 6 starts mining at 33.30769634370538.
+Txn 70 created by 3 sender balance 14 amount 5 and added in its mempool at 33.90672931268365.
+Peer 6 ends mining at 34.026854007222575.
+Longest node 0 for 6 at 34.026854007222575 before mining
+Longest node 0 for 6 at 34.026854007222575 after mining
+Block prev   Block 0 --- prevBlock None --------- mined by None at 0.
+Block 2 mined by 6 and added in its ledger at 34.026854007222575.
+Peer 6 previous ledger [0]
+Peer 6 updated ledger [0, 2]
+Forwarding from generator function -- Block 2 to Peer 2 from Peer 6
+Forwarding from generator function -- Block 2 to Peer 4 from Peer 6
+Forwarding from generator function -- Block 2 to Peer 0 from Peer 6
+Forwarding from generator function -- Block 2 to Peer 1 from Peer 6
+Forwarding from generator function -- Block 2 to Peer 5 from Peer 6
+Txn 72 created by 0 sender balance 33 amount 3 and added in its mempool at 34.13471379577362.
+ here for txn 0
+ here for txn 1
+ here for txn 2
+ here for txn 3
+ here for txn 4
+ here for txn 5
+ here for txn 6
+ here for txn 7
+ here for txn 8
+ here for txn 9
+ here for txn 10
+ here for txn 11
+ here for txn 12
+ here for txn 13
+ here for txn 14
+ here for txn 15
+ here for txn 16
+ here for txn 17
+ here for txn 18
+ here for txn 19
+ here for txn 20
+ here for txn 21
+ here for txn 22
+ here for txn 23
+ here for txn 24
+ here for txn 25
+ here for txn 26
+ here for txn 27
+ here for txn 28
+ here for txn 29
+ here for txn 31
+ here for txn 32
+ here for txn 33
+ here for txn 34
+ here for txn 35
+ here for txn 36
+ here for txn 37
+ here for txn 39
+ here for txn 38
+ here for txn 40
+ here for txn 41
+ here for txn 42
+ here for txn 43
+ here for txn 44
+ here for txn 46
+ here for txn 45
+ here for txn 47
+ here for txn 48
+ here for txn 49
+ here for txn 50
+ here for txn 51
+ here for txn 52
+ here for txn 53
+ here for txn 54
+ here for txn 55
+ here for txn 56
+ here for txn 58
+ here for txn 57
+ here for txn 59
+ here for txn 60
+ here for txn 61
+ here for txn 62
+ here for txn 63
+ here for txn 64
+ here for txn 65
+ here for txn 66
+ here for txn 68
+ here for txn 67
+ here for txn 69
+ here for txn 71
+Block 2 reached peer 5 and added to its ledger at time 34.26734215825966.
+Peer 5 previuos ledger [0]
+Longest node 0 for 5 at 34.26734215825966
+Peer 5 updated ledger [0, 2]
+Forwarding from forward fucntion-- Block 2 to Peer 2 from Peer 5
+Forwarding from forward fucntion-- Block 2 to Peer 0 from Peer 5
+Block 2 is discarded by peer 2 since Txn 5 is invalid.
+Block 2 is discarded by peer 0 since Txn 5 is invalid.
+Txn 73 created by 3 sender balance 5 amount 2 and added in its mempool at 35.205912658300946.
+Txn 74 created by 5 sender balance 56 amount 1 and added in its mempool at 35.359878400606284.
+Txn 75 created by 4 sender balance -2 amount 1 and added in its mempool at 35.8028848745766.
+Txn 76 created by 1 sender balance 89 amount 3 and added in its mempool at 35.84017426061571.
+Txn 77 created by 3 sender balance 5 amount 3 and added in its mempool at 37.11715745730906.
+Txn 78 created by 2 sender balance 11 amount 5 and added in its mempool at 37.52531470888604.
+Txn 79 created by 6 sender balance 42 amount 2 and added in its mempool at 38.29568220736485.
+Txn 80 created by 2 sender balance 11 amount 5 and added in its mempool at 38.32775226404643.
+Txn 81 created by 5 sender balance 56 amount 2 and added in its mempool at 40.38020639780709.
+Txn 82 created by 5 sender balance 56 amount 3 and added in its mempool at 41.116272443451216.
+Txn 83 created by 6 sender balance 42 amount 5 and added in its mempool at 42.07265869208904.
+Txn 84 created by 0 sender balance 43 amount 2 and added in its mempool at 42.19177970712367.
+Txn 85 created by 6 sender balance 42 amount 1 and added in its mempool at 43.75708168277273.
+Txn 86 created by 5 sender balance 56 amount 2 and added in its mempool at 46.14046020990133.
+Txn 87 created by 0 sender balance 43 amount 3 and added in its mempool at 46.177943508560354.
+Txn 88 created by 1 sender balance 89 amount 5 and added in its mempool at 46.322200013467544.
+Peer 6 starts mining at 46.90249348430876.
+Txn 89 created by 4 sender balance -2 amount 4 and added in its mempool at 47.08028392050457.
+Txn 90 created by 1 sender balance 89 amount 5 and added in its mempool at 47.44346698600364.
+Txn 91 created by 1 sender balance 89 amount 5 and added in its mempool at 50.07061754771581.
+Txn 92 created by 5 sender balance 56 amount 1 and added in its mempool at 50.80824754430063.
+Txn 93 created by 4 sender balance -2 amount 1 and added in its mempool at 52.194054763022976.
+Txn 94 created by 3 sender balance 5 amount 3 and added in its mempool at 53.56900867237687.
+Txn 95 created by 2 sender balance 11 amount 5 and added in its mempool at 56.51204540805077.
+Txn 96 created by 1 sender balance 89 amount 2 and added in its mempool at 58.01992218604809.
+Txn 97 created by 6 sender balance 42 amount 4 and added in its mempool at 58.22434204923485.
+Txn 98 created by 1 sender balance 89 amount 2 and added in its mempool at 58.76790818095977.
+Txn 99 created by 3 sender balance 5 amount 2 and added in its mempool at 59.29992883604072.
+Txn 100 created by 1 sender balance 89 amount 1 and added in its mempool at 59.42440148169766.
+Txn 101 created by 3 sender balance 5 amount 5 and added in its mempool at 60.77770923548845.
+Txn 102 created by 6 sender balance 42 amount 1 and added in its mempool at 61.335578527613876.
+Txn 103 created by 2 sender balance 11 amount 2 and added in its mempool at 61.60244965932585.
+Txn 104 created by 6 sender balance 42 amount 3 and added in its mempool at 62.63476548188105.
+Txn 105 created by 0 sender balance 43 amount 4 and added in its mempool at 62.65332592483326.
+Txn 106 created by 2 sender balance 11 amount 5 and added in its mempool at 63.617551751441056.
+Txn 107 created by 3 sender balance 5 amount 1 and added in its mempool at 63.83921736008396.
+Txn 108 created by 5 sender balance 56 amount 1 and added in its mempool at 65.45649847985553.
+Txn 109 created by 3 sender balance 5 amount 2 and added in its mempool at 65.71138269423467.
+Txn 110 created by 6 sender balance 42 amount 1 and added in its mempool at 67.46796327306646.
+Txn 111 created by 2 sender balance 11 amount 5 and added in its mempool at 68.42363517147167.
+Txn 112 created by 1 sender balance 89 amount 3 and added in its mempool at 69.4623500919659.
+Txn 113 created by 6 sender balance 42 amount 5 and added in its mempool at 69.51032447185109.
+Txn 114 created by 1 sender balance 89 amount 5 and added in its mempool at 69.56240385243885.
+Txn 115 created by 1 sender balance 89 amount 3 and added in its mempool at 73.02672400568304.
+Txn 116 created by 4 sender balance -2 amount 2 and added in its mempool at 73.2067544889995.
+Txn 117 created by 1 sender balance 89 amount 3 and added in its mempool at 73.76165284033083.
+Txn 118 created by 3 sender balance 5 amount 3 and added in its mempool at 74.2205873638021.
+Txn 119 created by 2 sender balance 11 amount 3 and added in its mempool at 75.72171289549982.
+Peer 3 ends mining at 75.76359513547604.
+Longest node 0 for 3 at 75.76359513547604 before mining
+Longest node 0 for 3 at 75.76359513547604 after mining
+Block prev   Block 0 --- prevBlock None --------- mined by None at 0.
+Block 3 mined by 3 and added in its ledger at 75.76359513547604.
+Peer 3 previous ledger [0]
+Peer 3 updated ledger [0, 3]
+Forwarding from generator function -- Block 3 to Peer 2 from Peer 3
+Forwarding from generator function -- Block 3 to Peer 4 from Peer 3
+Forwarding from generator function -- Block 3 to Peer 1 from Peer 3
+Forwarding from generator function -- Block 3 to Peer 0 from Peer 3
+Txn 121 created by 6 sender balance 42 amount 3 and added in its mempool at 75.85451247114688.
+Block 3 is discarded by peer 0 since Txn 5 is invalid.
+Txn 122 created by 5 sender balance 56 amount 3 and added in its mempool at 76.5815761233944.
+Txn 123 created by 6 sender balance 42 amount 2 and added in its mempool at 77.77520599007038.
+Txn 124 created by 2 sender balance 11 amount 3 and added in its mempool at 77.97938984354295.
+Txn 125 created by 1 sender balance 89 amount 2 and added in its mempool at 78.04420538005618.
+Txn 126 created by 1 sender balance 89 amount 5 and added in its mempool at 78.16011208585732.
+Txn 127 created by 3 sender balance 55 amount 3 and added in its mempool at 79.85019776987647.
+Peer 3 starts mining at 79.9684333303651.
+Txn 128 created by 5 sender balance 56 amount 4 and added in its mempool at 80.26937118245547.
+Txn 129 created by 3 sender balance 55 amount 2 and added in its mempool at 80.37269906199917.
+Txn 130 created by 3 sender balance 55 amount 5 and added in its mempool at 80.51203786208124.
+Txn 131 created by 5 sender balance 56 amount 1 and added in its mempool at 81.08168358541928.
+Txn 132 created by 2 sender balance 11 amount 2 and added in its mempool at 83.10651506423194.
+Txn 133 created by 4 sender balance -2 amount 2 and added in its mempool at 84.04118971207612.
+Txn 134 created by 2 sender balance 11 amount 5 and added in its mempool at 84.93383688482136.
+Peer 2 ends mining at 85.18765309139474.
+Longest node 0 for 2 at 85.18765309139474 before mining
+Longest node 0 for 2 at 85.18765309139474 after mining
+Block prev   Block 0 --- prevBlock None --------- mined by None at 0.
+Block 4 mined by 2 and added in its ledger at 85.18765309139474.
+Peer 2 previous ledger [0]
+Peer 2 updated ledger [0, 4]
+Forwarding from generator function -- Block 4 to Peer 4 from Peer 2
+Forwarding from generator function -- Block 4 to Peer 3 from Peer 2
+Forwarding from generator function -- Block 4 to Peer 6 from Peer 2
+Forwarding from generator function -- Block 4 to Peer 0 from Peer 2
+Forwarding from generator function -- Block 4 to Peer 1 from Peer 2
+Forwarding from generator function -- Block 4 to Peer 5 from Peer 2
+Block 4 is discarded by peer 5 since Txn 5 is invalid.
+Txn 136 created by 0 sender balance 43 amount 3 and added in its mempool at 86.12472244081701.
+Txn 137 created by 1 sender balance 89 amount 1 and added in its mempool at 87.19015360877572.
+Txn 138 created by 1 sender balance 89 amount 5 and added in its mempool at 88.35830945435637.
+Txn 139 created by 5 sender balance 56 amount 2 and added in its mempool at 89.38936409021377.
+Txn 140 created by 2 sender balance 61 amount 2 and added in its mempool at 89.62369740614264.
+Txn 141 created by 2 sender balance 61 amount 1 and added in its mempool at 90.55632687993433.
+Txn 142 created by 5 sender balance 56 amount 5 and added in its mempool at 90.71592080446543.
+Txn 143 created by 6 sender balance 42 amount 5 and added in its mempool at 91.29906884710465.
+Txn 144 created by 1 sender balance 89 amount 5 and added in its mempool at 91.82712310417294.
+Peer 2 starts mining at 92.6624823152295.
+Txn 145 created by 6 sender balance 42 amount 5 and added in its mempool at 92.78471621190768.
+Txn 146 created by 0 sender balance 43 amount 3 and added in its mempool at 93.41194754999859.
+Txn 147 created by 2 sender balance 61 amount 5 and added in its mempool at 93.60497506572638.
+Peer 3 ends mining at 94.20276162348283.
+Longest node 3 for 3 at 94.20276162348283 before mining
+Longest node 3 for 3 at 94.20276162348283 after mining
+Block prev   Block 3 --- prevBlock 0 --------- mined by 3 at 75.76359513547604.
+Block 5 mined by 3 and added in its ledger at 94.20276162348283.
+Peer 3 previous ledger [0, 3]
+Peer 3 updated ledger [0, 3, 5]
+Forwarding from generator function -- Block 5 to Peer 2 from Peer 3
+Forwarding from generator function -- Block 5 to Peer 4 from Peer 3
+Forwarding from generator function -- Block 5 to Peer 1 from Peer 3
+Forwarding from generator function -- Block 5 to Peer 0 from Peer 3
+Block 5 is discarded by peer 0 since Txn 133 is invalid.
+Txn 149 created by 2 sender balance 61 amount 5 and added in its mempool at 94.53319424002295.
+Txn 150 created by 0 sender balance 43 amount 5 and added in its mempool at 94.53914181486576.
+Txn 151 created by 2 sender balance 61 amount 5 and added in its mempool at 95.38132130599004.
+Txn 152 created by 6 sender balance 42 amount 3 and added in its mempool at 95.4967449752527.
+Txn 153 created by 1 sender balance 89 amount 4 and added in its mempool at 95.60977361095357.
+Txn 154 created by 1 sender balance 89 amount 2 and added in its mempool at 96.6604076913481.
+Txn 155 created by 5 sender balance 56 amount 3 and added in its mempool at 97.72982961965107.
+Txn 156 created by 4 sender balance -2 amount 4 and added in its mempool at 98.30748976273945.
+Txn 157 created by 2 sender balance 61 amount 4 and added in its mempool at 98.71952438476713.
+Txn 158 created by 4 sender balance -2 amount 2 and added in its mempool at 98.88013174136628.
+0 False 0.16393442622950818 43
+
+1 False 0.16393442622950818 89
+
+2 False 0.16393442622950818 61
+
+3 False 0.16393442622950818 105
+
+4 False 0.16393442622950818 -2
+
+5 True 0.016393442622950817 56
+
+6 False 0.16393442622950818 42
+
+Peer 0 blockchain tree
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 1 --- prevBlock 0 --------- mined by 1 at 13.773641306453829.
+Peer 1 blockchain tree
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 1 --- prevBlock 0 --------- mined by 1 at 13.773641306453829.
+Peer 2 blockchain tree
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 4 --- prevBlock 0 --------- mined by 2 at 85.18765309139474.
+Peer 3 blockchain tree
+	  Block 5 --- prevBlock 3 --------- mined by 3 at 94.20276162348283.
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 3 --- prevBlock 0 --------- mined by 3 at 75.76359513547604.
+Peer 4 blockchain tree
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+Peer 5 blockchain tree
+	  Block 2 --- prevBlock 0 --------- mined by 6 at 34.026854007222575.
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+Peer 6 blockchain tree
+	  Block 2 --- prevBlock 0 --------- mined by 6 at 34.026854007222575.
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+------------------------------------The end--------------------------------------------
+Block prev  None
+Txn 0 created by 3 sender balance 18 amount 5 and added in its mempool at 0.45446795555929426.
+Txn 1 created by 6 sender balance 23 amount 1 and added in its mempool at 0.5369058627895786.
+Txn 2 created by 0 sender balance 19 amount 2 and added in its mempool at 0.8052909664293992.
+Txn 3 created by 3 sender balance 18 amount 5 and added in its mempool at 1.269303917062288.
+Txn 4 created by 3 sender balance 18 amount 3 and added in its mempool at 1.4614912027638078.
+Txn 5 created by 3 sender balance 18 amount 2 and added in its mempool at 1.4890373897086466.
+Txn 6 created by 1 sender balance 13 amount 4 and added in its mempool at 1.5406033490777955.
+Txn 7 created by 1 sender balance 13 amount 3 and added in its mempool at 1.6435681747910655.
+Txn 8 created by 4 sender balance 10 amount 5 and added in its mempool at 1.6719948532907694.
+Txn 9 created by 3 sender balance 18 amount 3 and added in its mempool at 2.092241415629173.
+Txn 10 created by 1 sender balance 13 amount 4 and added in its mempool at 2.4997109682665886.
+Peer 6 starts mining at 3.2660720527752405.
+Txn 11 created by 4 sender balance 10 amount 3 and added in its mempool at 5.5624088876389735.
+Txn 12 created by 5 sender balance 17 amount 3 and added in its mempool at 5.994079160556649.
+Txn 13 created by 3 sender balance 18 amount 5 and added in its mempool at 6.0203253180559155.
+Peer 1 starts mining at 6.071615065114889.
+Txn 14 created by 1 sender balance 13 amount 5 and added in its mempool at 6.171246638254927.
+Txn 15 created by 0 sender balance 19 amount 3 and added in its mempool at 6.491377465253363.
+Txn 16 created by 5 sender balance 17 amount 3 and added in its mempool at 6.5994562412664886.
+Txn 17 created by 5 sender balance 17 amount 5 and added in its mempool at 6.644842766989584.
+Peer 3 starts mining at 6.664076329078992.
+Peer 0 starts mining at 6.894287915514747.
+Txn 18 created by 3 sender balance 18 amount 2 and added in its mempool at 6.965331566091319.
+Txn 19 created by 2 sender balance 24 amount 3 and added in its mempool at 7.094845208690851.
+Txn 20 created by 3 sender balance 18 amount 5 and added in its mempool at 7.61801765762163.
+Txn 21 created by 5 sender balance 17 amount 3 and added in its mempool at 7.7232153861834645.
+Txn 22 created by 3 sender balance 18 amount 3 and added in its mempool at 7.859774769928831.
+Txn 23 created by 3 sender balance 18 amount 1 and added in its mempool at 7.9470692372713145.
+Txn 24 created by 5 sender balance 17 amount 4 and added in its mempool at 8.277165581469333.
+Txn 25 created by 4 sender balance 10 amount 5 and added in its mempool at 8.700709303107178.
+Txn 26 created by 4 sender balance 10 amount 1 and added in its mempool at 8.965913094457397.
+Txn 27 created by 1 sender balance 13 amount 3 and added in its mempool at 9.116557385960402.
+Peer 5 starts mining at 9.236628635426772.
+Txn 28 created by 6 sender balance 23 amount 1 and added in its mempool at 9.761714861396895.
+Txn 29 created by 1 sender balance 13 amount 1 and added in its mempool at 10.432221641552692.
+Txn 30 created by 6 sender balance 23 amount 3 and added in its mempool at 11.282885204541788.
+Txn 31 created by 5 sender balance 17 amount 2 and added in its mempool at 11.386222111673083.
+Txn 32 created by 3 sender balance 18 amount 4 and added in its mempool at 11.438942196283024.
+Peer 4 starts mining at 11.858336630542695.
+Txn 33 created by 6 sender balance 23 amount 2 and added in its mempool at 12.469684854420615.
+Txn 34 created by 5 sender balance 17 amount 1 and added in its mempool at 13.089454678389016.
+Txn 35 created by 4 sender balance 10 amount 4 and added in its mempool at 15.114922091904022.
+Txn 36 created by 0 sender balance 19 amount 4 and added in its mempool at 15.747778024980688.
+Txn 37 created by 5 sender balance 17 amount 1 and added in its mempool at 15.75665085585917.
+Txn 38 created by 1 sender balance 13 amount 4 and added in its mempool at 16.758391520559222.
+Txn 39 created by 4 sender balance 10 amount 2 and added in its mempool at 17.449872242622547.
+Txn 40 created by 5 sender balance 17 amount 1 and added in its mempool at 18.199136139870102.
+Txn 41 created by 4 sender balance 10 amount 2 and added in its mempool at 18.500218468477527.
+Txn 42 created by 0 sender balance 19 amount 5 and added in its mempool at 19.350520348690814.
+Txn 43 created by 0 sender balance 19 amount 5 and added in its mempool at 19.653900861624937.
+Txn 44 created by 3 sender balance 18 amount 4 and added in its mempool at 19.747316482413808.
+Txn 45 created by 2 sender balance 24 amount 1 and added in its mempool at 20.377255157583413.
+Txn 46 created by 1 sender balance 13 amount 4 and added in its mempool at 20.99209218391067.
+Peer 2 starts mining at 21.191343886283367.
+Txn 47 created by 4 sender balance 10 amount 5 and added in its mempool at 22.00979917902719.
+Txn 48 created by 5 sender balance 17 amount 1 and added in its mempool at 22.203337743782484.
+Txn 49 created by 3 sender balance 18 amount 2 and added in its mempool at 22.898141422034303.
+Txn 50 created by 1 sender balance 13 amount 1 and added in its mempool at 22.949922777645757.
+Txn 51 created by 6 sender balance 23 amount 2 and added in its mempool at 24.535220409867144.
+Txn 52 created by 4 sender balance 10 amount 5 and added in its mempool at 25.23352371558962.
+Txn 53 created by 0 sender balance 19 amount 3 and added in its mempool at 25.75264773926796.
+Txn 54 created by 0 sender balance 19 amount 4 and added in its mempool at 27.16389462010387.
+Txn 55 created by 4 sender balance 10 amount 1 and added in its mempool at 28.29451102289853.
+Txn 56 created by 1 sender balance 13 amount 2 and added in its mempool at 28.597399681482024.
+Txn 57 created by 6 sender balance 23 amount 1 and added in its mempool at 28.644663418084914.
+Txn 58 created by 1 sender balance 13 amount 1 and added in its mempool at 28.66297849624136.
+Txn 59 created by 2 sender balance 24 amount 4 and added in its mempool at 29.445786961712685.
+Txn 60 created by 6 sender balance 23 amount 2 and added in its mempool at 30.070278531243375.
+Txn 61 created by 4 sender balance 10 amount 2 and added in its mempool at 30.546623794997096.
+Txn 62 created by 3 sender balance 18 amount 3 and added in its mempool at 32.79253192777078.
+Txn 63 created by 5 sender balance 17 amount 2 and added in its mempool at 33.890114527092095.
+Txn 64 created by 6 sender balance 23 amount 2 and added in its mempool at 34.00267082231967.
+Txn 65 created by 2 sender balance 24 amount 3 and added in its mempool at 34.15406583505328.
+Peer 4 ends mining at 34.23053456424333.
+Longest node 0 for 4 at 34.23053456424333 before mining
+Longest node 0 for 4 at 34.23053456424333 after mining
+Block prev   Block 0 --- prevBlock None --------- mined by None at 0.
+Block 1 mined by 4 and added in its ledger at 34.23053456424333.
+Peer 4 previous ledger [0]
+Peer 4 updated ledger [0, 1]
+Forwarding from generator function -- Block 1 to Peer 5 from Peer 4
+Forwarding from generator function -- Block 1 to Peer 6 from Peer 4
+Forwarding from generator function -- Block 1 to Peer 2 from Peer 4
+Forwarding from generator function -- Block 1 to Peer 0 from Peer 4
+Forwarding from generator function -- Block 1 to Peer 3 from Peer 4
+Forwarding from generator function -- Block 1 to Peer 1 from Peer 4
+ here for txn 0
+ here for txn 1
+ here for txn 2
+ here for txn 3
+ here for txn 4
+ here for txn 5
+ here for txn 6
+ here for txn 8
+ here for txn 7
+ here for txn 9
+ here for txn 10
+ here for txn 11
+ here for txn 12
+ here for txn 13
+ here for txn 14
+ here for txn 16
+ here for txn 17
+ here for txn 15
+ here for txn 18
+ here for txn 19
+ here for txn 20
+ here for txn 21
+ here for txn 22
+ here for txn 23
+ here for txn 24
+ here for txn 25
+ here for txn 26
+ here for txn 27
+ here for txn 28
+ here for txn 29
+ here for txn 31
+ here for txn 30
+ here for txn 32
+ here for txn 33
+ here for txn 34
+ here for txn 35
+ here for txn 37
+ here for txn 36
+ here for txn 38
+ here for txn 39
+ here for txn 40
+ here for txn 41
+ here for txn 42
+ here for txn 43
+ here for txn 44
+ here for txn 45
+ here for txn 46
+ here for txn 47
+ here for txn 48
+ here for txn 49
+ here for txn 50
+ here for txn 51
+ here for txn 52
+ here for txn 53
+ here for txn 54
+ here for txn 55
+ here for txn 56
+ here for txn 58
+ here for txn 57
+ here for txn 59
+ here for txn 60
+ here for txn 61
+ here for txn 62
+ here for txn 63
+ here for txn 64
+ here for txn 65
+ here for txn 66
+Block 1 reached peer 1 and added to its ledger at time 34.42821786338995.
+Peer 1 previuos ledger [0]
+Longest node 0 for 1 at 34.42821786338995
+Peer 1 updated ledger [0, 1]
+Forwarding from forward fucntion-- Block 1 to Peer 5 from Peer 1
+Forwarding from forward fucntion-- Block 1 to Peer 2 from Peer 1
+Forwarding from forward fucntion-- Block 1 to Peer 0 from Peer 1
+Forwarding from forward fucntion-- Block 1 to Peer 6 from Peer 1
+Block 1 is discarded by peer 5 since Txn 0 is invalid.
+Block 1 is discarded by peer 0 since Txn 0 is invalid.
+Txn 67 created by 3 sender balance -13 amount 2 and added in its mempool at 34.66182198378422.
+Block 1 is discarded by peer 6 since Txn 0 is invalid.
+Block 1 is discarded by peer 2 since Txn 0 is invalid.
+Peer 2 ends mining at 35.265014798733226.
+Longest node 0 for 2 at 35.265014798733226 before mining
+Longest node 0 for 2 at 35.265014798733226 after mining
+Block prev   Block 0 --- prevBlock None --------- mined by None at 0.
+Block 2 mined by 2 and added in its ledger at 35.265014798733226.
+Peer 2 previous ledger [0]
+Peer 2 updated ledger [0, 2]
+Forwarding from generator function -- Block 2 to Peer 5 from Peer 2
+Forwarding from generator function -- Block 2 to Peer 6 from Peer 2
+Forwarding from generator function -- Block 2 to Peer 4 from Peer 2
+Forwarding from generator function -- Block 2 to Peer 0 from Peer 2
+Forwarding from generator function -- Block 2 to Peer 3 from Peer 2
+Forwarding from generator function -- Block 2 to Peer 1 from Peer 2
+Txn 69 created by 6 sender balance 54 amount 5 and added in its mempool at 35.5149060998883.
+Block 2 is discarded by peer 1 since Txn 0 is invalid.
+Txn 70 created by 2 sender balance 96 amount 5 and added in its mempool at 36.46423453709151.
+Txn 71 created by 1 sender balance 7 amount 4 and added in its mempool at 36.50736577783256.
+Txn 72 created by 6 sender balance 54 amount 4 and added in its mempool at 36.88407574321451.
+Txn 73 created by 5 sender balance 17 amount 1 and added in its mempool at 37.168051674136514.
+Txn 74 created by 1 sender balance 7 amount 2 and added in its mempool at 37.27432232541031.
+Txn 75 created by 0 sender balance 12 amount 4 and added in its mempool at 37.41806971294493.
+Txn 76 created by 6 sender balance 54 amount 4 and added in its mempool at 37.54226925544842.
+Txn 77 created by 6 sender balance 54 amount 2 and added in its mempool at 37.85649421813116.
+Txn 78 created by 4 sender balance 51 amount 1 and added in its mempool at 38.365531397037714.
+Txn 79 created by 4 sender balance 51 amount 2 and added in its mempool at 38.45454520197108.
+Peer 4 starts mining at 38.6005552733113.
+Txn 80 created by 3 sender balance -13 amount 5 and added in its mempool at 38.61342359050407.
+Txn 81 created by 3 sender balance -13 amount 1 and added in its mempool at 39.48292809590942.
+Txn 82 created by 6 sender balance 54 amount 4 and added in its mempool at 40.64330806174198.
+Txn 83 created by 6 sender balance 54 amount 5 and added in its mempool at 40.824393794681626.
+Txn 84 created by 1 sender balance 7 amount 2 and added in its mempool at 41.44721712714896.
+Txn 85 created by 1 sender balance 7 amount 2 and added in its mempool at 42.541908302743096.
+Txn 86 created by 2 sender balance 96 amount 1 and added in its mempool at 43.81855105561568.
+Txn 87 created by 5 sender balance 17 amount 5 and added in its mempool at 46.33301823882109.
+Txn 88 created by 1 sender balance 7 amount 3 and added in its mempool at 46.407482458622354.
+Txn 89 created by 0 sender balance 12 amount 3 and added in its mempool at 46.87673881850222.
+Txn 90 created by 6 sender balance 54 amount 5 and added in its mempool at 48.626005517719065.
+Peer 2 starts mining at 50.22283262003846.
+Txn 91 created by 0 sender balance 12 amount 3 and added in its mempool at 54.653222164681516.
+Txn 92 created by 2 sender balance 96 amount 4 and added in its mempool at 55.268078714165185.
+Peer 5 ends mining at 55.968047676551876.
+Longest node 0 for 5 at 55.968047676551876 before mining
+Longest node 0 for 5 at 55.968047676551876 after mining
+Block prev   Block 0 --- prevBlock None --------- mined by None at 0.
+Block 3 mined by 5 and added in its ledger at 55.968047676551876.
+Peer 5 previous ledger [0]
+Peer 5 updated ledger [0, 3]
+Forwarding from generator function -- Block 3 to Peer 3 from Peer 5
+Forwarding from generator function -- Block 3 to Peer 4 from Peer 5
+Forwarding from generator function -- Block 3 to Peer 2 from Peer 5
+Forwarding from generator function -- Block 3 to Peer 0 from Peer 5
+Forwarding from generator function -- Block 3 to Peer 6 from Peer 5
+Forwarding from generator function -- Block 3 to Peer 1 from Peer 5
+Block 3 is discarded by peer 1 since Txn 0 is invalid.
+Txn 94 created by 2 sender balance 96 amount 1 and added in its mempool at 56.620436199199276.
+Txn 95 created by 4 sender balance 51 amount 3 and added in its mempool at 57.12292816327063.
+Txn 96 created by 5 sender balance 67 amount 4 and added in its mempool at 57.28211089470183.
+Txn 97 created by 1 sender balance 7 amount 2 and added in its mempool at 58.65298621926445.
+Txn 98 created by 4 sender balance 51 amount 5 and added in its mempool at 60.284278065964166.
+Peer 2 ends mining at 60.322436202865404.
+Longest node 2 for 2 at 60.322436202865404 before mining
+Longest node 2 for 2 at 60.322436202865404 after mining
+Block prev   Block 2 --- prevBlock 0 --------- mined by 2 at 35.265014798733226.
+Block 4 mined by 2 and added in its ledger at 60.322436202865404.
+Peer 2 previous ledger [0, 2]
+Peer 2 updated ledger [0, 2, 4]
+Forwarding from generator function -- Block 4 to Peer 5 from Peer 2
+Forwarding from generator function -- Block 4 to Peer 6 from Peer 2
+Forwarding from generator function -- Block 4 to Peer 4 from Peer 2
+Forwarding from generator function -- Block 4 to Peer 0 from Peer 2
+Forwarding from generator function -- Block 4 to Peer 3 from Peer 2
+Forwarding from generator function -- Block 4 to Peer 1 from Peer 2
+Txn 100 created by 4 sender balance 51 amount 3 and added in its mempool at 60.35572484866871.
+Block 4 is discarded by peer 1 since Txn 80 is invalid.
+Txn 101 created by 3 sender balance -13 amount 1 and added in its mempool at 61.26701015045275.
+Txn 102 created by 6 sender balance 54 amount 5 and added in its mempool at 61.32232389086419.
+Txn 103 created by 6 sender balance 54 amount 2 and added in its mempool at 61.649676198391.
+Txn 104 created by 2 sender balance 146 amount 1 and added in its mempool at 62.233997574784155.
+Txn 105 created by 2 sender balance 146 amount 4 and added in its mempool at 63.27326749196478.
+Txn 106 created by 5 sender balance 67 amount 5 and added in its mempool at 64.19565013523874.
+Peer 2 starts mining at 64.52022382659382.
+Txn 107 created by 4 sender balance 51 amount 1 and added in its mempool at 65.19548244446013.
+Txn 108 created by 3 sender balance -13 amount 2 and added in its mempool at 66.40095331428662.
+Txn 109 created by 3 sender balance -13 amount 5 and added in its mempool at 66.7318075133854.
+Txn 110 created by 0 sender balance 12 amount 2 and added in its mempool at 67.35203044219067.
+Txn 111 created by 4 sender balance 51 amount 1 and added in its mempool at 67.68822246026404.
+Peer 4 ends mining at 68.07544904923316.
+Longest node 1 for 4 at 68.07544904923316 before mining
+Longest node 1 for 4 at 68.07544904923316 after mining
+Block prev   Block 1 --- prevBlock 0 --------- mined by 4 at 34.23053456424333.
+Block 5 mined by 4 and added in its ledger at 68.07544904923316.
+Peer 4 previous ledger [0, 1]
+Peer 4 updated ledger [0, 1, 5]
+Forwarding from generator function -- Block 5 to Peer 5 from Peer 4
+Forwarding from generator function -- Block 5 to Peer 6 from Peer 4
+Forwarding from generator function -- Block 5 to Peer 2 from Peer 4
+Forwarding from generator function -- Block 5 to Peer 0 from Peer 4
+Forwarding from generator function -- Block 5 to Peer 3 from Peer 4
+Forwarding from generator function -- Block 5 to Peer 1 from Peer 4
+Txn 113 created by 6 sender balance 54 amount 2 and added in its mempool at 68.09518016342759.
+Block 5 is discarded by peer 1 since Txn 67 is invalid.
+Txn 114 created by 2 sender balance 146 amount 5 and added in its mempool at 69.18934055933465.
+Peer 5 starts mining at 69.8805049635395.
+Txn 115 created by 1 sender balance 7 amount 1 and added in its mempool at 70.65343105361603.
+Txn 116 created by 4 sender balance 101 amount 3 and added in its mempool at 71.3268836690543.
+Txn 117 created by 2 sender balance 146 amount 4 and added in its mempool at 71.78378347236966.
+Txn 118 created by 2 sender balance 146 amount 3 and added in its mempool at 72.23473324637426.
+Txn 119 created by 4 sender balance 101 amount 5 and added in its mempool at 72.24894196691059.
+Txn 120 created by 2 sender balance 146 amount 5 and added in its mempool at 73.75093873660634.
+Txn 121 created by 4 sender balance 101 amount 1 and added in its mempool at 74.23704524708874.
+Txn 122 created by 2 sender balance 146 amount 5 and added in its mempool at 75.10222483482707.
+Txn 123 created by 6 sender balance 54 amount 4 and added in its mempool at 76.29048250673726.
+Txn 124 created by 0 sender balance 12 amount 5 and added in its mempool at 76.2989071040255.
+Txn 125 created by 1 sender balance 7 amount 2 and added in its mempool at 76.38760339252343.
+Peer 4 starts mining at 76.61645734572318.
+Txn 126 created by 3 sender balance -13 amount 3 and added in its mempool at 76.83164534259168.
+Txn 127 created by 0 sender balance 12 amount 3 and added in its mempool at 78.00970495717202.
+Txn 128 created by 1 sender balance 7 amount 4 and added in its mempool at 78.8923142966863.
+Txn 129 created by 6 sender balance 54 amount 2 and added in its mempool at 79.12241814649302.
+Txn 130 created by 2 sender balance 146 amount 2 and added in its mempool at 79.46785094805722.
+Txn 131 created by 6 sender balance 54 amount 3 and added in its mempool at 81.21721304812304.
+Txn 132 created by 2 sender balance 146 amount 2 and added in its mempool at 81.73908529775831.
+Txn 133 created by 5 sender balance 67 amount 4 and added in its mempool at 82.22832748046218.
+Txn 134 created by 5 sender balance 67 amount 1 and added in its mempool at 82.50971413060542.
+Txn 135 created by 5 sender balance 67 amount 5 and added in its mempool at 82.54133264628678.
+Txn 136 created by 5 sender balance 67 amount 1 and added in its mempool at 83.4461758294152.
+Txn 137 created by 0 sender balance 12 amount 4 and added in its mempool at 85.78949085215964.
+Txn 138 created by 3 sender balance -13 amount 2 and added in its mempool at 86.64538286937054.
+Txn 139 created by 6 sender balance 54 amount 1 and added in its mempool at 87.4116452449.
+Txn 140 created by 4 sender balance 101 amount 1 and added in its mempool at 88.32682713716561.
+Peer 2 ends mining at 88.73639191534464.
+Longest node 4 for 2 at 88.73639191534464 before mining
+Longest node 4 for 2 at 88.73639191534464 after mining
+Block prev   Block 4 --- prevBlock 2 --------- mined by 2 at 60.322436202865404.
+Block 6 mined by 2 and added in its ledger at 88.73639191534464.
+Peer 2 previous ledger [0, 2, 4]
+Peer 2 updated ledger [0, 2, 4, 6]
+Forwarding from generator function -- Block 6 to Peer 5 from Peer 2
+Forwarding from generator function -- Block 6 to Peer 6 from Peer 2
+Forwarding from generator function -- Block 6 to Peer 4 from Peer 2
+Forwarding from generator function -- Block 6 to Peer 0 from Peer 2
+Forwarding from generator function -- Block 6 to Peer 3 from Peer 2
+Forwarding from generator function -- Block 6 to Peer 1 from Peer 2
+Block 6 is discarded by peer 1 since Txn 101 is invalid.
+Txn 142 created by 1 sender balance 7 amount 3 and added in its mempool at 89.15464391762893.
+Txn 143 created by 5 sender balance 67 amount 4 and added in its mempool at 89.17028752118635.
+Txn 144 created by 1 sender balance 7 amount 3 and added in its mempool at 89.28058969415642.
+Peer 2 starts mining at 90.77334666501324.
+Txn 145 created by 6 sender balance 54 amount 2 and added in its mempool at 92.31026486721503.
+Txn 146 created by 2 sender balance 196 amount 2 and added in its mempool at 92.68244589187904.
+Peer 4 ends mining at 92.70952074194665.
+Longest node 5 for 4 at 92.70952074194665 before mining
+Longest node 5 for 4 at 92.70952074194665 after mining
+Block prev   Block 5 --- prevBlock 1 --------- mined by 4 at 68.07544904923316.
+Block 7 mined by 4 and added in its ledger at 92.70952074194665.
+Peer 4 previous ledger [0, 1, 5]
+Peer 4 updated ledger [0, 1, 5, 7]
+Forwarding from generator function -- Block 7 to Peer 5 from Peer 4
+Forwarding from generator function -- Block 7 to Peer 6 from Peer 4
+Forwarding from generator function -- Block 7 to Peer 2 from Peer 4
+Forwarding from generator function -- Block 7 to Peer 0 from Peer 4
+Forwarding from generator function -- Block 7 to Peer 3 from Peer 4
+Forwarding from generator function -- Block 7 to Peer 1 from Peer 4
+Block 7 is discarded by peer 1 since Txn 126 is invalid.
+Txn 148 created by 1 sender balance 7 amount 3 and added in its mempool at 94.01708662329213.
+Txn 149 created by 1 sender balance 7 amount 5 and added in its mempool at 94.11038833379754.
+Txn 150 created by 3 sender balance -13 amount 1 and added in its mempool at 94.97863483533042.
+Txn 151 created by 2 sender balance 196 amount 1 and added in its mempool at 95.17372294795783.
+Txn 152 created by 2 sender balance 196 amount 4 and added in its mempool at 95.22105818006973.
+Txn 153 created by 4 sender balance 151 amount 5 and added in its mempool at 95.45062212193164.
+Txn 154 created by 3 sender balance -13 amount 1 and added in its mempool at 95.78078045331624.
+Txn 155 created by 0 sender balance 12 amount 3 and added in its mempool at 96.85074580873237.
+Peer 3 ends mining at 97.92262117451475.
+Longest node 0 for 3 at 97.92262117451475 before mining
+Longest node 0 for 3 at 97.92262117451475 after mining
+Block prev   Block 0 --- prevBlock None --------- mined by None at 0.
+Block 8 mined by 3 and added in its ledger at 97.92262117451475.
+Peer 3 previous ledger [0]
+Peer 3 updated ledger [0, 8]
+Forwarding from generator function -- Block 8 to Peer 5 from Peer 3
+Forwarding from generator function -- Block 8 to Peer 4 from Peer 3
+Forwarding from generator function -- Block 8 to Peer 2 from Peer 3
+Forwarding from generator function -- Block 8 to Peer 0 from Peer 3
+Forwarding from generator function -- Block 8 to Peer 6 from Peer 3
+Txn 157 created by 4 sender balance 151 amount 2 and added in its mempool at 98.30876310534217.
+ here for txn 0
+ here for txn 1
+ here for txn 2
+ here for txn 3
+ here for txn 4
+ here for txn 5
+ here for txn 6
+ here for txn 8
+ here for txn 7
+ here for txn 9
+ here for txn 10
+ here for txn 11
+ here for txn 13
+ here for txn 12
+ here for txn 14
+ here for txn 16
+ here for txn 17
+ here for txn 15
+ here for txn 18
+ here for txn 19
+ here for txn 20
+ here for txn 21
+ here for txn 22
+ here for txn 23
+ here for txn 24
+ here for txn 25
+ here for txn 26
+ here for txn 27
+ here for txn 28
+ here for txn 29
+ here for txn 32
+ here for txn 31
+ here for txn 30
+ here for txn 33
+ here for txn 34
+ here for txn 35
+ here for txn 37
+ here for txn 36
+ here for txn 38
+ here for txn 39
+ here for txn 40
+ here for txn 41
+ here for txn 42
+ here for txn 44
+ here for txn 43
+ here for txn 45
+ here for txn 46
+ here for txn 47
+ here for txn 48
+ here for txn 49
+ here for txn 50
+ here for txn 51
+ here for txn 52
+ here for txn 53
+ here for txn 54
+ here for txn 55
+ here for txn 56
+ here for txn 58
+ here for txn 57
+ here for txn 59
+ here for txn 60
+ here for txn 61
+ here for txn 62
+ here for txn 63
+ here for txn 64
+ here for txn 65
+ here for txn 67
+ here for txn 69
+ here for txn 70
+ here for txn 71
+ here for txn 72
+ here for txn 73
+ here for txn 74
+ here for txn 75
+ here for txn 76
+ here for txn 77
+ here for txn 78
+ here for txn 79
+ here for txn 80
+ here for txn 81
+ here for txn 82
+ here for txn 83
+ here for txn 84
+ here for txn 85
+ here for txn 86
+ here for txn 87
+ here for txn 88
+ here for txn 89
+ here for txn 90
+ here for txn 91
+ here for txn 92
+ here for txn 94
+ here for txn 95
+ here for txn 96
+ here for txn 97
+ here for txn 98
+ here for txn 100
+ here for txn 101
+ here for txn 102
+ here for txn 103
+ here for txn 104
+ here for txn 105
+ here for txn 106
+ here for txn 107
+ here for txn 108
+ here for txn 109
+ here for txn 110
+ here for txn 111
+ here for txn 113
+ here for txn 114
+ here for txn 115
+ here for txn 116
+ here for txn 117
+ here for txn 119
+ here for txn 118
+ here for txn 120
+ here for txn 121
+ here for txn 122
+ here for txn 123
+ here for txn 125
+ here for txn 124
+ here for txn 126
+ here for txn 127
+ here for txn 128
+ here for txn 129
+ here for txn 130
+ here for txn 131
+ here for txn 132
+ here for txn 133
+ here for txn 134
+ here for txn 135
+ here for txn 136
+ here for txn 137
+ here for txn 138
+ here for txn 139
+ here for txn 140
+ here for txn 143
+ here for txn 142
+ here for txn 144
+ here for txn 145
+ here for txn 146
+ here for txn 148
+ here for txn 149
+ here for txn 150
+ here for txn 151
+ here for txn 152
+ here for txn 153
+ here for txn 154
+ here for txn 155
+ here for txn 156
+Block 8 reached peer 6 and added to its ledger at time 98.52326692881647.
+Peer 6 previuos ledger [0]
+Longest node 0 for 6 at 98.52326692881647
+Peer 6 updated ledger [0, 8]
+Forwarding from forward fucntion-- Block 8 to Peer 5 from Peer 6
+Forwarding from forward fucntion-- Block 8 to Peer 4 from Peer 6
+Forwarding from forward fucntion-- Block 8 to Peer 2 from Peer 6
+Forwarding from forward fucntion-- Block 8 to Peer 0 from Peer 6
+Forwarding from forward fucntion-- Block 8 to Peer 1 from Peer 6
+ here for txn 0
+ here for txn 1
+ here for txn 2
+ here for txn 3
+ here for txn 4
+ here for txn 5
+ here for txn 6
+ here for txn 8
+ here for txn 7
+ here for txn 9
+ here for txn 10
+ here for txn 11
+ here for txn 13
+ here for txn 12
+ here for txn 14
+ here for txn 16
+ here for txn 17
+ here for txn 15
+ here for txn 18
+ here for txn 19
+ here for txn 20
+ here for txn 21
+ here for txn 22
+ here for txn 23
+ here for txn 24
+ here for txn 25
+ here for txn 26
+ here for txn 27
+ here for txn 28
+ here for txn 29
+ here for txn 32
+ here for txn 31
+ here for txn 30
+ here for txn 33
+ here for txn 34
+ here for txn 35
+ here for txn 37
+ here for txn 36
+ here for txn 38
+ here for txn 39
+ here for txn 40
+ here for txn 41
+ here for txn 42
+ here for txn 44
+ here for txn 43
+ here for txn 45
+ here for txn 46
+ here for txn 47
+ here for txn 48
+ here for txn 49
+ here for txn 50
+ here for txn 51
+ here for txn 52
+ here for txn 53
+ here for txn 54
+ here for txn 55
+ here for txn 56
+ here for txn 58
+ here for txn 57
+ here for txn 59
+ here for txn 60
+ here for txn 61
+ here for txn 62
+ here for txn 63
+ here for txn 64
+ here for txn 65
+ here for txn 67
+ here for txn 69
+ here for txn 70
+ here for txn 71
+ here for txn 72
+ here for txn 73
+ here for txn 74
+ here for txn 75
+ here for txn 76
+ here for txn 77
+ here for txn 78
+ here for txn 79
+ here for txn 80
+ here for txn 81
+ here for txn 82
+ here for txn 83
+ here for txn 84
+ here for txn 85
+ here for txn 86
+ here for txn 87
+ here for txn 88
+ here for txn 89
+ here for txn 90
+ here for txn 91
+ here for txn 92
+ here for txn 94
+ here for txn 95
+ here for txn 96
+ here for txn 97
+ here for txn 98
+ here for txn 100
+ here for txn 101
+ here for txn 102
+ here for txn 103
+ here for txn 104
+ here for txn 105
+ here for txn 106
+ here for txn 107
+ here for txn 108
+ here for txn 109
+ here for txn 110
+ here for txn 111
+ here for txn 113
+ here for txn 114
+ here for txn 115
+ here for txn 116
+ here for txn 117
+ here for txn 119
+ here for txn 118
+ here for txn 120
+ here for txn 121
+ here for txn 122
+ here for txn 123
+ here for txn 125
+ here for txn 124
+ here for txn 126
+ here for txn 127
+ here for txn 128
+ here for txn 129
+ here for txn 130
+ here for txn 131
+ here for txn 132
+ here for txn 133
+ here for txn 134
+ here for txn 135
+ here for txn 136
+ here for txn 137
+ here for txn 138
+ here for txn 139
+ here for txn 140
+ here for txn 143
+ here for txn 142
+ here for txn 144
+ here for txn 145
+ here for txn 146
+ here for txn 148
+ here for txn 149
+ here for txn 150
+ here for txn 151
+ here for txn 152
+ here for txn 153
+ here for txn 154
+ here for txn 155
+ here for txn 156
+Block 8 reached peer 5 and added to its ledger at time 98.90400848249952.
+Peer 5 previuos ledger [0, 3]
+Longest node 3 for 5 at 98.90400848249952
+Peer 5 updated ledger [0, 3, 8]
+Forwarding from forward fucntion-- Block 8 to Peer 4 from Peer 5
+Forwarding from forward fucntion-- Block 8 to Peer 2 from Peer 5
+Forwarding from forward fucntion-- Block 8 to Peer 0 from Peer 5
+Forwarding from forward fucntion-- Block 8 to Peer 1 from Peer 5
+Block 8 is discarded by peer 4 since Txn 0 is invalid.
+Block 8 is discarded by peer 1 since Txn 0 is invalid.
+Block 8 is discarded by peer 2 since Txn 0 is invalid.
+Block 8 is discarded by peer 1 since Txn 0 is invalid.
+Txn 158 created by 0 sender balance 24 amount 5 and added in its mempool at 98.99138705334887.
+Block 8 is discarded by peer 4 since Txn 0 is invalid.
+Block 8 is discarded by peer 0 since Txn 0 is invalid.
+Block 8 is discarded by peer 2 since Txn 0 is invalid.
+Block 8 is discarded by peer 0 since Txn 0 is invalid.
+0 False 0.1639344262295082 24
+
+1 False 0.1639344262295082 15
+
+2 False 0.1639344262295082 192
+
+3 False 0.1639344262295082 -1
+
+4 False 0.1639344262295082 129
+
+5 False 0.1639344262295082 77
+
+6 True 0.01639344262295082 88
+
+Peer 0 blockchain tree
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+Peer 1 blockchain tree
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 1 --- prevBlock 0 --------- mined by 4 at 34.23053456424333.
+Peer 2 blockchain tree
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 4 --- prevBlock 2 --------- mined by 2 at 60.322436202865404.
+	  Block 6 --- prevBlock 4 --------- mined by 2 at 88.73639191534464.
+	  Block 2 --- prevBlock 0 --------- mined by 2 at 35.265014798733226.
+Peer 3 blockchain tree
+	  Block 8 --- prevBlock 0 --------- mined by 3 at 97.92262117451475.
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+Peer 4 blockchain tree
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 7 --- prevBlock 5 --------- mined by 4 at 92.70952074194665.
+	  Block 5 --- prevBlock 1 --------- mined by 4 at 68.07544904923316.
+	  Block 1 --- prevBlock 0 --------- mined by 4 at 34.23053456424333.
+Peer 5 blockchain tree
+	  Block 8 --- prevBlock 0 --------- mined by 3 at 97.92262117451475.
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 3 --- prevBlock 0 --------- mined by 5 at 55.968047676551876.
+Peer 6 blockchain tree
+	  Block 8 --- prevBlock 0 --------- mined by 3 at 97.92262117451475.
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+------------------------------------The end--------------------------------------------
+Block prev  None
+Peer 3 starts mining at 0.7834487428178357.
+Txn 0 created by 2 sender balance 18 amount 3 and added in its mempool at 0.9770485678892482.
+Peer 6 starts mining at 1.3702515306881884.
+Txn 1 created by 0 sender balance 20 amount 2 and added in its mempool at 1.6092599506383798.
+Txn 2 created by 4 sender balance 12 amount 5 and added in its mempool at 3.342708970059821.
+Peer 4 starts mining at 4.213074873262853.
+Txn 3 created by 1 sender balance 11 amount 1 and added in its mempool at 4.632065491355381.
+Peer 2 starts mining at 4.877770026119204.
+Txn 4 created by 0 sender balance 20 amount 3 and added in its mempool at 6.99643425712418.
+Peer 1 starts mining at 7.393139523356427.
+Txn 5 created by 0 sender balance 20 amount 3 and added in its mempool at 7.779460492936128.
+Txn 6 created by 0 sender balance 20 amount 2 and added in its mempool at 9.518582361049159.
+Txn 7 created by 6 sender balance 16 amount 5 and added in its mempool at 9.620787715490934.
+Txn 8 created by 1 sender balance 11 amount 4 and added in its mempool at 9.753108229260622.
+Peer 0 starts mining at 10.161615570298558.
+Txn 9 created by 6 sender balance 16 amount 4 and added in its mempool at 11.012709099160855.
+Txn 10 created by 6 sender balance 16 amount 3 and added in its mempool at 12.510283602319875.
+Txn 11 created by 4 sender balance 12 amount 2 and added in its mempool at 12.784683624056484.
+Txn 12 created by 1 sender balance 11 amount 2 and added in its mempool at 14.454917686631187.
+Txn 13 created by 3 sender balance 24 amount 3 and added in its mempool at 15.096814940882476.
+Txn 14 created by 2 sender balance 18 amount 3 and added in its mempool at 16.66561829242641.
+Peer 2 ends mining at 16.720009732250745.
+Longest node 0 for 2 at 16.720009732250745 before mining
+Longest node 0 for 2 at 16.720009732250745 after mining
+Block prev   Block 0 --- prevBlock None --------- mined by None at 0.
+Block 1 mined by 2 and added in its ledger at 16.720009732250745.
+Peer 2 previous ledger [0]
+Peer 2 updated ledger [0, 1]
+Forwarding from generator function -- Block 1 to Peer 1 from Peer 2
+Forwarding from generator function -- Block 1 to Peer 5 from Peer 2
+Forwarding from generator function -- Block 1 to Peer 6 from Peer 2
+ here for txn 0
+ here for txn 1
+ here for txn 2
+ here for txn 3
+ here for txn 4
+ here for txn 5
+ here for txn 7
+ here for txn 6
+ here for txn 8
+ here for txn 9
+ here for txn 10
+ here for txn 11
+ here for txn 12
+ here for txn 13
+ here for txn 14
+ here for txn 15
+Block 1 reached peer 6 and added to its ledger at time 16.73457317940601.
+Peer 6 previuos ledger [0]
+Longest node 0 for 6 at 16.73457317940601
+Peer 6 updated ledger [0, 1]
+Forwarding from forward fucntion-- Block 1 to Peer 0 from Peer 6
+Forwarding from forward fucntion-- Block 1 to Peer 3 from Peer 6
+ here for txn 0
+ here for txn 1
+ here for txn 2
+ here for txn 3
+ here for txn 4
+ here for txn 5
+ here for txn 7
+ here for txn 6
+ here for txn 8
+ here for txn 9
+ here for txn 10
+ here for txn 11
+ here for txn 12
+ here for txn 13
+ here for txn 14
+ here for txn 15
+Block 1 reached peer 3 and added to its ledger at time 16.852011101152897.
+Peer 3 previuos ledger [0]
+Longest node 0 for 3 at 16.852011101152897
+Peer 3 updated ledger [0, 1]
+Forwarding from forward fucntion-- Block 1 to Peer 0 from Peer 3
+Forwarding from forward fucntion-- Block 1 to Peer 5 from Peer 3
+Forwarding from forward fucntion-- Block 1 to Peer 4 from Peer 3
+Block 1 is discarded by peer 0 since Txn 3 is invalid.
+Block 1 is discarded by peer 0 since Txn 3 is invalid.
+Txn 16 created by 0 sender balance 8 amount 1 and added in its mempool at 17.339893788748423.
+Block 1 is discarded by peer 5 since Txn 3 is invalid.
+Block 1 is discarded by peer 4 since Txn 3 is invalid.
+Txn 17 created by 5 sender balance 20 amount 1 and added in its mempool at 17.591206364123344.
+Txn 18 created by 6 sender balance 12 amount 2 and added in its mempool at 18.092561407490273.
+Peer 5 starts mining at 18.432466876845623.
+Peer 2 starts mining at 20.791767754267227.
+Peer 2 ends mining at 21.980575883266713.
+Longest node 1 for 2 at 21.980575883266713 before mining
+Longest node 1 for 2 at 21.980575883266713 after mining
+Block prev   Block 1 --- prevBlock 0 --------- mined by 2 at 16.720009732250745.
+Block 2 mined by 2 and added in its ledger at 21.980575883266713.
+Peer 2 previous ledger [0, 1]
+Peer 2 updated ledger [0, 1, 2]
+Forwarding from generator function -- Block 2 to Peer 1 from Peer 2
+Forwarding from generator function -- Block 2 to Peer 5 from Peer 2
+Forwarding from generator function -- Block 2 to Peer 6 from Peer 2
+ here for txn 16
+ here for txn 17
+ here for txn 18
+ here for txn 19
+Block 2 reached peer 6 and added to its ledger at time 21.994833208442582.
+Peer 6 previuos ledger [0, 1]
+Longest node 1 for 6 at 21.994833208442582
+Peer 6 updated ledger [0, 1, 2]
+Forwarding from forward fucntion-- Block 2 to Peer 0 from Peer 6
+Forwarding from forward fucntion-- Block 2 to Peer 3 from Peer 6
+ here for txn 16
+ here for txn 17
+ here for txn 18
+ here for txn 19
+Block 2 reached peer 3 and added to its ledger at time 22.108608115343902.
+Peer 3 previuos ledger [0, 1]
+Longest node 1 for 3 at 22.108608115343902
+Peer 3 updated ledger [0, 1, 2]
+Forwarding from forward fucntion-- Block 2 to Peer 0 from Peer 3
+Forwarding from forward fucntion-- Block 2 to Peer 5 from Peer 3
+Forwarding from forward fucntion-- Block 2 to Peer 4 from Peer 3
+ here for txn 16
+ here for txn 17
+ here for txn 18
+ here for txn 19
+Block 2 reached peer 0 and added to its ledger at time 22.346226898033127.
+Peer 0 previuos ledger [0]
+Longest node 0 for 0 at 22.346226898033127
+Peer 0 updated ledger [0, 2]
+Forwarding from forward fucntion-- Block 2 to Peer 5 from Peer 0
+Forwarding from forward fucntion-- Block 2 to Peer 1 from Peer 0
+Forwarding from forward fucntion-- Block 2 to Peer 4 from Peer 0
+Returning from Peer 0 since block 2 is already here.!!
+ here for txn 16
+ here for txn 17
+ here for txn 18
+ here for txn 19
+Block 2 reached peer 5 and added to its ledger at time 22.535712089083603.
+Peer 5 previuos ledger [0]
+Longest node 0 for 5 at 22.535712089083603
+Peer 5 updated ledger [0, 2]
+Forwarding from forward fucntion-- Block 2 to Peer 1 from Peer 5
+Forwarding from forward fucntion-- Block 2 to Peer 4 from Peer 5
+ here for txn 16
+ here for txn 17
+ here for txn 18
+ here for txn 19
+Block 2 reached peer 4 and added to its ledger at time 22.60669140952588.
+Peer 4 previuos ledger [0]
+Longest node 0 for 4 at 22.60669140952588
+Peer 4 updated ledger [0, 2]
+Forwarding from forward fucntion-- Block 2 to Peer 1 from Peer 4
+Returning from Peer 5 since block 2 is already here.!!
+Returning from Peer 4 since block 2 is already here.!!
+Returning from Peer 4 since block 2 is already here.!!
+ here for txn 16
+ here for txn 17
+ here for txn 18
+ here for txn 19
+Block 2 reached peer 1 and added to its ledger at time 22.774600906359918.
+Peer 1 previuos ledger [0]
+Longest node 0 for 1 at 22.774600906359918
+Peer 1 updated ledger [0, 2]
+Returning from Peer 1 since block 2 is already here.!!
+Returning from Peer 1 since block 2 is already here.!!
+Txn 20 created by 2 sender balance 130 amount 3 and added in its mempool at 23.087877808616636.
+Txn 21 created by 3 sender balance 38 amount 2 and added in its mempool at 23.10753404405495.
+Txn 22 created by 1 sender balance 3 amount 5 and added in its mempool at 23.288555221158497.
+Txn 23 created by 4 sender balance 28 amount 5 and added in its mempool at 23.444412950285535.
+Txn 24 created by 6 sender balance 0 amount 3 and added in its mempool at 24.851100044050675.
+Txn 25 created by 5 sender balance 14 amount 1 and added in its mempool at 25.26425858530898.
+Txn 26 created by 5 sender balance 14 amount 1 and added in its mempool at 25.270238887164584.
+Peer 2 starts mining at 25.324077798526588.
+Txn 27 created by 3 sender balance 38 amount 4 and added in its mempool at 27.835291039739584.
+Txn 28 created by 6 sender balance 0 amount 4 and added in its mempool at 28.023911260335975.
+Txn 29 created by 6 sender balance 0 amount 5 and added in its mempool at 28.039158985499807.
+Txn 30 created by 3 sender balance 38 amount 5 and added in its mempool at 28.387715139056937.
+Txn 31 created by 0 sender balance 8 amount 3 and added in its mempool at 28.517513113397186.
+Txn 32 created by 5 sender balance 14 amount 5 and added in its mempool at 28.84437105892823.
+Txn 33 created by 1 sender balance 3 amount 3 and added in its mempool at 30.553795580968156.
+Txn 34 created by 3 sender balance 38 amount 2 and added in its mempool at 32.131211769014826.
+Txn 35 created by 6 sender balance 0 amount 3 and added in its mempool at 32.67341433205677.
+Txn 36 created by 0 sender balance 8 amount 3 and added in its mempool at 34.78593936598481.
+Txn 37 created by 3 sender balance 38 amount 5 and added in its mempool at 37.14666399160018.
+Txn 38 created by 6 sender balance 0 amount 4 and added in its mempool at 37.7522836134749.
+Txn 39 created by 6 sender balance 0 amount 5 and added in its mempool at 38.17111221197164.
+Txn 40 created by 0 sender balance 8 amount 4 and added in its mempool at 38.2214400010871.
+Txn 41 created by 6 sender balance 0 amount 5 and added in its mempool at 38.53145164427427.
+Txn 42 created by 1 sender balance 3 amount 2 and added in its mempool at 38.574243816557974.
+Txn 43 created by 0 sender balance 8 amount 1 and added in its mempool at 38.7758708536049.
+Txn 44 created by 1 sender balance 3 amount 2 and added in its mempool at 39.48502408528759.
+Txn 45 created by 2 sender balance 130 amount 1 and added in its mempool at 39.52740360124724.
+Txn 46 created by 5 sender balance 14 amount 5 and added in its mempool at 39.82568219735783.
+Txn 47 created by 6 sender balance 0 amount 5 and added in its mempool at 40.4011403765895.
+Txn 48 created by 1 sender balance 3 amount 3 and added in its mempool at 40.64671641584489.
+Txn 49 created by 2 sender balance 130 amount 3 and added in its mempool at 41.27364378199031.
+Txn 50 created by 0 sender balance 8 amount 3 and added in its mempool at 41.91113405258792.
+Txn 51 created by 4 sender balance 28 amount 5 and added in its mempool at 41.91480315183166.
+Txn 52 created by 6 sender balance 0 amount 1 and added in its mempool at 42.280608777050396.
+Txn 53 created by 4 sender balance 28 amount 4 and added in its mempool at 42.795839371664975.
+Txn 54 created by 5 sender balance 14 amount 3 and added in its mempool at 44.199264143650126.
+Txn 55 created by 5 sender balance 14 amount 1 and added in its mempool at 44.910603568712574.
+Txn 56 created by 6 sender balance 0 amount 3 and added in its mempool at 45.83601651636301.
+Txn 57 created by 0 sender balance 8 amount 2 and added in its mempool at 46.246695904626925.
+Peer 5 ends mining at 48.169384401272566.
+Peer 5 was slow in mining someone else mined first.
+Longest node 0 for 5 at 48.169384401272566 before mining
+Longest node 2 for 5 at 48.169384401272566 after mining
+Block prev   Block 0 --- prevBlock None --------- mined by None at 0.
+Block 3 mined by 5 and added in its ledger at 48.169384401272566.
+Peer 5 previous ledger [0, 2]
+Peer 5 updated ledger [0, 2, 3]
+Forwarding from generator function -- Block 3 to Peer 0 from Peer 5
+Forwarding from generator function -- Block 3 to Peer 2 from Peer 5
+Forwarding from generator function -- Block 3 to Peer 1 from Peer 5
+Forwarding from generator function -- Block 3 to Peer 4 from Peer 5
+Forwarding from generator function -- Block 3 to Peer 3 from Peer 5
+Block 3 is discarded by peer 3 since Txn 7 is invalid.
+Txn 59 created by 1 sender balance 3 amount 4 and added in its mempool at 48.919039993827724.
+Txn 60 created by 4 sender balance 28 amount 2 and added in its mempool at 49.93384774942322.
+Txn 61 created by 2 sender balance 130 amount 1 and added in its mempool at 50.19237919364526.
+Txn 62 created by 5 sender balance 64 amount 2 and added in its mempool at 50.450645568314.
+Txn 63 created by 4 sender balance 28 amount 4 and added in its mempool at 51.05209657074693.
+Txn 64 created by 6 sender balance 0 amount 3 and added in its mempool at 51.31125203502857.
+Peer 1 ends mining at 51.318060823020275.
+Peer 1 was slow in mining someone else mined first.
+Longest node 0 for 1 at 51.318060823020275 before mining
+Longest node 2 for 1 at 51.318060823020275 after mining
+Block prev   Block 0 --- prevBlock None --------- mined by None at 0.
+Block 4 mined by 1 and added in its ledger at 51.318060823020275.
+Peer 1 previous ledger [0, 2]
+Peer 1 updated ledger [0, 2, 4]
+Forwarding from generator function -- Block 4 to Peer 0 from Peer 1
+Forwarding from generator function -- Block 4 to Peer 2 from Peer 1
+Forwarding from generator function -- Block 4 to Peer 5 from Peer 1
+Forwarding from generator function -- Block 4 to Peer 4 from Peer 1
+Peer 5 starts mining at 51.38666102566067.
+Txn 66 created by 2 sender balance 130 amount 4 and added in its mempool at 51.51410607645854.
+Block 4 is discarded by peer 4 since Txn 7 is invalid.
+Txn 67 created by 1 sender balance 53 amount 4 and added in its mempool at 52.27050159353395.
+Txn 68 created by 6 sender balance 0 amount 4 and added in its mempool at 52.5611704081478.
+Txn 69 created by 3 sender balance 38 amount 4 and added in its mempool at 52.78155835470486.
+Txn 70 created by 2 sender balance 130 amount 3 and added in its mempool at 52.92467622626187.
+Txn 71 created by 1 sender balance 53 amount 1 and added in its mempool at 53.52773592376374.
+Txn 72 created by 4 sender balance 28 amount 5 and added in its mempool at 53.66750532557353.
+Txn 73 created by 5 sender balance 64 amount 1 and added in its mempool at 54.63423444919759.
+Txn 74 created by 5 sender balance 64 amount 5 and added in its mempool at 54.87445667219109.
+Peer 1 starts mining at 55.00135176185761.
+Txn 75 created by 4 sender balance 28 amount 2 and added in its mempool at 55.85395296457331.
+Txn 76 created by 1 sender balance 53 amount 3 and added in its mempool at 56.00568606942844.
+Txn 77 created by 4 sender balance 28 amount 1 and added in its mempool at 56.247037244516.
+Txn 78 created by 6 sender balance 0 amount 4 and added in its mempool at 56.313470030697296.
+Txn 79 created by 5 sender balance 64 amount 5 and added in its mempool at 56.68822240816679.
+Txn 80 created by 6 sender balance 0 amount 5 and added in its mempool at 57.23556312724196.
+Txn 81 created by 4 sender balance 28 amount 1 and added in its mempool at 57.52245135153658.
+Txn 82 created by 4 sender balance 28 amount 2 and added in its mempool at 57.952790327278294.
+Txn 83 created by 0 sender balance 8 amount 3 and added in its mempool at 58.203364224857054.
+Txn 84 created by 6 sender balance 0 amount 3 and added in its mempool at 58.66046613630136.
+Txn 85 created by 1 sender balance 53 amount 5 and added in its mempool at 59.91225760431784.
+Txn 86 created by 1 sender balance 53 amount 5 and added in its mempool at 61.17127528953944.
+Txn 87 created by 1 sender balance 53 amount 5 and added in its mempool at 62.012884868892385.
+Txn 88 created by 2 sender balance 130 amount 2 and added in its mempool at 62.06484918718451.
+Txn 89 created by 3 sender balance 38 amount 5 and added in its mempool at 62.119703329380215.
+Txn 90 created by 5 sender balance 64 amount 5 and added in its mempool at 62.28296629146441.
+Txn 91 created by 1 sender balance 53 amount 1 and added in its mempool at 62.47175903632124.
+Txn 92 created by 4 sender balance 28 amount 1 and added in its mempool at 64.17406870356643.
+Txn 93 created by 6 sender balance 0 amount 2 and added in its mempool at 64.799176975988.
+Txn 94 created by 4 sender balance 28 amount 3 and added in its mempool at 65.47297815926042.
+Txn 95 created by 1 sender balance 53 amount 3 and added in its mempool at 65.51034511151445.
+Txn 96 created by 3 sender balance 38 amount 2 and added in its mempool at 65.9087018956006.
+Txn 97 created by 1 sender balance 53 amount 4 and added in its mempool at 66.46435495153422.
+Txn 98 created by 6 sender balance 0 amount 3 and added in its mempool at 66.48845544489554.
+Txn 99 created by 6 sender balance 0 amount 2 and added in its mempool at 67.55220464546284.
+Txn 100 created by 5 sender balance 64 amount 4 and added in its mempool at 68.26169644179004.
+Txn 101 created by 0 sender balance 8 amount 1 and added in its mempool at 68.46515348710369.
+Txn 102 created by 5 sender balance 64 amount 1 and added in its mempool at 68.57696228244296.
+Txn 103 created by 1 sender balance 53 amount 2 and added in its mempool at 69.91228714872553.
+Txn 104 created by 0 sender balance 8 amount 5 and added in its mempool at 70.26348449355035.
+Txn 105 created by 4 sender balance 28 amount 3 and added in its mempool at 71.68847547682398.
+Txn 106 created by 0 sender balance 8 amount 5 and added in its mempool at 72.20438969805016.
+Txn 107 created by 1 sender balance 53 amount 5 and added in its mempool at 72.71787969775494.
+Txn 108 created by 3 sender balance 38 amount 1 and added in its mempool at 72.94769266725669.
+Txn 109 created by 2 sender balance 130 amount 1 and added in its mempool at 75.28537478898195.
+Txn 110 created by 5 sender balance 64 amount 4 and added in its mempool at 75.48225519841027.
+Txn 111 created by 2 sender balance 130 amount 2 and added in its mempool at 75.52635928295338.
+Txn 112 created by 3 sender balance 38 amount 3 and added in its mempool at 75.81305306554162.
+Txn 113 created by 3 sender balance 38 amount 3 and added in its mempool at 76.95518926370754.
+Txn 114 created by 1 sender balance 53 amount 4 and added in its mempool at 77.26976903798322.
+Txn 115 created by 5 sender balance 64 amount 2 and added in its mempool at 77.70350655473692.
+Peer 0 ends mining at 78.44885880383887.
+Peer 0 was slow in mining someone else mined first.
+Longest node 0 for 0 at 78.44885880383887 before mining
+Longest node 2 for 0 at 78.44885880383887 after mining
+Block prev   Block 0 --- prevBlock None --------- mined by None at 0.
+Block 5 mined by 0 and added in its ledger at 78.44885880383887.
+Peer 0 previous ledger [0, 2]
+Peer 0 updated ledger [0, 2, 5]
+Forwarding from generator function -- Block 5 to Peer 5 from Peer 0
+Forwarding from generator function -- Block 5 to Peer 1 from Peer 0
+Forwarding from generator function -- Block 5 to Peer 6 from Peer 0
+Forwarding from generator function -- Block 5 to Peer 4 from Peer 0
+Forwarding from generator function -- Block 5 to Peer 3 from Peer 0
+Block 5 is discarded by peer 3 since Txn 7 is invalid.
+Txn 117 created by 0 sender balance 58 amount 2 and added in its mempool at 79.13172856729716.
+Txn 118 created by 3 sender balance 38 amount 4 and added in its mempool at 79.39602188979615.
+Txn 119 created by 6 sender balance 0 amount 1 and added in its mempool at 80.93939426468552.
+Txn 120 created by 0 sender balance 58 amount 4 and added in its mempool at 83.96367840931777.
+Txn 121 created by 1 sender balance 53 amount 4 and added in its mempool at 84.0673989006832.
+Txn 122 created by 2 sender balance 130 amount 2 and added in its mempool at 84.26899732925835.
+Txn 123 created by 3 sender balance 38 amount 1 and added in its mempool at 84.30286441027529.
+Txn 124 created by 2 sender balance 130 amount 1 and added in its mempool at 84.43476638529637.
+Txn 125 created by 3 sender balance 38 amount 3 and added in its mempool at 84.55702739864402.
+Txn 126 created by 6 sender balance 0 amount 1 and added in its mempool at 84.98011541498242.
+Peer 0 starts mining at 85.76471493265065.
+Txn 127 created by 5 sender balance 64 amount 5 and added in its mempool at 86.31140777562844.
+Txn 128 created by 2 sender balance 130 amount 2 and added in its mempool at 86.46220695194967.
+Txn 129 created by 5 sender balance 64 amount 2 and added in its mempool at 86.68528799054221.
+Txn 130 created by 1 sender balance 53 amount 2 and added in its mempool at 87.13361368379712.
+Txn 131 created by 0 sender balance 58 amount 5 and added in its mempool at 87.73157459509531.
+Txn 132 created by 1 sender balance 53 amount 3 and added in its mempool at 88.34085657221226.
+Txn 133 created by 1 sender balance 53 amount 5 and added in its mempool at 88.9368211289507.
+Txn 134 created by 3 sender balance 38 amount 3 and added in its mempool at 89.82389038140072.
+Peer 1 ends mining at 89.87267085232237.
+Longest node 2 for 1 at 89.87267085232237 before mining
+Longest node 2 for 1 at 89.87267085232237 after mining
+Block prev   Block 2 --- prevBlock 1 --------- mined by 2 at 21.980575883266713.
+Block 6 mined by 1 and added in its ledger at 89.87267085232237.
+Peer 1 previous ledger [0, 2, 4]
+Peer 1 updated ledger [0, 2, 4, 6]
+Forwarding from generator function -- Block 6 to Peer 0 from Peer 1
+Forwarding from generator function -- Block 6 to Peer 2 from Peer 1
+Forwarding from generator function -- Block 6 to Peer 5 from Peer 1
+Forwarding from generator function -- Block 6 to Peer 4 from Peer 1
+Block 6 is discarded by peer 4 since Txn 64 is invalid.
+Txn 136 created by 0 sender balance 58 amount 5 and added in its mempool at 93.99051855394052.
+Txn 137 created by 6 sender balance 0 amount 2 and added in its mempool at 95.19543170631255.
+Txn 138 created by 4 sender balance 28 amount 2 and added in its mempool at 96.08081533379284.
+Txn 139 created by 1 sender balance 103 amount 4 and added in its mempool at 96.14152339508071.
+Txn 140 created by 2 sender balance 130 amount 3 and added in its mempool at 96.5831364238369.
+Txn 141 created by 0 sender balance 58 amount 1 and added in its mempool at 99.91908495582902.
+0 False 0.16393442622950818 58
+
+1 False 0.16393442622950818 103
+
+2 False 0.16393442622950818 130
+
+3 True 0.016393442622950817 38
+
+4 False 0.16393442622950818 28
+
+5 False 0.16393442622950818 64
+
+6 False 0.16393442622950818 0
+
+Peer 0 blockchain tree
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 2 --- prevBlock 1 --------- mined by 2 at 21.980575883266713.
+	  Block 5 --- prevBlock 0 --------- mined by 0 at 78.44885880383887.
+Peer 1 blockchain tree
+	  Block 4 --- prevBlock 0 --------- mined by 1 at 51.318060823020275.
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 2 --- prevBlock 1 --------- mined by 2 at 21.980575883266713.
+	  Block 6 --- prevBlock 2 --------- mined by 1 at 89.87267085232237.
+Peer 2 blockchain tree
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 1 --- prevBlock 0 --------- mined by 2 at 16.720009732250745.
+	  Block 2 --- prevBlock 1 --------- mined by 2 at 21.980575883266713.
+Peer 3 blockchain tree
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 1 --- prevBlock 0 --------- mined by 2 at 16.720009732250745.
+	  Block 2 --- prevBlock 1 --------- mined by 2 at 21.980575883266713.
+Peer 4 blockchain tree
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 2 --- prevBlock 1 --------- mined by 2 at 21.980575883266713.
+Peer 5 blockchain tree
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 2 --- prevBlock 1 --------- mined by 2 at 21.980575883266713.
+	  Block 3 --- prevBlock 0 --------- mined by 5 at 48.169384401272566.
+Peer 6 blockchain tree
+	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 1 --- prevBlock 0 --------- mined by 2 at 16.720009732250745.
+	  Block 2 --- prevBlock 1 --------- mined by 2 at 21.980575883266713.
+------------------------------------The end--------------------------------------------
