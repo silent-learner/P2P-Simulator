@@ -16,7 +16,10 @@ class Peer:
         self.Tree.add(genesis)
         self.ledger = nx.DiGraph()
         self.genesis = genesis
+        self.blocklist = []
         self.ledger.add_node(genesis)
+        self.blocklist = [genesis]
+        self.everyones_balance = {}
 
 
     def __str__(self):

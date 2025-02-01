@@ -23,11 +23,12 @@ def generate_transaction(env, sender : Peer, receiver : Peer):
     # print(txn)
     # if sender.balance <= txn.amount:
     sender.mempool.append(txn)
-    txn.peers_already_received.add(sender.ID)
-    print(f"Txn {txn.TxnID} created by {sender.ID} sender balance {sender.balance} amount {txn.amount} and added in its mempool at {env.now}.")
+    # txn.peers_already_received.add(sender.ID)
+    # print(f"Txn {txn.TxnID} created by {sender.ID} sender balance {sender.balance} amount {txn.amount} and added in its mempool at {env.now}.")
+    print(f"{env.now}: Txn {txn.TxnID} created by {sender.ID}.")
     for neigh in sender.neighbours:
-        if neigh not in txn.peers_already_received:
-            env.process(forward_transaction(env,txn,sender,neigh))
+        # if neigh not in txn.peers_already_received:
+        env.process(forward_transaction(env,txn,sender,neigh))
 
 
 def forward_transaction(env,txn : Transaction,peer1 : Peer,peer2 : Peer):
@@ -37,10 +38,11 @@ def forward_transaction(env,txn : Transaction,peer1 : Peer,peer2 : Peer):
     if txn.TxnID in [trxn.TxnID for trxn in peer2.mempool]:
         return
     peer2.mempool.append(txn)
+    print(f"{env.now}: Txn {txn.TxnID} received by {peer2.ID}.")
     # print(f"Txn {txn.TxnID} reached peer {peer2.ID} and added to its mempool at time {env.now}.")
-    txn.peers_already_received.add(peer2.ID)
+    # txn.peers_already_received.add(peer2.ID)
     for neigh in peer2.neighbours:
-        if neigh != peer1 and neigh not in txn.peers_already_received:
+        if neigh != peer1:
             env.process(forward_transaction(env,txn,peer2,neigh))
 
 
@@ -48,21 +50,23 @@ def forward_block(env,block : Block,peer : Peer, peer2 : Peer):
     latency =  delay(peer,peer2,len(block.TxnList))
     yield env.timeout(latency)
 
-    if peer2.ID in block.peers_already_received:
-        print(f"Returning from Peer {peer2.ID} since block {block.BlkId} is already here.!!")
+    if block.BlkId in peer2.blocklist:
+        print(f"{env.now}: Returning from Peer {peer2.ID} since block {block.BlkId} is already here.!!")
         return 
-     
-     #  validate
+    
+    peer2.blocklist.append(block.BlkId)
+    print(f"{env.now}: Peer {peer2.ID} received block {block.BlkId}.")
 
+    #  validate
     for txn in block.TxnList:
         if txn.sender is not None and txn.sender.balance < txn.amount:
-            print(f"Block {block.BlkId} is discarded by peer {peer2.ID} since Txn {txn.TxnID} is invalid.")
+            print(f"{env.now}: Block {block.BlkId} is discarded by peer {peer2.ID} since Txn {txn.TxnID} is invalid.")
             return
 
     # all txns are valid now update balance of sender and receiver
     for txn in block.TxnList:
-        print(f' here for txn {txn.TxnID}')
-        if txn.sender is not None: # coinbase txn 
+        print(f'{env.now}:  here for txn {txn.TxnID}')
+        if txn.sender is not None: # not coinbase txn 
             txn.sender.balance -= txn.amount
             txn.receiver.balance += txn.amount
 
@@ -74,90 +78,96 @@ def forward_block(env,block : Block,peer : Peer, peer2 : Peer):
             longest_chain_node = blk
             max_length = lengths[blk]
     
-    print(f"Block {block.BlkId} reached peer {peer2.ID} and added to its ledger at time {env.now}.")
-    print(f"Peer {peer2.ID} previuos ledger",[blk.BlkId for blk in peer2.ledger.nodes])
+    print(f"{env.now}: Block {block.BlkId} reached peer {peer2.ID} and added to its ledger.")
+    print(f"{env.now}: Peer {peer2.ID} previuos ledger",[blk.BlkId for blk in peer2.ledger.nodes])
 
-    block.peers_already_received.add(peer2.ID)
-    print(f'Longest node {longest_chain_node.BlkId} for {peer2.ID} at {env.now}')
+    print(f'{env.now}: Longest node {longest_chain_node.BlkId} for {peer2.ID}')
     peer2.ledger.add_node(block)
     peer2.Tree.add(block)
     peer2.ledger.add_edge(longest_chain_node,block)
 
-    print(f"Peer {peer2.ID} updated ledger",[blk.BlkId for blk in peer2.ledger.nodes])
+    print(f"{env.now}: Peer {peer2.ID} updated ledger",[blk.BlkId for blk in peer2.ledger.nodes])
 
 
     for neigh in peer2.neighbours:
-        if neigh != peer and neigh.ID not in block.peers_already_received:
-            print(f"Forwarding from forward fucntion-- Block {block.BlkId} to Peer {neigh.ID} from Peer {peer2.ID}")
+        if neigh != peer:
+            print(f"{env.now}: Forwarding from forward fucntion-- Block {block.BlkId} to Peer {neigh.ID} from Peer {peer2.ID}")
             env.process(forward_block(env,block,peer2,neigh))
 
 
 
 def generate_block(env,peer :Peer):
     lengths = nx.single_source_shortest_path_length(peer.ledger,source=peer.genesis)
-    longest_chain_node = None
-    max_length = -1
-    for blk in lengths:
-        if lengths[blk] > max_length:
-            longest_chain_node = blk
-            max_length = lengths[blk]
+    paths = nx.single_source_shortest_path(peer.ledger, source=peer.genesis)
+    longest_chain_node = max(lengths, key=lengths.get)
+    longest_path = paths[longest_chain_node]
+    print(f'{env.now}: Length of the longest path: {len(paths[longest_chain_node])}')
+    print(f'{env.now}: path: {[e.BlkId for e in longest_path]}')
+    print(f"{env.now}: Peer {peer.ID} starts mining")
 
-    print(f"Peer {peer.ID} starts mining at {env.now}.")
+    transactions_in_the_longest_path = []
+    for blk in paths[longest_chain_node]:
+        transactions_in_the_longest_path.extend(blk.TxnList)
+
+    print(f"{env.now}: Transactions in the longest chain: {len(transactions_in_the_longest_path)}")
+
+    transactions_to_be_inserted_in_new_block = []
+    number_of_transactions_the_new_block_can_accomodate = 998
+    # 998 because max size is 1000 KB
+    # 1 KB metadata
+    # 1 KB for coinbase Txn
+    for txn in peer.mempool:
+        if number_of_transactions_the_new_block_can_accomodate <= 0:
+            break
+        if txn not in transactions_in_the_longest_path:
+            transactions_to_be_inserted_in_new_block.append(txn)
+            number_of_transactions_the_new_block_can_accomodate -= 1
+        
+    print(f"{env.now}: Transactions to be inserted in new block: {len(transactions_to_be_inserted_in_new_block)}")
 
     mining_time = random.expovariate(peer.hashingPower/IaT) #//TODO:
-    #//TODO:
+    print(f'{env.now}: Longest node {longest_chain_node.BlkId} for {peer.ID} before mining')
     yield env.timeout(mining_time)
 
 
     lengths = nx.single_source_shortest_path_length(peer.ledger,source=peer.genesis)
-    longest_chain_node_new = None
-    max_length = -1
-    for blk in lengths:
-        if lengths[blk] > max_length:
-            longest_chain_node_new = blk
-            max_length = lengths[blk]
+    longest_chain_node_new = max(lengths, key=lengths.get)
 
-    print(f"Peer {peer.ID} ends mining at {env.now}.")
+    print(f"{env.now}: Peer {peer.ID} ends mining")
+    print(f'{env.now}: Longest node {longest_chain_node_new.BlkId} for {peer.ID} after mining')
 
     if longest_chain_node != longest_chain_node_new:
-            print(f"Peer {peer.ID} was slow in mining someone else mined first.")
-
-    print(f'Longest node {longest_chain_node.BlkId} for {peer.ID} at {env.now} before mining')
-    print(f'Longest node {longest_chain_node_new.BlkId} for {peer.ID} at {env.now} after mining')
+        print(f"{env.now}: Peer {peer.ID} was slow in mining someone else mined first.")
+        return
 
     # if longest_chain_node == longest_chain_node_new:
-    txns = peer.mempool[:1023]
-    # TODO: only add txns that are not in chain.
-    block = Block(peer,env.now,longest_chain_node,txns)
-    peer.mempool = peer.mempool[1024:]
+    block = Block(peer,env.now,longest_chain_node,transactions_to_be_inserted_in_new_block)
     block.TxnList.append(Transaction(env.now,None,peer,50)) # add coinbase txn to block
-    block.peers_already_received.add(peer.ID)
-    print(f"Block {block.BlkId} mined by {peer.ID} and added in its ledger at {env.now}.")
-    print(f"Peer {peer.ID} previous ledger",[blk.BlkId for blk in peer.ledger.nodes])
+    print(f"{env.now}: Block {block.BlkId} mined by {peer.ID} and added in its ledger")
+    print(f"{env.now}: Peer {peer.ID} previous ledger",[blk.BlkId for blk in peer.ledger.nodes])
     peer.Tree.add(block)
     peer.ledger.add_node(block)
     peer.ledger.add_edge(longest_chain_node,block)
-    print(f"Peer {peer.ID} updated ledger",[blk.BlkId for blk in peer.ledger.nodes])
+    print(f"{env.now}: Peer {peer.ID} updated ledger",[blk.BlkId for blk in peer.ledger.nodes])
 
     # if longest_chain_node == longest_chain_node_new:
     peer.balance += 50
     for neigh in peer.neighbours:
-            if neigh.ID not in block.peers_already_received:
-                print(f"Forwarding from generator function -- Block {block.BlkId} to Peer {neigh.ID} from Peer {peer.ID}")
-    env.process(forward_block(env,block,peer,neigh))
+        print(f"{env.now}: Forwarding from generator function -- Block {block.BlkId} to Peer {neigh.ID} from Peer {peer.ID}")
+        env.process(forward_block(env,block,peer,neigh))
     # else:
     #     print(f"Peer {peer.ID} was slow in mining someone else mined first.")
 
 for peer in peers:
-    # 1. generate first transaction for each peer
-    filtered_peer = [x for x in peers if x != peer]
-    def transaction_generator_for_every_peer(env, peer, filtered_peer):
+    # possible_receivers is the array of peers except the current peer
+    possible_receivers = [x for x in peers if x != peer]
+    def transaction_generator_for_every_peer(env, peer, possible_receivers):
         while True:
             waitTime = random.expovariate(1 / Ttx)
             yield env.timeout(waitTime)
-            generate_transaction(env, peer, random.choice(filtered_peer))
+            generate_transaction(env, peer, random.choice(possible_receivers))
 
-    env.process(transaction_generator_for_every_peer(env, peer, filtered_peer))
+    env.process(transaction_generator_for_every_peer(env, peer, possible_receivers))
 
 for peer in peers:
 
