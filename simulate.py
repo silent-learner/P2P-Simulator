@@ -10,7 +10,7 @@ n_peers = 50
 z0 = 0.2
 z1 = 0.3
 Ttx = 1
-IaT = 15
+IaT = 4
 
 P2P_network , peers = P2P_network_generate(n_peers, z0, z1)
 
@@ -55,14 +55,14 @@ def forward_block(env,block : Block,peer : Peer, peer2 : Peer):
      #  validate
 
     for txn in block.TxnList:
-        if txn.receiver is not None and txn.sender.balance < txn.amount:
+        if txn.sender is not None and txn.sender.balance < txn.amount:
             print(f"Block {block.BlkId} is discarded by peer {peer2.ID} since Txn {txn.TxnID} is invalid.")
             return
 
     # all txns are valid now update balance of sender and receiver
     for txn in block.TxnList:
         print(f' here for txn {txn.TxnID}')
-        if txn.receiver is not None: # coinbase txn 
+        if txn.sender is not None: # coinbase txn 
             txn.sender.balance -= txn.amount
             txn.receiver.balance += txn.amount
 
@@ -130,7 +130,7 @@ def generate_block(env,peer :Peer):
     # TODO: only add txns that are not in chain.
     block = Block(peer,env.now,longest_chain_node,txns)
     peer.mempool.clear()
-    block.TxnList.append(Transaction(env.now,peer,None,50)) # add coinbase txn to block
+    block.TxnList.append(Transaction(env.now,None,peer,50)) # add coinbase txn to block
     block.peers_already_received.add(peer.ID)
     print(f"Block {block.BlkId} mined by {peer.ID} and added in its ledger at {env.now}.")
     print(f"Peer {peer.ID} previous ledger",[blk.BlkId for blk in peer.ledger.nodes])

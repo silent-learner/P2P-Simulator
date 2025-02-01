@@ -5,7 +5,7 @@ class Transaction:
     def __init__(self,time,sender : Peer,receiver : Peer, amount):
         self.TxnID = Transaction.uID
         self.time = time
-        self.message = f'{self.TxnID}: {sender.ID} pays {receiver.ID} {amount} coins.' if receiver is not None else f'{self.TxnID}: {sender.ID} mines 50 coins.'
+        self.message = f'{self.TxnID}: {sender.ID} pays {receiver.ID} {amount} coins.' if receiver is not None else f'{self.TxnID}: {receiver.ID} mines 50 coins.'
         self.sender = sender
         self.receiver = receiver
         self.amount = amount
