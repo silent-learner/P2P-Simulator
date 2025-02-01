@@ -3,12 +3,13 @@ import Peer
 
 class Block:
     count = 0
-    def __init__(self,miner,time,prevID,TxnList=[]):
+    def __init__(self,miner,time,prevBlock,TxnList=[]):
+        print("Block prev ",prevBlock)
         self.BlkId = Block.count
         self.time = time
         self.miner = miner
-        self.prevId = prevID
-        self.TxnList = []
+        self.prevBlock = prevBlock
+        self.TxnList = TxnList
         self.peers_already_received = set()
         Block.count += 1
 
@@ -22,4 +23,6 @@ class Block:
         return prop_delay + queing_delay + trn_delay
 
     def __str__(self):
-        return f'{self.BlkId} mined by {self.miner} at {self.time}.'
+        prevID = self.prevBlock.BlkId if self.prevBlock is not None else "None"
+        minerID = self.miner.ID if self.miner is not None else "None"
+        return f' Block {self.BlkId} --- prevBlock {prevID} --------- mined by {minerID} at {self.time}.'

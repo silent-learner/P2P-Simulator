@@ -1,3 +1,5 @@
+import networkx as nx
+import matplotlib.pyplot as plt
 from Peer import *
 import random
 
@@ -8,8 +10,6 @@ def delay(A : Peer , B : Peer , m):
         queing_delay = random.expovariate(cij/96000)
         return prop_delay + queing_delay + trn_delay
         
-import networkx as nx
-import matplotlib.pyplot as plt
 
 def make_blockChainTree(graph,genesis,filename="tree_multipartite.png"):
     plt.figure(figsize=(10, 6))  

@@ -39,7 +39,7 @@ def isConnected(G : nx.Graph):
     return nx.is_connected(G)
 
 def P2P_network_generate(n_peers, z0, z1):
-    genesis_block = Block(None,0,-1)
+    genesis_block = Block(None,0,None)
     peers = [Peer(i,genesis=genesis_block) for i in range(n_peers)]
 
     slow = z0 * n_peers

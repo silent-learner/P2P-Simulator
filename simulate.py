@@ -6,11 +6,11 @@ from Graph_utils import *
 import simpy as sp
 
 
-n_peers = 50
+n_peers = 7
 z0 = 0.2
 z1 = 0.3
-Ttx = 1
-IaT = 4
+Ttx = 5
+IaT = 10
 
 P2P_network , peers = P2P_network_generate(n_peers, z0, z1)
 
@@ -19,7 +19,7 @@ env = sp.Environment()
 transactions = []
 
 def generate_transaction(env, sender : Peer, receiver : Peer): 
-    txn = Transaction(env.now,sender,receiver,random.randint(10,25))
+    txn = Transaction(env.now,sender,receiver,random.randint(1,5))
     # print(txn)
     # if sender.balance <= txn.amount:
     sender.mempool.append(txn)
@@ -80,7 +80,7 @@ def forward_block(env,block : Block,peer : Peer, peer2 : Peer):
     block.peers_already_received.add(peer2.ID)
     print(f'Longest node {longest_chain_node.BlkId} for {peer2.ID} at {env.now}')
     peer2.ledger.add_node(block)
-    peer2.Tree.add(block.BlkId)
+    peer2.Tree.add(block)
     peer2.ledger.add_edge(longest_chain_node,block)
 
     print(f"Peer {peer2.ID} updated ledger",[blk.BlkId for blk in peer2.ledger.nodes])
@@ -126,15 +126,15 @@ def generate_block(env,peer :Peer):
     print(f'Longest node {longest_chain_node_new.BlkId} for {peer.ID} at {env.now} after mining')
 
     # if longest_chain_node == longest_chain_node_new:
-    txns = peer.mempool
+    txns = peer.mempool[:1023]
     # TODO: only add txns that are not in chain.
     block = Block(peer,env.now,longest_chain_node,txns)
-    peer.mempool.clear()
+    peer.mempool = peer.mempool[1024:]
     block.TxnList.append(Transaction(env.now,None,peer,50)) # add coinbase txn to block
     block.peers_already_received.add(peer.ID)
     print(f"Block {block.BlkId} mined by {peer.ID} and added in its ledger at {env.now}.")
     print(f"Peer {peer.ID} previous ledger",[blk.BlkId for blk in peer.ledger.nodes])
-    peer.Tree.add(block.BlkId)
+    peer.Tree.add(block)
     peer.ledger.add_node(block)
     peer.ledger.add_edge(longest_chain_node,block)
     print(f"Peer {peer.ID} updated ledger",[blk.BlkId for blk in peer.ledger.nodes])
@@ -181,16 +181,20 @@ env.run(until=100)
 
 for peer in peers:
     print(peer.ID,peer.isSlow,peer.hashingPower,peer.balance)
-    for txn in peer.mempool:
-        print('\t',txn)
-    for block in peer.ledger.nodes():
-        for txn in block.TxnList:
-            print(txn)
+    # for txn in peer.mempool:
+    #     print('\t',txn)
+    # for block in peer.ledger.nodes():
+    #     for txn in block.TxnList:
+    #         print(txn)
     # nx.draw(peer.ledger,labels={n: n.BlkId for n in peer.ledger.nodes})
     # plt.savefig(f'Blockchain{peer.ID}.png')
     make_blockChainTree(peer.ledger,peer.genesis,f'./BlockChainTrees/Block Chain Tree {peer.ID}.png')
     plt.clf()
     print()
 
+for peer in peers:
+        print(f"Peer {peer.ID} blockchain tree")
+        for block in peer.Tree:
+            print('\t',block)
 
 print("------------------------------------The end--------------------------------------------")
