@@ -1,1192 +1,2085 @@
 Block prev  None
-0.5166928422222078: Txn 0 created by 2.
-0.5499841376616236: Txn 0 received by 5.
-0.586494813472474: Txn 0 received by 3.
-0.6043555821434738: Txn 0 received by 1.
-0.6086130295081587: Txn 0 received by 6.
-0.6433247159881437: Txn 0 received by 4.
-0.6979565383515305: Txn 0 received by 0.
-0.7042378064620433: Length of the longest path: 1
-0.7042378064620433: path: [0]
-0.7042378064620433: Peer 3 starts mining
-0.7042378064620433: Transactions in the longest chain: 0
-0.7042378064620433: Transactions to be inserted in new block: 1
-0.7042378064620433: Longest node 0 for 3 before mining
-1.176237008054519: Txn 1 created by 3.
-1.1977119128167901: Txn 1 received by 6.
-1.2127051221114171: Txn 1 received by 5.
-1.2359763597663584: Txn 1 received by 4.
-1.2463945200985125: Txn 1 received by 2.
-1.3208910907092446: Txn 1 received by 1.
-1.324109349494082: Txn 2 created by 4.
-1.367309071214248: Txn 1 received by 0.
-1.3821183918544668: Txn 2 received by 3.
-1.4040952438032148: Txn 2 received by 6.
-1.4182978933686645: Txn 2 received by 5.
-1.4523848960748202: Txn 2 received by 2.
-1.4542076220494446: Txn 2 received by 0.
-1.4845891385599568: Txn 2 received by 1.
-1.739504637762347: Txn 3 created by 1.
-1.7990094078155323: Txn 3 received by 5.
-1.8274728876395756: Txn 3 received by 0.
-1.8328446025043104: Txn 3 received by 2.
-1.8358408518587805: Txn 3 received by 3.
-1.8575365534442054: Txn 3 received by 6.
-1.8925638991646023: Txn 3 received by 4.
-2.8481158453658892: Length of the longest path: 1
-2.8481158453658892: path: [0]
-2.8481158453658892: Peer 6 starts mining
-2.8481158453658892: Transactions in the longest chain: 0
-2.8481158453658892: Transactions to be inserted in new block: 4
-2.8481158453658892: Longest node 0 for 6 before mining
-3.526309008390455: Length of the longest path: 1
-3.526309008390455: path: [0]
-3.526309008390455: Peer 1 starts mining
-3.526309008390455: Transactions in the longest chain: 0
-3.526309008390455: Transactions to be inserted in new block: 4
-3.526309008390455: Longest node 0 for 1 before mining
-3.720117470870828: Length of the longest path: 1
-3.720117470870828: path: [0]
-3.720117470870828: Peer 5 starts mining
-3.720117470870828: Transactions in the longest chain: 0
-3.720117470870828: Transactions to be inserted in new block: 4
-3.720117470870828: Longest node 0 for 5 before mining
-3.9814494309389716: Txn 4 created by 6.
-4.003581903495161: Txn 4 received by 3.
-4.04165933830757: Txn 4 received by 5.
-4.062054139794234: Txn 4 received by 4.
-4.074962322590498: Txn 4 received by 2.
-4.098887893307612: Txn 4 received by 1.
-4.123194838803004: Txn 5 created by 5.
-4.159830894097824: Txn 5 received by 3.
-4.161364801475753: Txn 5 received by 2.
-4.181975606419903: Txn 5 received by 6.
-4.185021919112478: Txn 5 received by 1.
-4.19182559767703: Txn 4 received by 0.
-4.216558560399835: Txn 5 received by 4.
-4.276297590084758: Txn 5 received by 0.
-4.334884561938398: Txn 6 created by 3.
-4.356695978220532: Txn 6 received by 6.
-4.359747113484421: Txn 7 created by 2.
-4.371338639398586: Txn 6 received by 5.
-4.392847919877767: Txn 6 received by 4.
-4.394048673312849: Txn 7 received by 5.
-4.405417819357916: Txn 6 received by 2.
-4.430861224718244: Txn 7 received by 3.
-4.4340353919722615: Txn 6 received by 1.
-4.452998581359544: Txn 7 received by 6.
-4.46444337738192: Txn 7 received by 1.
-4.48818939627237: Txn 7 received by 4.
-4.521749950182243: Txn 6 received by 0.
-4.540482771446356: Txn 7 received by 0.
-5.6262412391396515: Txn 8 created by 0.
-5.729466810531669: Txn 8 received by 1.
-5.7551618217124645: Txn 8 received by 4.
-5.80677054738318: Txn 8 received by 2.
-5.816145864675759: Txn 8 received by 3.
-5.817575368945801: Txn 8 received by 5.
-5.837580370696411: Txn 8 received by 6.
-6.570903090669642: Txn 9 created by 4.
-6.627686266414547: Txn 9 received by 3.
-6.649308842871092: Txn 9 received by 6.
-6.66427153176688: Txn 9 received by 5.
-6.697825269927815: Txn 9 received by 2.
-6.702541916334563: Txn 9 received by 0.
-6.736361198725512: Txn 9 received by 1.
-7.042080721939662: Txn 10 created by 5.
-7.075208864578205: Txn 10 received by 2.
-7.080234782848005: Txn 10 received by 3.
-7.101739466247648: Txn 10 received by 6.
-7.133203232084948: Txn 10 received by 1.
-7.140554358279827: Txn 10 received by 4.
-7.216378198643274: Txn 10 received by 0.
-7.3663550994940925: Txn 11 created by 0.
-7.459729253762324: Txn 11 received by 1.
-7.496236045085852: Txn 11 received by 4.
-7.53002772263638: Txn 11 received by 5.
-7.5472901942737245: Txn 11 received by 2.
-7.552997397199821: Txn 11 received by 3.
-7.574629787328683: Txn 11 received by 6.
-7.603159928698999: Txn 12 created by 0.
-7.6843425855877046: Txn 12 received by 1.
-7.73206763630999: Txn 12 received by 4.
-7.747056536671539: Txn 12 received by 5.
-7.780287947192898: Txn 12 received by 2.
-7.783912746769015: Txn 12 received by 3.
-7.806503174741614: Txn 12 received by 6.
-8.139401173470665: Txn 13 created by 3.
-8.163099822866888: Txn 13 received by 6.
-8.176528396457854: Txn 13 received by 5.
-8.197076636470824: Txn 13 received by 4.
-8.213111006620244: Txn 13 received by 2.
-8.233263281243753: Txn 13 received by 1.
-8.327240789090114: Txn 13 received by 0.
-10.423994373061198: Txn 14 created by 3.
-10.447811142943275: Txn 14 received by 6.
-10.460055939088127: Txn 14 received by 5.
-10.481409974424949: Txn 14 received by 4.
-10.493227133447668: Txn 14 received by 2.
-10.532024131236867: Txn 14 received by 1.
-10.610545824206765: Txn 14 received by 0.
-10.769606790023246: Txn 15 created by 4.
-10.827657093858761: Txn 15 received by 3.
-10.850727891790175: Txn 15 received by 6.
-10.86421870390226: Txn 15 received by 5.
-10.897431716121414: Txn 15 received by 2.
-10.899597292938166: Txn 15 received by 0.
-10.92105260649479: Txn 15 received by 1.
-12.333282737039802: Length of the longest path: 1
-12.333282737039802: path: [0]
-12.333282737039802: Peer 2 starts mining
-12.333282737039802: Transactions in the longest chain: 0
-12.333282737039802: Transactions to be inserted in new block: 16
-12.333282737039802: Longest node 0 for 2 before mining
-13.488250026615406: Txn 16 created by 6.
-13.510542978507358: Txn 16 received by 3.
-13.547014550856689: Txn 16 received by 5.
-13.567481935788495: Txn 16 received by 4.
-13.58030779090838: Txn 16 received by 2.
-13.614914116741698: Txn 16 received by 1.
-13.69697163521244: Txn 16 received by 0.
-14.283415963965592: Txn 17 created by 2.
-14.316686197069286: Txn 17 received by 5.
-14.353235243561684: Txn 17 received by 3.
-14.375119408641993: Txn 17 received by 6.
-14.411033307488944: Txn 17 received by 4.
-14.42176135037612: Txn 17 received by 1.
-14.463795230749012: Txn 17 received by 0.
-15.772552910026896: Length of the longest path: 1
-15.772552910026896: path: [0]
-15.772552910026896: Peer 0 starts mining
-15.772552910026896: Transactions in the longest chain: 0
-15.772552910026896: Transactions to be inserted in new block: 18
-15.772552910026896: Longest node 0 for 0 before mining
-16.036287158861054: Txn 18 created by 6.
-16.05795050078032: Txn 18 received by 3.
-16.094356484352: Txn 18 received by 5.
-16.11514874491105: Txn 18 received by 4.
-16.12898388725682: Txn 18 received by 2.
-16.155728665395568: Txn 18 received by 1.
-16.24412858069238: Txn 18 received by 0.
-16.80605396310389: Txn 19 created by 0.
-16.827635238386076: Length of the longest path: 1
-16.827635238386076: path: [0]
-16.827635238386076: Peer 4 starts mining
-16.827635238386076: Transactions in the longest chain: 0
-16.827635238386076: Transactions to be inserted in new block: 19
-16.827635238386076: Longest node 0 for 4 before mining
-16.88953241668005: Txn 19 received by 1.
-16.935463414659708: Txn 19 received by 4.
-16.957376554015596: Txn 19 received by 5.
-16.986381099703785: Txn 19 received by 2.
-16.992531819531187: Txn 19 received by 3.
-17.016142494639443: Txn 19 received by 6.
-20.49263454165712: Txn 20 created by 1.
-20.549208226309265: Txn 20 received by 5.
-20.569601642097894: Txn 20 received by 0.
-20.582651941340146: Txn 20 received by 2.
-20.58553267842238: Txn 20 received by 3.
-20.607346010788472: Txn 20 received by 6.
-20.642532167906154: Txn 20 received by 4.
-21.94481773273351: Txn 21 created by 4.
-22.002124542993524: Txn 21 received by 3.
-22.023800413446725: Txn 21 received by 6.
-22.03989711223814: Txn 21 received by 5.
-22.073738901786438: Txn 21 received by 0.
-22.074173469672978: Txn 21 received by 2.
-22.128431519115328: Txn 21 received by 1.
-22.270661308264486: Txn 22 created by 2.
-22.304040632695898: Txn 22 received by 5.
-22.340899068260065: Txn 22 received by 3.
-22.35873018248696: Txn 22 received by 1.
-22.362264749096145: Txn 22 received by 6.
-22.400312769633878: Txn 22 received by 4.
-22.45193170154909: Txn 22 received by 0.
-22.55672998626232: Txn 23 created by 1.
-22.648811540899054: Txn 23 received by 0.
-22.708585722980615: Txn 23 received by 5.
-22.7424207115559: Txn 23 received by 2.
-22.74488781913041: Txn 23 received by 3.
-22.768877453743507: Txn 23 received by 6.
-22.777719269545496: Txn 23 received by 4.
-23.71215107189804: Txn 24 created by 4.
-23.76906491353447: Txn 24 received by 3.
-23.790840159404727: Txn 24 received by 6.
-23.805273816243954: Txn 24 received by 5.
-23.838426270061706: Txn 24 received by 2.
-23.842668026850344: Txn 24 received by 0.
-23.892949694790214: Txn 24 received by 1.
-24.4774561727615: Txn 25 created by 1.
-24.551716361312543: Txn 25 received by 5.
-24.55837153647721: Txn 25 received by 0.
-24.585784313232704: Txn 25 received by 2.
-24.58791343358071: Txn 25 received by 3.
-24.610589308561106: Txn 25 received by 6.
-24.644638705964702: Txn 25 received by 4.
-25.043989813145533: Txn 26 created by 0.
-25.1027186170746: Txn 27 created by 4.
-25.122133993047274: Txn 28 created by 1.
-25.159513682967997: Txn 27 received by 3.
-25.17238263894788: Txn 26 received by 1.
-25.174335602635388: Txn 26 received by 4.
-25.180979297302493: Txn 27 received by 6.
-25.19563901529417: Txn 27 received by 5.
-25.1956898139644: Txn 28 received by 5.
-25.20141856508639: Txn 28 received by 0.
-25.226073763242717: Txn 26 received by 2.
-25.229820170125542: Txn 27 received by 2.
-25.230284256557788: Txn 28 received by 2.
-25.231299725467515: Txn 26 received by 3.
-25.23218914119043: Txn 27 received by 0.
-25.23433313434213: Txn 28 received by 3.
-25.252095208926143: Txn 26 received by 5.
-25.25275694930293: Txn 26 received by 6.
-25.259509115802636: Txn 28 received by 6.
-25.261243943407408: Txn 27 received by 1.
-25.292339040917753: Txn 28 received by 4.
-25.71453764107495: Txn 29 created by 3.
-25.735950673673504: Txn 29 received by 6.
-25.753889546451163: Txn 29 received by 5.
-25.77221493822947: Txn 29 received by 4.
-25.787169140285137: Txn 29 received by 2.
-25.85261015485583: Txn 29 received by 1.
-25.901186968561746: Txn 29 received by 0.
-26.851549179066602: Txn 30 created by 6.
-26.874071154964128: Txn 30 received by 3.
-26.910434531445244: Txn 30 received by 5.
-26.931488732047633: Txn 30 received by 4.
-26.946798051186395: Txn 30 received by 2.
-26.98606617170674: Txn 30 received by 1.
-27.0620451789009: Txn 30 received by 0.
-27.994827326769798: Txn 31 created by 0.
-28.073786043098547: Txn 31 received by 1.
-28.123799210802854: Txn 31 received by 4.
-28.133623836635017: Txn 31 received by 5.
-28.16746232113773: Txn 31 received by 2.
-28.170000575238777: Txn 31 received by 3.
-28.191648470357038: Txn 31 received by 6.
-30.071873825708145: Txn 32 created by 4.
-30.12900039985691: Txn 32 received by 3.
-30.15036739259277: Txn 32 received by 6.
-30.165135171350865: Txn 32 received by 5.
-30.20078537571352: Txn 32 received by 0.
-30.201554858119373: Txn 32 received by 2.
-30.260484114184894: Txn 32 received by 1.
-30.840966365568715: Txn 33 created by 4.
-30.899358588913422: Txn 33 received by 3.
-30.92462281102913: Txn 33 received by 6.
-30.935657273263192: Txn 33 received by 5.
-30.970778714446027: Txn 33 received by 2.
-30.974112265230364: Txn 33 received by 0.
-31.004422579160472: Txn 34 created by 0.
-31.00962691083268: Txn 33 received by 1.
-31.126131938584773: Txn 34 received by 1.
-31.13491288853054: Txn 34 received by 4.
-31.17970246244258: Txn 34 received by 5.
-31.18506072285388: Txn 34 received by 2.
-31.193006300970676: Txn 34 received by 3.
-31.215452105560864: Txn 34 received by 6.
-31.239594028103514: Txn 35 created by 6.
-31.25670171561444: Txn 36 created by 4.
-31.261379398408366: Txn 35 received by 3.
-31.297907407618812: Txn 35 received by 5.
-31.313640430501568: Txn 36 received by 3.
-31.3183256175468: Txn 35 received by 4.
-31.33271358496039: Txn 35 received by 2.
-31.335747832000063: Txn 36 received by 6.
-31.351420003148128: Txn 36 received by 5.
-31.355541351455642: Txn 35 received by 1.
-31.385902504822784: Txn 36 received by 0.
-31.38787687376666: Txn 36 received by 2.
-31.41680260189364: Txn 36 received by 1.
-31.44583457695003: Txn 35 received by 0.
-31.573856585317284: Txn 37 created by 4.
-31.63068879547313: Txn 37 received by 3.
-31.652322090924233: Txn 37 received by 6.
-31.66857872859361: Txn 37 received by 5.
-31.701995046994128: Txn 37 received by 2.
-31.703643121423852: Txn 37 received by 0.
-31.725230874513734: Txn 37 received by 1.
-31.79786822876003: Txn 38 created by 2.
-31.83115642377227: Txn 38 received by 5.
-31.867570295126527: Txn 38 received by 3.
-31.889617509270195: Txn 38 received by 6.
-31.909693206970367: Txn 38 received by 1.
-31.924917776986305: Txn 38 received by 4.
-31.979151637450187: Txn 38 received by 0.
-32.112386918790165: Txn 39 created by 4.
-32.16935633775237: Txn 39 received by 3.
-32.19207452003578: Txn 39 received by 6.
-32.20664285554495: Txn 39 received by 5.
-32.23978924767318: Txn 39 received by 2.
-32.242208967748276: Txn 39 received by 0.
-32.260171128949615: Txn 39 received by 1.
-32.90042363528132: Txn 40 created by 0.
-32.973967921538275: Txn 41 created by 3.
-32.98232549961946: Txn 40 received by 1.
-32.99626430751656: Txn 41 received by 6.
-33.01027386330769: Txn 41 received by 5.
-33.03048247889537: Txn 40 received by 4.
-33.030954950034584: Txn 41 received by 4.
-33.043497021556: Txn 41 received by 2.
-33.050015744855806: Txn 40 received by 5.
-33.081187737447216: Txn 40 received by 2.
-33.08639907760259: Txn 40 received by 3.
-33.08693556986028: Txn 41 received by 1.
-33.108402011161175: Txn 40 received by 6.
-33.161833762895505: Txn 41 received by 0.
-34.501669199637405: Txn 42 created by 5.
-34.53507123397532: Txn 42 received by 2.
-34.539698791659454: Txn 42 received by 3.
-34.55807462225008: Txn 42 received by 1.
-34.56119308567931: Txn 42 received by 6.
-34.598366398452235: Txn 42 received by 4.
-34.65015248447637: Txn 42 received by 0.
-35.18134031675392: Txn 43 created by 4.
-35.238702559984695: Txn 43 received by 3.
-35.260647991313526: Txn 43 received by 6.
-35.27500022194405: Txn 43 received by 5.
-35.308151005748314: Txn 43 received by 2.
-35.31163883783048: Txn 43 received by 0.
-35.38844560944532: Txn 43 received by 1.
-35.40048829455076: Txn 44 created by 1.
-35.483684478914064: Txn 44 received by 5.
-35.49236006072301: Txn 44 received by 0.
-35.51858895525139: Txn 44 received by 2.
-35.520214554233135: Txn 44 received by 3.
-35.54445217263742: Txn 44 received by 6.
-35.57713287849493: Txn 44 received by 4.
-36.04891111269953: Txn 45 created by 6.
-36.07236237857502: Txn 45 received by 3.
-36.10854416742665: Txn 45 received by 5.
-36.130911452332086: Txn 45 received by 4.
-36.14410076082996: Txn 45 received by 2.
-36.17888010320867: Txn 45 received by 1.
-36.25990431240964: Txn 45 received by 0.
-36.779569702964565: Txn 46 created by 4.
-36.836621175602474: Txn 46 received by 3.
-36.858647091743556: Txn 46 received by 6.
-36.87357801436204: Txn 46 received by 5.
-36.90744385538562: Txn 46 received by 2.
-36.908560079563216: Txn 46 received by 0.
-36.94310200941496: Txn 47 created by 4.
-36.95041827312659: Txn 46 received by 1.
-36.99995955375715: Txn 47 received by 3.
-37.02177024312838: Txn 47 received by 6.
-37.0398048548047: Txn 47 received by 5.
-37.07237671097757: Txn 47 received by 0.
-37.07298990044493: Txn 47 received by 2.
-37.10040404282668: Txn 47 received by 1.
-37.22507568820686: Txn 48 created by 4.
-37.28225934555443: Txn 48 received by 3.
-37.304598463420426: Txn 48 received by 6.
-37.31889957747945: Txn 48 received by 5.
-37.35336178948674: Txn 48 received by 2.
-37.354586377836576: Txn 48 received by 0.
-37.37418589221747: Txn 48 received by 1.
-37.694325362260976: Peer 5 ends mining
-37.694325362260976: Longest node 0 for 5 after mining
+0.054944158886537545: P1: Txn 0 created by 1: 1 to 3 coins 3
+0.08793496170598755: P3: Txn 0 received by 3.
+0.11681275900693763: P4: Txn 1 created by 4: 4 to 3 coins 2
+0.1739532477152184: P4: Txn 0 received by 4.
+0.18745040570119598: P5: Txn 0 received by 5.
+0.24247690476566724: P2: Txn 0 received by 2.
+0.24291305797076337: P1: Txn 1 received by 1.
+0.26979322965796243: P3: Txn 1 received by 3.
+0.3687393797562961: P5: Txn 1 received by 5.
+0.39463205025555004: P6: Txn 0 received by 6.
+0.40318724215365664: P0: Txn 1 received by 0.
+0.4135436151407113: P2: Txn 1 received by 2.
+0.4620009068866898: P0: Txn 0 received by 0.
+0.5654102837746731: P6: Txn 1 received by 6.
+1.0745673444595376: P0: Txn 2 created by 0: 0 to 2 coins 3
+1.2692334101676739: P3: Txn 3 created by 3: 3 to 6 coins 3
+1.2873409150709891: P1: Txn 3 received by 1.
+1.3267492333719262: P6: Txn 2 received by 6.
+1.3601981975679043: P4: Txn 2 received by 4.
+1.3700130034393745: P5: Txn 3 received by 5.
+1.4432721120657799: P2: Txn 3 received by 2.
+1.4522425018147063: P2: Txn 2 received by 2.
+1.459383954874523: P4: Txn 3 received by 4.
+1.5229990081769504: P1: Txn 2 received by 1.
+1.5348533423287978: P5: Txn 2 received by 5.
+1.536455815954481: P2: Txn 4 created by 2: 2 to 6 coins 4
+1.5546285681817864: P3: Txn 2 received by 3.
+1.596002169847921: P6: Txn 3 received by 6.
+1.6846642702899841: P1: Txn 4 received by 1.
+1.6893292646762392: P6: Txn 4 received by 6.
+1.701762498402157: P3: Txn 4 received by 3.
+1.7031686919801077: P6: Txn 5 created by 6: 6 to 2 coins 4
+1.7153188124380097: P4: Length of the longest path: 1
+1.7153188124380097: P4: path: [0]
+1.7153188124380097: P4: Peer 4 starts mining
+1.7153188124380097: P4: Transactions in the longest chain: 0
+1.7153188124380097: P4: Peer 4: Transactions to be inserted in new block: 4
+1.7153188124380097: P4: Longest node 0 for 4 before mining
+1.7474572147206784: P0: Txn 3 received by 0.
+1.8011950675878108: P5: Txn 4 received by 5.
+1.8081440080671578: P4: Txn 4 received by 4.
+1.8561623729956946: P2: Txn 5 received by 2.
+1.9156571233100546: P0: Txn 4 received by 0.
+1.9545027823509074: P0: Txn 5 received by 0.
+2.020311843489228: P1: Txn 5 received by 1.
+2.0441589495783425: P5: Txn 5 received by 5.
+2.052694148700782: P3: Txn 5 received by 3.
+2.1729031494936777: P4: Txn 5 received by 4.
+2.222719247543671: P1: Txn 6 created by 1: 1 to 3 coins 1
+2.2770441849024383: P3: Txn 6 received by 3.
+2.3424292963875777: P4: Txn 6 received by 4.
+2.3744276483524183: P2: Txn 6 received by 2.
+2.3760888675373852: P5: Txn 6 received by 5.
+2.5262984089326: P6: Txn 6 received by 6.
+2.6290732287723237: P0: Txn 6 received by 0.
+3.27184726731649: P2: Txn 7 created by 2: 2 to 3 coins 2
+3.4252003874707118: P6: Txn 7 received by 6.
+3.4288364273739353: P1: Txn 7 received by 1.
+3.486136205719821: P3: Txn 7 received by 3.
+3.584950624000735: P5: Txn 7 received by 5.
+3.5967812478433077: P4: Txn 7 received by 4.
+3.6523114140576136: P0: Txn 7 received by 0.
+3.9621327804055024: P0: Txn 8 created by 0: 0 to 1 coins 4
+4.2135241273059245: P6: Txn 8 received by 6.
+4.247624009523101: P4: Txn 8 received by 4.
+4.34091247392749: P2: Txn 8 received by 2.
+4.373856238189841: P1: Txn 8 received by 1.
+4.423074912946234: P5: Txn 8 received by 5.
+4.425360160537112: P3: Txn 8 received by 3.
+5.458740502122849: P2: Txn 9 created by 2: 2 to 6 coins 5
+5.471912108828152: P3: Length of the longest path: 1
+5.471912108828152: P3: path: [0]
+5.471912108828152: P3: Peer 3 starts mining
+5.471912108828152: P3: Transactions in the longest chain: 0
+5.471912108828152: P3: Peer 3: Transactions to be inserted in new block: 9
+5.471912108828152: P3: Longest node 0 for 3 before mining
+5.489542900448778: P3: Txn 10 created by 3: 3 to 2 coins 4
+5.506771710590088: P1: Txn 10 received by 1.
+5.59059841724984: P5: Txn 10 received by 5.
+5.612462075966097: P6: Txn 9 received by 6.
+5.627978991580933: P1: Txn 9 received by 1.
+5.650296933281512: P3: Txn 9 received by 3.
+5.664215373000821: P2: Txn 10 received by 2.
+5.749036979921768: P5: Txn 9 received by 5.
+5.7609543176595: P4: Txn 9 received by 4.
+5.816614316244261: P6: Txn 10 received by 6.
+5.835984834252873: P4: Txn 10 received by 4.
+5.836784068164294: P0: Txn 9 received by 0.
+6.04443018421545: P0: Txn 10 received by 0.
+6.364283686261601: P5: Txn 11 created by 5: 5 to 3 coins 5
+6.463235653725715: P3: Txn 11 received by 3.
+6.488062610751097: P1: Txn 11 received by 1.
+6.609299219238254: P4: Txn 11 received by 4.
+6.6659235582016505: P2: Txn 11 received by 2.
+6.7054983634395295: P6: Txn 11 received by 6.
+6.825605926128191: P0: Txn 11 received by 0.
+7.28883206117049: P4: Txn 12 created by 4: 4 to 1 coins 1
+7.294927926074311: P2: Length of the longest path: 1
+7.294927926074311: P2: path: [0]
+7.294927926074311: P2: Peer 2 starts mining
+7.294927926074311: P2: Transactions in the longest chain: 0
+7.294927926074311: P2: Peer 2: Transactions to be inserted in new block: 12
+7.294927926074311: P2: Longest node 0 for 2 before mining
+7.385441270110569: P5: Length of the longest path: 1
+7.385441270110569: P5: path: [0]
+7.385441270110569: P5: Peer 5 starts mining
+7.385441270110569: P5: Transactions in the longest chain: 0
+7.385441270110569: P5: Peer 5: Transactions to be inserted in new block: 12
+7.385441270110569: P5: Longest node 0 for 5 before mining
+7.457596440159545: P1: Txn 12 received by 1.
+7.477294587042518: P3: Txn 12 received by 3.
+7.5743721743093015: P0: Txn 12 received by 0.
+7.578423689229169: P5: Txn 12 received by 5.
+7.613367848361404: P2: Txn 12 received by 2.
+7.765764905630222: P6: Txn 12 received by 6.
+7.935589508350713: P0: Txn 13 created by 0: 0 to 6 coins 4
+8.051629255441808: P6: Txn 14 created by 6: 6 to 5 coins 4
+8.18934101923104: P0: Txn 15 created by 0: 0 to 2 coins 4
+8.189656595576894: P6: Txn 13 received by 6.
+8.204676782705958: P2: Txn 14 received by 2.
+8.221120800560856: P4: Txn 13 received by 4.
+8.303723779577602: P0: Txn 14 received by 0.
+8.313367443025724: P2: Txn 13 received by 2.
+8.343188829263237: P1: Txn 13 received by 1.
+8.362589205931872: P3: Txn 13 received by 3.
+8.371905814540453: P1: Txn 14 received by 1.
+8.391363141104943: P5: Txn 14 received by 5.
+8.396321475580171: P5: Txn 13 received by 5.
+8.417228193977591: P3: Txn 14 received by 3.
+8.418746060615371: P1: Txn 16 created by 1: 1 to 3 coins 5
+8.445104617801821: P6: Txn 15 received by 6.
+8.45816616641234: P3: Txn 16 received by 3.
+8.46434660504215: P4: Peer 4 ends mining
+8.46434660504215: P4: Longest node 0 for 4 after mining
 Block prev   Block 0 --- prevBlock None --------- mined by None at 0.
-37.694325362260976: Block 1 mined by 5 and added in its ledger
-37.694325362260976: Peer 5 previous ledger [0]
-37.694325362260976: Peer 5 updated ledger [0, 1]
-37.694325362260976: Forwarding from generator function -- Block 1 to Peer 1 from Peer 5
-37.694325362260976: Forwarding from generator function -- Block 1 to Peer 6 from Peer 5
-37.694325362260976: Forwarding from generator function -- Block 1 to Peer 4 from Peer 5
-37.694325362260976: Forwarding from generator function -- Block 1 to Peer 2 from Peer 5
-37.694325362260976: Forwarding from generator function -- Block 1 to Peer 3 from Peer 5
-37.694325362260976: Forwarding from generator function -- Block 1 to Peer 0 from Peer 5
-37.705880423231555: Txn 50 created by 6.
-37.72886220774702: Peer 2 received block 1.
-37.72886220774702:  here for txn 0
-37.72886220774702:  here for txn 1
-37.72886220774702:  here for txn 2
-37.72886220774702:  here for txn 3
-37.72886220774702:  here for txn 49
-37.72886220774702: Block 1 reached peer 2 and added to its ledger.
-37.72886220774702: Peer 2 previuos ledger [0]
-37.72886220774702: Longest node 0 for 2
-37.72886220774702: Peer 2 updated ledger [0, 1]
-37.72886220774702: Forwarding from forward fucntion-- Block 1 to Peer 1 from Peer 2
-37.72886220774702: Forwarding from forward fucntion-- Block 1 to Peer 6 from Peer 2
-37.72886220774702: Forwarding from forward fucntion-- Block 1 to Peer 4 from Peer 2
-37.72886220774702: Forwarding from forward fucntion-- Block 1 to Peer 3 from Peer 2
-37.72886220774702: Forwarding from forward fucntion-- Block 1 to Peer 0 from Peer 2
-37.72932726704982: Txn 50 received by 3.
-37.73409186156882: Peer 3 received block 1.
-37.73409186156882:  here for txn 0
-37.73409186156882:  here for txn 1
-37.73409186156882:  here for txn 2
-37.73409186156882:  here for txn 3
-37.73409186156882:  here for txn 49
-37.73409186156882: Block 1 reached peer 3 and added to its ledger.
-37.73409186156882: Peer 3 previuos ledger [0]
-37.73409186156882: Longest node 0 for 3
-37.73409186156882: Peer 3 updated ledger [0, 1]
-37.73409186156882: Forwarding from forward fucntion-- Block 1 to Peer 1 from Peer 3
-37.73409186156882: Forwarding from forward fucntion-- Block 1 to Peer 6 from Peer 3
-37.73409186156882: Forwarding from forward fucntion-- Block 1 to Peer 4 from Peer 3
-37.73409186156882: Forwarding from forward fucntion-- Block 1 to Peer 2 from Peer 3
-37.73409186156882: Forwarding from forward fucntion-- Block 1 to Peer 0 from Peer 3
-37.75588928737399: Peer 6 received block 1.
-37.75588928737399:  here for txn 0
-37.75588928737399:  here for txn 1
-37.75588928737399:  here for txn 2
-37.75588928737399:  here for txn 3
-37.75588928737399:  here for txn 49
-37.75588928737399: Block 1 reached peer 6 and added to its ledger.
-37.75588928737399: Peer 6 previuos ledger [0]
-37.75588928737399: Longest node 0 for 6
-37.75588928737399: Peer 6 updated ledger [0, 1]
-37.75588928737399: Forwarding from forward fucntion-- Block 1 to Peer 1 from Peer 6
-37.75588928737399: Forwarding from forward fucntion-- Block 1 to Peer 5 from Peer 6
-37.75588928737399: Forwarding from forward fucntion-- Block 1 to Peer 4 from Peer 6
-37.75588928737399: Forwarding from forward fucntion-- Block 1 to Peer 2 from Peer 6
-37.75588928737399: Forwarding from forward fucntion-- Block 1 to Peer 0 from Peer 6
-37.758367681795384: Peer 1 received block 1.
-37.758367681795384:  here for txn 0
-37.758367681795384:  here for txn 1
-37.758367681795384:  here for txn 2
-37.758367681795384:  here for txn 3
-37.758367681795384:  here for txn 49
-37.758367681795384: Block 1 reached peer 1 and added to its ledger.
-37.758367681795384: Peer 1 previuos ledger [0]
-37.758367681795384: Longest node 0 for 1
-37.758367681795384: Peer 1 updated ledger [0, 1]
-37.758367681795384: Forwarding from forward fucntion-- Block 1 to Peer 6 from Peer 1
-37.758367681795384: Forwarding from forward fucntion-- Block 1 to Peer 4 from Peer 1
-37.758367681795384: Forwarding from forward fucntion-- Block 1 to Peer 2 from Peer 1
-37.758367681795384: Forwarding from forward fucntion-- Block 1 to Peer 3 from Peer 1
-37.758367681795384: Forwarding from forward fucntion-- Block 1 to Peer 0 from Peer 1
-37.76615715431994: Txn 50 received by 5.
-37.78645276021604: Txn 50 received by 4.
-37.792677999013584: Peer 4 received block 1.
-37.792677999013584: Block 1 is discarded by peer 4 since Txn 2 is invalid.
-37.79935414017928: Txn 50 received by 2.
-37.823168731507685: Txn 50 received by 1.
-37.83689388227208: Returning from Peer 3 since block 1 is already here.!!
-37.84147262908689: Returning from Peer 2 since block 1 is already here.!!
-37.85477091610908: Peer 0 received block 1.
-37.85477091610908: Block 1 is discarded by peer 0 since Txn 2 is invalid.
-37.90019468024494: Returning from Peer 0 since block 1 is already here.!!
-37.91023353257297: Txn 50 received by 0.
-37.9102751689365: Returning from Peer 0 since block 1 is already here.!!
-37.94565327446023: Returning from Peer 1 since block 1 is already here.!!
-37.948374913051154: Returning from Peer 3 since block 1 is already here.!!
-37.96558164929553: Returning from Peer 2 since block 1 is already here.!!
-37.97117577163388: Returning from Peer 1 since block 1 is already here.!!
-37.98721214368928: Returning from Peer 0 since block 1 is already here.!!
-38.067555243382294: Returning from Peer 4 since block 1 is already here.!!
-38.08575820276495: Returning from Peer 4 since block 1 is already here.!!
-38.092171249541245: Returning from Peer 4 since block 1 is already here.!!
-38.1926186569379: Returning from Peer 6 since block 1 is already here.!!
-38.19814434402884: Returning from Peer 4 since block 1 is already here.!!
-38.21384524281071: Returning from Peer 6 since block 1 is already here.!!
-38.22270047484237: Returning from Peer 0 since block 1 is already here.!!
-38.238732155088144: Returning from Peer 2 since block 1 is already here.!!
-38.24014844454775: Returning from Peer 1 since block 1 is already here.!!
-38.255497495389456: Peer 5 received block 1.
-38.255497495389456: Block 1 is discarded by peer 5 since Txn 2 is invalid.
-38.260325018215646: Returning from Peer 6 since block 1 is already here.!!
-40.10976716615937: Txn 51 created by 6.
-40.1366462177793: Txn 51 received by 3.
-40.17280093864599: Txn 51 received by 5.
-40.19339132589296: Txn 51 received by 4.
-40.207206691167116: Txn 51 received by 2.
-40.22868649149343: Txn 51 received by 1.
-40.32257716397063: Txn 51 received by 0.
-41.06390532940636: Txn 52 created by 2.
-41.097450381455886: Txn 52 received by 5.
-41.133666849717365: Txn 52 received by 3.
-41.15646092359515: Txn 52 received by 6.
-41.15752298260634: Txn 52 received by 1.
-41.19044020254258: Txn 52 received by 4.
-41.24429469123725: Txn 52 received by 0.
-41.259096765829455: Txn 53 created by 4.
-41.317687039227216: Txn 53 received by 3.
-41.34171490925773: Txn 53 received by 6.
-41.35387816803609: Txn 53 received by 5.
-41.38728838821884: Txn 53 received by 2.
-41.38878808922798: Txn 53 received by 0.
-41.427633416714954: Txn 53 received by 1.
-41.512571049232: Txn 54 created by 0.
-41.595792139230596: Txn 54 received by 1.
-41.64277963985151: Txn 54 received by 4.
-41.670991711767805: Txn 54 received by 5.
-41.69300791642119: Txn 54 received by 2.
-41.699940394540306: Txn 54 received by 3.
-41.721503841073826: Txn 54 received by 6.
-43.432822650696984: Txn 55 created by 3.
-43.45211409789304: Txn 56 created by 0.
-43.455190394012526: Txn 55 received by 6.
-43.47029921036913: Txn 55 received by 5.
-43.48959067604375: Txn 55 received by 4.
-43.50503371165338: Txn 55 received by 2.
-43.53286046285095: Txn 56 received by 1.
-43.547057518085424: Txn 55 received by 1.
-43.5821708947246: Txn 56 received by 4.
-43.58718596375423: Txn 56 received by 5.
-43.61859173412155: Txn 55 received by 0.
-43.62175505776172: Txn 56 received by 2.
-43.62357258634032: Txn 56 received by 3.
-43.64533912219248: Txn 56 received by 6.
-43.80504743165819: Txn 57 created by 6.
-43.82678542024276: Txn 57 received by 3.
-43.864339254671286: Txn 57 received by 5.
-43.883699090593: Txn 57 received by 4.
-43.89902817846676: Txn 57 received by 2.
-43.93398001427783: Txn 57 received by 1.
-44.01274192213765: Txn 57 received by 0.
-45.04283001128999: Txn 58 created by 3.
-45.065057860966235: Txn 58 received by 6.
-45.0794773298318: Txn 58 received by 5.
-45.10197786249542: Txn 58 received by 4.
-45.113649214651254: Txn 58 received by 2.
-45.14549127470335: Txn 58 received by 1.
-45.23137883681514: Txn 58 received by 0.
-45.36415947309992: Txn 59 created by 2.
-45.39759556149512: Txn 59 received by 5.
-45.433767178332864: Txn 59 received by 3.
-45.453692401350494: Txn 59 received by 1.
-45.45932774804124: Txn 59 received by 6.
-45.490549807150465: Txn 59 received by 4.
-45.53074003610843: Txn 59 received by 0.
-45.60279298730411: Txn 60 created by 1.
-45.68267797077804: Txn 60 received by 0.
-45.69206692944817: Txn 60 received by 5.
-45.7259107021716: Txn 60 received by 2.
-45.72902990800692: Txn 60 received by 3.
-45.75043366036735: Txn 60 received by 6.
-45.78630415026264: Txn 60 received by 4.
-47.92782600116154: Txn 61 created by 4.
-47.98481360292848: Txn 61 received by 3.
-48.006651371068166: Txn 61 received by 6.
-48.02116410697313: Txn 61 received by 5.
-48.05494032560914: Txn 61 received by 2.
-48.05735456151798: Txn 61 received by 0.
-48.13195359432188: Txn 61 received by 1.
-48.92788656855369: Txn 62 created by 3.
-48.94930266287103: Txn 62 received by 6.
-48.96590085318919: Txn 62 received by 5.
-48.985155902935446: Txn 62 received by 4.
-48.99963470004883: Txn 62 received by 2.
-49.02371363619209: Txn 62 received by 1.
-49.029417221350236: Txn 63 created by 6.
-49.05091871762153: Txn 63 received by 3.
-49.08715959676123: Txn 63 received by 5.
-49.10451508372658: Txn 62 received by 0.
-49.10832017942956: Txn 63 received by 4.
-49.12024427180252: Txn 63 received by 2.
-49.14715726003612: Txn 63 received by 1.
-49.22999898718793: Txn 63 received by 0.
-49.813334699987244: Txn 64 created by 5.
-49.8178544167868: Txn 65 created by 4.
-49.84737295299604: Txn 64 received by 2.
-49.85078069930274: Txn 64 received by 3.
-49.869023922151854: Txn 64 received by 1.
-49.87352088209606: Txn 64 received by 6.
-49.876940211740305: Txn 65 received by 3.
-49.89855753351066: Txn 65 received by 6.
-49.90782039389096: Txn 64 received by 4.
-49.913153510640356: Txn 65 received by 5.
-49.94720428637108: Txn 65 received by 0.
-49.94778422194512: Txn 65 received by 2.
-49.95269051989126: Txn 64 received by 0.
-50.01667991605298: Txn 65 received by 1.
-50.13179311405025: Txn 66 created by 5.
-50.16609975304556: Txn 66 received by 2.
-50.16851565851561: Txn 66 received by 3.
-50.18834506752923: Txn 66 received by 1.
-50.190978699159814: Txn 66 received by 6.
-50.22560297941269: Txn 66 received by 4.
-50.2800488566834: Txn 66 received by 0.
-50.44373982129117: Txn 67 created by 5.
-50.47723773050854: Txn 67 received by 2.
-50.48013134936222: Txn 67 received by 3.
-50.501889267665135: Txn 67 received by 6.
-50.52496440189097: Peer 6 ends mining
-50.52496440189097: Longest node 1 for 6 after mining
-50.52496440189097: Peer 6 was slow in mining someone else mined first.
-50.53364081138896: Txn 67 received by 1.
-50.53769145177616: Txn 67 received by 4.
-50.622918079142096: Txn 67 received by 0.
-51.89285859185851: Txn 68 created by 2.
-51.926799737655415: Txn 68 received by 5.
-51.96334980512856: Txn 68 received by 3.
-51.98252730791015: Txn 68 received by 1.
-51.985413454236735: Txn 68 received by 6.
-52.02133470950812: Txn 68 received by 4.
-52.07340580522338: Txn 68 received by 0.
-53.611371942710115: Txn 69 created by 2.
-53.6456874342249: Txn 69 received by 5.
-53.68207379303385: Txn 69 received by 3.
-53.70456258725851: Txn 69 received by 6.
-53.70832746337283: Txn 69 received by 1.
-53.740323483553794: Txn 69 received by 4.
-53.794388868988584: Txn 69 received by 0.
-55.16253594910054: Txn 70 created by 5.
-55.19565762345219: Txn 70 received by 2.
-55.19906759307946: Txn 70 received by 3.
-55.22085261422229: Txn 70 received by 6.
-55.241313025524576: Txn 70 received by 1.
-55.25727667147435: Txn 70 received by 4.
-55.32303205661583: Txn 70 received by 0.
-56.190993620504386: Length of the longest path: 2
-56.190993620504386: path: [0, 1]
-56.190993620504386: Peer 6 starts mining
-56.190993620504386: Transactions in the longest chain: 5
-56.190993620504386: Transactions to be inserted in new block: 66
-56.190993620504386: Longest node 1 for 6 before mining
-57.62840941670672: Txn 71 created by 3.
-57.64979792159557: Txn 71 received by 6.
-57.66673527191309: Txn 71 received by 5.
-57.68531320619729: Txn 71 received by 4.
-57.700335749801376: Txn 71 received by 2.
-57.74106127173028: Txn 71 received by 1.
-57.81469978386732: Txn 71 received by 0.
-59.39192148605811: Txn 72 created by 4.
-59.44473995777288: Txn 73 created by 4.
-59.44977320495316: Txn 72 received by 3.
-59.47257739397033: Txn 72 received by 6.
-59.48672979823144: Txn 72 received by 5.
-59.50162598486175: Txn 73 received by 3.
-59.52033173192522: Txn 72 received by 2.
-59.521225863428704: Txn 72 received by 0.
-59.523225678199715: Txn 73 received by 6.
-59.53778300365563: Txn 73 received by 5.
-59.54453086298246: Txn 72 received by 1.
-59.57121476643663: Txn 73 received by 2.
-59.57629582458083: Txn 73 received by 0.
-59.66468937171236: Txn 73 received by 1.
-59.70136921574654: Txn 74 created by 5.
-59.70848335458372: Txn 75 created by 2.
-59.734604908734866: Txn 74 received by 2.
-59.73788024414085: Txn 74 received by 3.
-59.742075363887025: Txn 75 received by 5.
-59.760848199882865: Txn 74 received by 6.
-59.76091151311256: Txn 74 received by 1.
-59.77903181428707: Txn 75 received by 3.
-59.79594618920863: Txn 74 received by 4.
-59.80042427009614: Txn 75 received by 6.
-59.81467193203148: Txn 75 received by 1.
-59.83628758015474: Txn 75 received by 4.
-59.85053120766902: Txn 74 received by 0.
-59.889670445637734: Txn 75 received by 0.
-60.156093515998116: Txn 76 created by 4.
-60.213512285956675: Txn 76 received by 3.
-60.23563901739598: Txn 76 received by 6.
-60.250006457187496: Txn 76 received by 5.
-60.28447033384029: Txn 76 received by 2.
-60.285035568009384: Txn 76 received by 0.
-60.311197250570494: Txn 76 received by 1.
-60.42499181718195: Txn 77 created by 5.
-60.458547698986635: Txn 77 received by 2.
-60.46363683175503: Txn 77 received by 3.
-60.480509623858985: Txn 77 received by 1.
-60.48505332554593: Txn 77 received by 6.
-60.52060786679252: Txn 77 received by 4.
-60.58588590677213: Txn 77 received by 0.
-60.96945399958497: Txn 78 created by 0.
-61.049427090065: Txn 78 received by 1.
-61.09880969507904: Txn 78 received by 4.
-61.1071980026919: Txn 78 received by 5.
-61.13159990133381: Txn 79 created by 3.
-61.14123276650668: Txn 78 received by 2.
-61.14388513087198: Txn 78 received by 3.
-61.1536385781551: Txn 79 received by 6.
-61.16707531289279: Txn 78 received by 6.
-61.16981565162758: Txn 79 received by 5.
-61.18844169628047: Txn 79 received by 4.
-61.20302471830938: Txn 79 received by 2.
-61.25378722485994: Txn 79 received by 1.
-61.3176954084656: Txn 79 received by 0.
-62.317494193913475: Txn 80 created by 0.
-62.447189401337596: Txn 80 received by 1.
-62.44890991837865: Txn 80 received by 4.
-62.49827738422995: Txn 80 received by 2.
-62.500918490392415: Txn 80 received by 5.
-62.50576261918506: Txn 80 received by 3.
-62.52724671919732: Txn 80 received by 6.
-62.566469313812405: Txn 81 created by 1.
-62.63326337427983: Txn 81 received by 5.
-62.667547694956646: Txn 81 received by 2.
-62.668545557671216: Txn 81 received by 0.
-62.67105600634784: Txn 81 received by 3.
-62.69260490065227: Txn 81 received by 6.
-62.73300947380116: Txn 81 received by 4.
-63.573191214791: Txn 82 created by 1.
-63.62921241499525: Txn 82 received by 5.
-63.652231215570765: Txn 83 created by 2.
-63.65423364651736: Txn 82 received by 0.
-63.662655844534875: Txn 82 received by 2.
-63.665727809606686: Txn 82 received by 3.
-63.68602171650523: Txn 83 received by 5.
-63.687850674168985: Txn 82 received by 6.
-63.72289287359579: Txn 82 received by 4.
-63.7237705453096: Txn 83 received by 3.
-63.74809048592254: Txn 83 received by 1.
-63.749440913687295: Txn 83 received by 6.
-63.780855713366776: Txn 83 received by 4.
-63.83293484438645: Txn 83 received by 0.
-63.932444024090906: Txn 84 created by 3.
-63.95476784409372: Txn 84 received by 6.
-63.96898750641073: Txn 84 received by 5.
-63.989216914363084: Txn 84 received by 4.
-64.00253419869486: Txn 84 received by 2.
-64.02792255591368: Txn 84 received by 1.
-64.11757299555369: Txn 84 received by 0.
-66.34025876556886: Txn 85 created by 1.
-66.37149703349631: Txn 86 created by 6.
-66.39333202094952: Txn 86 received by 3.
-66.43035905983479: Txn 85 received by 0.
-66.43063978709795: Txn 86 received by 5.
-66.44722658114962: Txn 85 received by 5.
-66.45158315270166: Txn 86 received by 4.
-66.46369877869458: Txn 86 received by 2.
-66.48035337781184: Txn 85 received by 2.
-66.48934330824095: Txn 85 received by 3.
-66.50001595273534: Txn 86 received by 1.
-66.51077654933465: Txn 85 received by 6.
-66.54789984957281: Txn 85 received by 4.
-66.58246721856142: Txn 86 received by 0.
-66.59606039615912: Txn 87 created by 4.
-66.65396642279: Txn 87 received by 3.
-66.67604471084803: Txn 87 received by 6.
-66.69003176614353: Txn 87 received by 5.
-66.72654827209116: Txn 87 received by 2.
-66.72757744546125: Txn 87 received by 0.
-66.74543088474832: Txn 87 received by 1.
-67.19673441606358: Txn 88 created by 1.
-67.27550474210038: Txn 88 received by 5.
-67.30803430325682: Txn 88 received by 0.
-67.31119076157105: Txn 88 received by 2.
-67.31167455272994: Txn 88 received by 3.
-67.3338891489319: Txn 88 received by 6.
-67.3693136290337: Txn 88 received by 4.
-69.42271357443994: Length of the longest path: 2
-69.42271357443994: path: [0, 1]
-69.42271357443994: Peer 5 starts mining
-69.42271357443994: Transactions in the longest chain: 5
-69.42271357443994: Transactions to be inserted in new block: 84
-69.42271357443994: Longest node 1 for 5 before mining
-69.63103199958974: Txn 89 created by 0.
-69.75788555233001: Txn 89 received by 1.
-69.759924054072: Txn 89 received by 4.
-69.8114436504996: Txn 89 received by 2.
-69.8145058217117: Txn 89 received by 5.
-69.81737739924984: Txn 89 received by 3.
-69.83873286603813: Txn 89 received by 6.
-70.62655024632747: Txn 90 created by 4.
-70.6841198647522: Txn 90 received by 3.
-70.70617669221248: Txn 90 received by 6.
-70.72056776516139: Txn 90 received by 5.
-70.75391816329837: Txn 90 received by 2.
-70.75543018009121: Txn 90 received by 0.
-70.78706805501284: Txn 90 received by 1.
-71.48319200850241: Txn 91 created by 4.
-71.54013436605393: Txn 91 received by 3.
-71.56355294736815: Txn 91 received by 6.
-71.57633052366313: Txn 91 received by 5.
-71.60989065528685: Txn 91 received by 2.
-71.61310174904108: Txn 91 received by 0.
-71.640610076234: Txn 91 received by 1.
-71.94451946056807: Txn 92 created by 5.
-71.9778213827744: Txn 92 received by 2.
-71.98145708831332: Txn 92 received by 3.
-72.00516821380909: Txn 92 received by 6.
-72.02083282947676: Txn 92 received by 1.
-72.03871584227848: Txn 92 received by 4.
-72.1103746703399: Txn 92 received by 0.
-72.72109751297194: Txn 93 created by 1.
-72.78278087529776: Txn 93 received by 5.
-72.81660963257484: Txn 93 received by 2.
-72.81933411735143: Txn 93 received by 3.
-72.84192124992427: Txn 93 received by 6.
-72.85642137198384: Txn 93 received by 0.
-72.87806334020685: Txn 93 received by 4.
-73.49702096111861: Peer 0 ends mining
-73.49702096111861: Longest node 0 for 0 after mining
+8.46434660504215: P4: Block 1 mined by 4 and added in its ledger
+8.46434660504215: P4: Peer 4 previous ledger [0]
+1. FLAG: P4: ADD 1
+8.46434660504215: P4: Peer 4 updated ledger [0, 1]
+8.46434660504215: P4: Forwarding from generator function -- Block 1 to Peer 0 from Peer 4
+8.46434660504215: P4: Forwarding from generator function -- Block 1 to Peer 1 from Peer 4
+8.46434660504215: P4: Forwarding from generator function -- Block 1 to Peer 2 from Peer 4
+8.475638917067426: P4: Txn 15 received by 4.
+8.504290099912094: P4: Txn 14 received by 4.
+8.557287849179687: P5: Txn 16 received by 5.
+8.568392550835842: P2: Txn 15 received by 2.
+8.575292029974563: P4: Txn 16 received by 4.
+8.58336532255322: P2: Txn 16 received by 2.
+8.600996796019098: P1: Peer 1 received block 1.
+FLAG: P1: 
+	 0 0
+	 1 1
+8.600996796019098: P1: Block 1 reached peer 1 and added to its ledger.
+8.600996796019098: P1: Peer 1 previuos ledger [0]
+8.600996796019098: P1: Longest node 1 for 1
+1. FLAG: P1: ADD 1
+1. FLAG: P1: 1-1
+8.600996796019098: P1: Peer 1 updated ledger [0, 1]
+8.600996796019098: P1: Forwarding from forward fucntion-- Block 1 to Peer 5 from Peer 1
+8.600996796019098: P1: Forwarding from forward fucntion-- Block 1 to Peer 3 from Peer 1
+8.600996796019098: P1: Forwarding from forward fucntion-- Block 1 to Peer 2 from Peer 1
+8.600996796019098: P1: Forwarding from forward fucntion-- Block 1 to Peer 6 from Peer 1
+8.606327338028743: P1: Txn 15 received by 1.
+8.648162814094313: P3: Peer 3 received block 1.
+FLAG: P3: 
+	 0 0
+8.648162814094313: P3: Block 1 reached peer 3 and added to its ledger.
+8.648162814094313: P3: Peer 3 previuos ledger [0]
+8.648162814094313: P3: Longest node 0 for 3
+1. FLAG: P3: ADD 1
+1. FLAG: P3: 0-1
+8.648162814094313: P3: Peer 3 updated ledger [0, 1]
+8.648162814094313: P3: Forwarding from forward fucntion-- Block 1 to Peer 5 from Peer 3
+8.648162814094313: P3: Forwarding from forward fucntion-- Block 1 to Peer 6 from Peer 3
+8.65110141782415: P5: Txn 15 received by 5.
+8.653025155205373: P3: Txn 15 received by 3.
+8.735461633184986: P6: Txn 16 received by 6.
+8.748192299312766: P5: Peer 5 received block 1.
+FLAG: P5: 
+	 0 0
+	 1 1
+8.748192299312766: P5: Block 1 reached peer 5 and added to its ledger.
+8.748192299312766: P5: Peer 5 previuos ledger [0]
+8.748192299312766: P5: Longest node 1 for 5
+1. FLAG: P5: ADD 1
+1. FLAG: P5: 1-1
+8.748192299312766: P5: Peer 5 updated ledger [0, 1]
+8.748192299312766: P5: Forwarding from forward fucntion-- Block 1 to Peer 0 from Peer 5
+8.748192299312766: P5: Forwarding from forward fucntion-- Block 1 to Peer 2 from Peer 5
+8.748192299312766: P5: Forwarding from forward fucntion-- Block 1 to Peer 6 from Peer 5
+8.748192299312766: P5: Forwarding from forward fucntion-- Block 1 to Peer 1 from Peer 5
+8.75080025166998: P0: Peer 0 received block 1.
+FLAG: P0: 
+	 0 0
+	 1 1
+8.75080025166998: P0: Block 1 reached peer 0 and added to its ledger.
+8.75080025166998: P0: Peer 0 previuos ledger [0]
+8.75080025166998: P0: Longest node 1 for 0
+1. FLAG: P0: ADD 1
+1. FLAG: P0: 1-1
+8.75080025166998: P0: Peer 0 updated ledger [0, 1]
+8.75080025166998: P0: Forwarding from forward fucntion-- Block 1 to Peer 5 from Peer 0
+8.75080025166998: P0: Forwarding from forward fucntion-- Block 1 to Peer 6 from Peer 0
+8.75080025166998: P0: Forwarding from forward fucntion-- Block 1 to Peer 2 from Peer 0
+8.784648089492608: P2: Peer 2 received block 1.
+FLAG: P2: 
+	 0 0
+8.784648089492608: P2: Block 1 reached peer 2 and added to its ledger.
+8.784648089492608: P2: Peer 2 previuos ledger [0]
+8.784648089492608: P2: Longest node 0 for 2
+1. FLAG: P2: ADD 1
+1. FLAG: P2: 0-1
+8.784648089492608: P2: Peer 2 updated ledger [0, 1]
+8.784648089492608: P2: Forwarding from forward fucntion-- Block 1 to Peer 5 from Peer 2
+8.784648089492608: P2: Forwarding from forward fucntion-- Block 1 to Peer 4 from Peer 2
+8.784648089492608: P2: Forwarding from forward fucntion-- Block 1 to Peer 0 from Peer 2
+8.784648089492608: P2: Forwarding from forward fucntion-- Block 1 to Peer 6 from Peer 2
+8.83346859653371: P2: Returning from Peer 2 since block 1 is already here.!!
+8.864166215053817: P0: Txn 16 received by 0.
+8.871303264920133: P5: Returning from Peer 5 since block 1 is already here.!!
+8.931039294765922: P2: Txn 18 created by 2: 2 to 1 coins 1
+8.936903635056021: P6: Peer 6 received block 1.
+FLAG: P6: 
+	 0 0
+	 1 1
+8.936903635056021: P6: Block 1 reached peer 6 and added to its ledger.
+8.936903635056021: P6: Peer 6 previuos ledger [0]
+8.936903635056021: P6: Longest node 1 for 6
+1. FLAG: P6: ADD 1
+1. FLAG: P6: 1-1
+8.936903635056021: P6: Peer 6 updated ledger [0, 1]
+8.936903635056021: P6: Forwarding from forward fucntion-- Block 1 to Peer 5 from Peer 6
+8.936903635056021: P6: Forwarding from forward fucntion-- Block 1 to Peer 0 from Peer 6
+8.936903635056021: P6: Forwarding from forward fucntion-- Block 1 to Peer 3 from Peer 6
+8.936903635056021: P6: Forwarding from forward fucntion-- Block 1 to Peer 1 from Peer 6
+9.002572304649838: P6: Returning from Peer 6 since block 1 is already here.!!
+9.023821232440227: P1: Returning from Peer 1 since block 1 is already here.!!
+9.052843829230895: P6: Returning from Peer 6 since block 1 is already here.!!
+9.082106109731441: P6: Returning from Peer 6 since block 1 is already here.!!
+9.084829967017894: P6: Txn 18 received by 6.
+9.088006334049672: P6: Returning from Peer 6 since block 1 is already here.!!
+9.088357341383956: P1: Txn 18 received by 1.
+9.113707473337517: P3: Txn 18 received by 3.
+9.132096291288027: P2: Returning from Peer 2 since block 1 is already here.!!
+9.153254539766518: P4: Peer 4 received block 1.
+FLAG: P4: 
+	 0 0
+	 1 1
+9.153254539766518: P4: Block 1 reached peer 4 and added to its ledger.
+9.153254539766518: P4: Peer 4 previuos ledger [0, 1]
+9.153254539766518: P4: Longest node 1 for 4
+1. FLAG: P4: ADD 1
+1. FLAG: P4: 1-1
+9.153254539766518: P4: Peer 4 updated ledger [0, 1]
+9.153254539766518: P4: Forwarding from forward fucntion-- Block 1 to Peer 0 from Peer 4
+9.153254539766518: P4: Forwarding from forward fucntion-- Block 1 to Peer 1 from Peer 4
+9.163057498007067: P0: Returning from Peer 0 since block 1 is already here.!!
+9.190801498452371: P0: Returning from Peer 0 since block 1 is already here.!!
+9.209934447306392: P0: Returning from Peer 0 since block 1 is already here.!!
+9.212591369313532: P5: Returning from Peer 5 since block 1 is already here.!!
+9.21271442062259: P5: Txn 18 received by 5.
+9.227366348055789: P4: Txn 18 received by 4.
+9.2369094865502: P2: Returning from Peer 2 since block 1 is already here.!!
+9.270600863823972: P5: Returning from Peer 5 since block 1 is already here.!!
+9.276677364435919: P5: Returning from Peer 5 since block 1 is already here.!!
+9.305778686883123: P1: Returning from Peer 1 since block 1 is already here.!!
+9.309363968260087: P0: Txn 18 received by 0.
+9.34123410957409: P3: Returning from Peer 3 since block 1 is already here.!!
+9.409000321316055: P1: Returning from Peer 1 since block 1 is already here.!!
+9.439710644935657: P0: Returning from Peer 0 since block 1 is already here.!!
+9.600023172272891: P6: Txn 19 created by 6: 6 to 4 coins 2
+9.717001870258487: P2: Txn 20 created by 2: 2 to 4 coins 4
+9.74348415926452: P1: Length of the longest path: 1
+9.74348415926452: P1: path: [0]
+9.74348415926452: P1: Peer 1 starts mining
+9.74348415926452: P1: Transactions in the longest chain: 0
+9.74348415926452: P1: Peer 1: Transactions to be inserted in new block: 18
+9.74348415926452: P1: Longest node 0 for 1 before mining
+9.753970215168566: P2: Txn 19 received by 2.
+9.829701363507828: P4: Length of the longest path: 2
+9.829701363507828: P4: path: [0, 1]
+9.829701363507828: P4: Peer 4 starts mining
+9.829701363507828: P4: Transactions in the longest chain: 5
+9.829701363507828: P4: Peer 4: Transactions to be inserted in new block: 14
+9.829701363507828: P4: Longest node 1 for 4 before mining
+9.852255285566013: P0: Txn 19 received by 0.
+9.869394047156405: P6: Txn 20 received by 6.
+9.873878383188092: P1: Txn 20 received by 1.
+9.911486183741967: P3: Txn 20 received by 3.
+9.925042073398158: P1: Txn 19 received by 1.
+9.940911578607205: P5: Txn 19 received by 5.
+9.992332337643512: P3: Txn 19 received by 3.
+9.996207215572463: P4: Txn 20 received by 4.
+10.010580996803185: P5: Txn 20 received by 5.
+10.05083119880947: P4: Txn 19 received by 4.
+10.053462313541761: P2: Txn 21 created by 2: 2 to 1 coins 5
+10.095190919943434: P0: Txn 20 received by 0.
+10.20577240641366: P6: Txn 21 received by 6.
+10.214204694704307: P1: Txn 21 received by 1.
+10.241600896926299: P3: Txn 21 received by 3.
+10.323813927028002: P0: Length of the longest path: 1
+10.323813927028002: P0: path: [0]
+10.323813927028002: P0: Peer 0 starts mining
+10.323813927028002: P0: Transactions in the longest chain: 0
+10.323813927028002: P0: Peer 0: Transactions to be inserted in new block: 20
+10.323813927028002: P0: Longest node 0 for 0 before mining
+10.340910336112154: P5: Txn 21 received by 5.
+10.346033309867613: P4: Txn 21 received by 4.
+10.431138692535663: P0: Txn 21 received by 0.
+12.60965174812119: P3: Peer 3 ends mining
+12.60965174812119: P3: Longest node 1 for 3 after mining
+12.60965174812119: P3: Peer 3 was slow in mining someone else mined first.
+13.483553645272222: P2: Txn 22 created by 2: 2 to 6 coins 3
+13.635423611319869: P6: Txn 22 received by 6.
+13.64024398867329: P1: Txn 22 received by 1.
+13.661029653318986: P3: Txn 22 received by 3.
+13.761192420128522: P5: Txn 22 received by 5.
+13.776318877774843: P4: Txn 22 received by 4.
+13.86130150202683: P0: Txn 22 received by 0.
+14.424607489197559: P5: Txn 23 created by 5: 5 to 2 coins 2
+14.524819250969847: P3: Txn 23 received by 3.
+14.540594003098334: P1: Txn 23 received by 1.
+14.674408244007918: P4: Txn 23 received by 4.
+14.691166847101796: P2: Txn 23 received by 2.
+14.730200834785443: P2: Txn 24 created by 2: 2 to 0 coins 3
+14.76381476011643: P6: Txn 23 received by 6.
+14.87112635866038: P3: Txn 25 created by 3: 3 to 1 coins 4
+14.88224814493201: P6: Txn 24 received by 6.
+14.884595062929993: P1: Txn 24 received by 1.
+14.88787694050001: P0: Txn 23 received by 0.
+14.911596256197502: P1: Txn 25 received by 1.
+14.934675304975888: P3: Txn 24 received by 3.
+14.972423461971111: P5: Txn 25 received by 5.
+15.013711772797684: P4: Txn 24 received by 4.
+15.033876109141685: P5: Txn 24 received by 5.
+15.039255678450116: P4: Txn 25 received by 4.
+15.07005670109647: P2: Txn 25 received by 2.
+15.107991152356995: P0: Txn 24 received by 0.
+15.223388375619656: P6: Txn 25 received by 6.
+15.324835861964377: P0: Txn 25 received by 0.
+16.061444823807456: P6: Txn 26 created by 6: 6 to 1 coins 1
+16.213918137518096: P2: Txn 26 received by 2.
+16.31283848198325: P0: Txn 26 received by 0.
+16.39925453926227: P1: Txn 26 received by 1.
+16.40331062825739: P5: Txn 26 received by 5.
+16.423409093963983: P3: Txn 26 received by 3.
+16.52708846015982: P4: Txn 26 received by 4.
+16.75501864768866: P1: Txn 27 created by 1: 1 to 0 coins 4
+16.7939292299823: P3: Txn 27 received by 3.
+16.816278946996743: P1: Txn 28 created by 1: 1 to 5 coins 1
+16.816437480328943: P5: Txn 29 created by 5: 5 to 0 coins 2
+16.855118053979876: P3: Txn 28 received by 3.
+16.893927770307936: P5: Txn 27 received by 5.
+16.904118703181616: P2: Txn 27 received by 2.
+16.90909137502354: P4: Txn 27 received by 4.
+16.916185797009497: P3: Txn 29 received by 3.
+16.93519554836409: P4: Txn 28 received by 4.
+16.943618429231396: P1: Txn 29 received by 1.
+16.956568030960458: P5: Txn 28 received by 5.
+16.96553315702603: P2: Txn 28 received by 2.
+17.05760045816006: P6: Txn 27 received by 6.
+17.067665419057406: P4: Txn 29 received by 4.
+17.098102927414157: P2: Txn 29 received by 2.
+17.120293616400115: P6: Txn 28 received by 6.
+17.15658918767602: P6: Txn 29 received by 6.
+17.195407542950083: P0: Txn 27 received by 0.
+17.221374282377962: P0: Txn 28 received by 0.
+17.26435067665136: P5: Txn 30 created by 5: 5 to 4 coins 4
+17.27875286787909: P0: Txn 29 received by 0.
+17.2898805170803: P2: Txn 31 created by 2: 2 to 0 coins 5
+17.364866033215694: P3: Txn 30 received by 3.
+17.380828830915135: P1: Txn 30 received by 1.
+17.443127009021246: P6: Txn 31 received by 6.
+17.444369281370715: P1: Txn 31 received by 1.
+17.484975863027582: P3: Txn 31 received by 3.
+17.52905413210226: P2: Txn 30 received by 2.
+17.566632977976468: P4: Txn 30 received by 4.
+17.584287208903966: P5: Txn 31 received by 5.
+17.60353868303235: P6: Txn 30 received by 6.
+17.608286149274075: P4: Txn 31 received by 4.
+17.667998524875724: P0: Txn 31 received by 0.
+17.726749743737972: P0: Txn 30 received by 0.
+17.97756239499505: P5: Txn 32 created by 5: 5 to 4 coins 3
+18.077758875284747: P3: Txn 32 received by 3.
+18.114416921129273: P1: Txn 32 received by 1.
+18.23995122868143: P4: Txn 32 received by 4.
+18.25190990465848: P2: Txn 33 created by 2: 2 to 1 coins 2
+18.273486516371914: P2: Txn 32 received by 2.
+18.31777392214939: P6: Txn 32 received by 6.
+18.40400705475099: P1: Txn 33 received by 1.
+18.404440221643853: P6: Txn 33 received by 6.
+18.421679162229406: P3: Txn 33 received by 3.
+18.43779223266572: P0: Txn 32 received by 0.
+18.521747032263633: P5: Txn 33 received by 5.
+18.53816298255621: P4: Txn 33 received by 4.
+18.629890575404268: P0: Txn 33 received by 0.
+18.763751579642648: P2: Txn 34 created by 2: 2 to 5 coins 5
+18.91367157158131: P1: Txn 34 received by 1.
+18.915732652174622: P6: Txn 34 received by 6.
+18.931876673626473: P3: Txn 34 received by 3.
+19.03299118873969: P5: Txn 34 received by 5.
+19.0659182018859: P4: Txn 34 received by 4.
+19.14144946095174: P0: Txn 34 received by 0.
+19.672012938668658: P6: Length of the longest path: 1
+19.672012938668658: P6: path: [0]
+19.672012938668658: P6: Peer 6 starts mining
+19.672012938668658: P6: Transactions in the longest chain: 0
+19.672012938668658: P6: Peer 6: Transactions to be inserted in new block: 34
+19.672012938668658: P6: Longest node 0 for 6 before mining
+20.01521354615797: P6: Txn 35 created by 6: 6 to 0 coins 2
+20.168672120924818: P2: Txn 35 received by 2.
+20.267070783783403: P0: Txn 35 received by 0.
+20.304609631404336: P3: Txn 36 created by 3: 3 to 1 coins 1
+20.325763354666808: P1: Txn 36 received by 1.
+20.35312274278434: P1: Txn 35 received by 1.
+20.356230070099173: P5: Txn 35 received by 5.
+20.37814889460207: P3: Txn 35 received by 3.
+20.40348530562995: P5: Txn 36 received by 5.
+20.451754893522903: P4: Txn 36 received by 4.
+20.470992757336703: P4: Txn 35 received by 4.
+20.515929305543764: P2: Txn 36 received by 2.
+20.668364835210824: P6: Txn 36 received by 6.
+20.73751126354668: P0: Txn 36 received by 0.
+20.797797410383495: P5: Txn 37 created by 5: 5 to 2 coins 2
+20.898805378159484: P3: Txn 37 received by 3.
+20.92732253017182: P1: Txn 37 received by 1.
+21.08068458425601: P4: Txn 37 received by 4.
+21.115614013946505: P2: Txn 37 received by 2.
+21.139876583905355: P6: Txn 37 received by 6.
+21.195812246160166: P4: Txn 38 created by 4: 4 to 5 coins 4
+21.258335828460275: P0: Txn 37 received by 0.
+21.32481155576377: P1: Txn 38 received by 1.
+21.340197246195192: P3: Txn 38 received by 3.
+21.366250821132365: P4: Txn 39 created by 4: 4 to 0 coins 5
+21.43929294602441: P5: Txn 38 received by 5.
+21.482041345727954: P0: Txn 38 received by 0.
+21.505081715857084: P1: Txn 39 received by 1.
+21.51115572188093: P2: Txn 38 received by 2.
+21.52437014788266: P3: Txn 39 received by 3.
+21.623453365849066: P5: Txn 39 received by 5.
+21.651776897711347: P0: Txn 39 received by 0.
+21.66410404287557: P6: Txn 38 received by 6.
+21.67595879725383: P2: Txn 39 received by 2.
+21.827810288169264: P6: Txn 39 received by 6.
+21.853041179599757: P3: Txn 40 created by 3: 3 to 0 coins 3
+21.892005853651046: P1: Txn 40 received by 1.
+21.952203857122566: P5: Txn 40 received by 5.
+22.01063952621851: P4: Txn 40 received by 4.
+22.06135561077886: P0: Txn 41 created by 0: 0 to 6 coins 1
+22.101307421399913: P2: Txn 40 received by 2.
+22.253152961050663: P6: Txn 40 received by 6.
+22.296433554896865: P0: Txn 40 received by 0.
+22.313873686778035: P6: Txn 41 received by 6.
+22.34679396012712: P4: Txn 41 received by 4.
+22.441012865796164: P2: Txn 41 received by 2.
+22.4446929117993: P1: Txn 42 created by 1: 1 to 2 coins 5
+22.474565411647724: P1: Txn 41 received by 1.
+22.48697198030121: P3: Txn 42 received by 3.
+22.520695446501097: P3: Txn 41 received by 3.
+22.521732998081077: P5: Txn 41 received by 5.
+22.578815434796653: P4: Txn 42 received by 4.
+22.58721511327107: P5: Txn 42 received by 5.
+22.60054792264658: P2: Txn 42 received by 2.
+22.752393186782484: P6: Txn 42 received by 6.
+22.865739399621717: P0: Txn 42 received by 0.
+23.0176385539629: P2: Txn 43 created by 2: 2 to 1 coins 3
+23.1692490040746: P1: Txn 43 received by 1.
+23.169818611229413: P6: Txn 43 received by 6.
+23.247435547583063: P3: Txn 43 received by 3.
+23.260880356546288: P0: Txn 44 created by 0: 0 to 6 coins 4
+23.287469220612323: P4: Txn 43 received by 4.
+23.346288337431446: P5: Txn 43 received by 5.
+23.395987407542414: P0: Txn 43 received by 0.
+23.512455204856035: P6: Txn 44 received by 6.
+23.546863403413788: P4: Txn 44 received by 4.
+23.639881496825733: P2: Txn 44 received by 2.
+23.682985048956297: P1: Txn 44 received by 1.
+23.720284681349085: P3: Txn 44 received by 3.
+23.721534244901115: P5: Txn 44 received by 5.
+23.980771019282308: P4: Txn 45 created by 4: 4 to 3 coins 1
+24.108267588816837: P1: Txn 45 received by 1.
+24.124273552915497: P3: Txn 45 received by 3.
+24.22353089606931: P5: Txn 45 received by 5.
+24.266182856640967: P2: Txn 45 received by 2.
+24.26649670645129: P0: Txn 45 received by 0.
+24.41861891957355: P6: Txn 45 received by 6.
+24.607840465085303: P2: Txn 46 created by 2: 2 to 5 coins 1
+24.760580481453616: P6: Txn 46 received by 6.
+24.776829145521525: P1: Txn 46 received by 1.
+24.819554304614655: P3: Txn 46 received by 3.
+24.919243934237443: P4: Txn 46 received by 4.
+24.920317288758497: P5: Txn 46 received by 5.
+24.986957090615252: P0: Txn 46 received by 0.
+25.608189593719775: P3: Txn 47 created by 3: 3 to 0 coins 5
+25.633257074540115: P1: Txn 47 received by 1.
+25.687699984383393: P5: Txn 48 created by 5: 5 to 6 coins 2
+25.70854819786885: P5: Txn 47 received by 5.
+25.767035562992316: P4: Txn 47 received by 4.
+25.790006250006776: P3: Txn 48 received by 3.
+25.79342263359175: P2: Txn 47 received by 2.
+25.83595279642851: P1: Txn 48 received by 1.
+25.946805826030708: P6: Txn 47 received by 6.
+25.954111787113078: P4: Txn 48 received by 4.
+25.984511851927827: P2: Txn 48 received by 2.
+26.027722485255076: P6: Txn 48 received by 6.
+26.052848410192013: P0: Txn 47 received by 0.
+26.105731081575637: P1: Txn 49 created by 1: 1 to 0 coins 3
+26.122073908508593: P3: Txn 49 received by 3.
+26.14895161947399: P0: Txn 48 received by 0.
+26.22093102155804: P5: Txn 49 received by 5.
+26.23064622103385: P4: Txn 49 received by 4.
+26.264765438562453: P2: Txn 49 received by 2.
+26.342525901549024: P4: Txn 50 created by 4: 4 to 2 coins 1
+26.417131615694654: P6: Txn 49 received by 6.
+26.513263112255917: P1: Txn 50 received by 1.
+26.516305689824303: P0: Txn 49 received by 0.
+26.538351352402973: P3: Txn 50 received by 3.
+26.627978105387477: P0: Txn 50 received by 0.
+26.637171263967982: P5: Txn 50 received by 5.
+26.677660625153834: P2: Txn 50 received by 2.
+26.830922085475006: P6: Txn 50 received by 6.
+28.172401857257245: P2: Txn 51 created by 2: 2 to 6 coins 4
+28.324691958893272: P6: Txn 51 received by 6.
+28.325678162416956: P1: Txn 51 received by 1.
+28.34736412624462: P3: Txn 51 received by 3.
+28.44659220883792: P5: Txn 51 received by 5.
+28.45104553375307: P4: Txn 51 received by 4.
+28.487173969202836: P2: Txn 52 created by 2: 2 to 6 coins 4
+28.550394378589925: P0: Txn 51 received by 0.
+28.638260776968092: P1: Txn 52 received by 1.
+28.640357853175754: P6: Txn 52 received by 6.
+28.659334794202152: P3: Txn 52 received by 3.
+28.75177427673938: P2: Txn 53 created by 2: 2 to 4 coins 2
+28.75851525911654: P5: Txn 52 received by 5.
+28.76245168102609: P4: Txn 52 received by 4.
+28.865532046085416: P0: Txn 52 received by 0.
+28.90387126660396: P6: Txn 53 received by 6.
+28.91463090830602: P1: Txn 53 received by 1.
+28.93648607201269: P3: Txn 53 received by 3.
+29.035418646850946: P5: Txn 53 received by 5.
+29.060914114484856: P4: Txn 53 received by 4.
+29.12970191582483: P0: Txn 53 received by 0.
+30.395504699508706: P5: Peer 5 ends mining
+30.395504699508706: P5: Longest node 0 for 5 after mining
 Block prev   Block 0 --- prevBlock None --------- mined by None at 0.
-73.49702096111861: Block 2 mined by 0 and added in its ledger
-73.49702096111861: Peer 0 previous ledger [0]
-73.49702096111861: Peer 0 updated ledger [0, 2]
-73.49702096111861: Forwarding from generator function -- Block 2 to Peer 6 from Peer 0
-73.49702096111861: Forwarding from generator function -- Block 2 to Peer 1 from Peer 0
-73.49702096111861: Forwarding from generator function -- Block 2 to Peer 5 from Peer 0
-73.49702096111861: Forwarding from generator function -- Block 2 to Peer 4 from Peer 0
-73.49702096111861: Forwarding from generator function -- Block 2 to Peer 2 from Peer 0
-73.49702096111861: Forwarding from generator function -- Block 2 to Peer 3 from Peer 0
-73.60612272846915: Peer 1 received block 2.
-73.60612272846915: Block 2 is discarded by peer 1 since Txn 2 is invalid.
-73.62768516750499: Peer 4 received block 2.
-73.62768516750499: Block 2 is discarded by peer 4 since Txn 2 is invalid.
-73.67902215162059: Peer 2 received block 2.
-73.67902215162059: Block 2 is discarded by peer 2 since Txn 2 is invalid.
-73.7038306198998: Peer 5 received block 2.
-73.7038306198998: Block 2 is discarded by peer 5 since Txn 2 is invalid.
-73.75202872447596: Peer 3 received block 2.
-73.75202872447596: Block 2 is discarded by peer 3 since Txn 2 is invalid.
-73.96489176225782: Peer 6 received block 2.
-73.96489176225782: Block 2 is discarded by peer 6 since Txn 2 is invalid.
-74.06748765720775: Txn 95 created by 5.
-74.10080418968424: Txn 95 received by 2.
-74.1041626619964: Txn 95 received by 3.
-74.12649055189377: Txn 95 received by 6.
-74.15886954661202: Txn 95 received by 1.
-74.16130759958463: Txn 95 received by 4.
-74.23000390336196: Txn 96 created by 2.
-74.26334728988832: Txn 96 received by 5.
-74.27255990490185: Txn 95 received by 0.
-74.30181452972985: Txn 96 received by 3.
-74.3270298374448: Txn 96 received by 6.
-74.33289840786946: Txn 96 received by 1.
-74.36039475136604: Txn 96 received by 4.
-74.41106091381936: Txn 96 received by 0.
-75.35345037269543: Txn 97 created by 6.
-75.35371886047905: Txn 98 created by 3.
-75.37517517079901: Txn 97 received by 3.
-75.376409604092: Txn 98 received by 6.
-75.39099514016955: Txn 98 received by 5.
-75.41180415173469: Txn 97 received by 5.
-75.41385189228579: Txn 98 received by 4.
-75.42446695033927: Txn 98 received by 2.
-75.4335807327662: Txn 97 received by 4.
-75.44540673253744: Txn 97 received by 2.
-75.48480835441221: Txn 97 received by 1.
-75.53781876842581: Txn 98 received by 1.
-75.54398483665354: Txn 98 received by 0.
-75.56399697356917: Txn 97 received by 0.
-75.60533651524129: Txn 99 created by 3.
-75.62700757511595: Txn 99 received by 6.
-75.64339300157123: Txn 99 received by 5.
-75.66327093671372: Txn 99 received by 4.
-75.67058961206271: Txn 100 created by 3.
-75.6769599100918: Txn 99 received by 2.
-75.69222764593393: Txn 100 received by 6.
-75.70686250383466: Txn 100 received by 5.
-75.71542678932418: Txn 99 received by 1.
-75.72770426116769: Txn 100 received by 4.
-75.74395924313409: Txn 100 received by 2.
-75.79241947677835: Txn 99 received by 0.
-75.80503727397078: Txn 100 received by 1.
-75.85679570310772: Txn 100 received by 0.
-76.08887963970439: Peer 6 ends mining
-76.08887963970439: Longest node 1 for 6 after mining
-Block prev   Block 1 --- prevBlock 0 --------- mined by 5 at 37.694325362260976.
-76.08887963970439: Block 3 mined by 6 and added in its ledger
-76.08887963970439: Peer 6 previous ledger [0, 1]
-76.08887963970439: Peer 6 updated ledger [0, 1, 3]
-76.08887963970439: Forwarding from generator function -- Block 3 to Peer 1 from Peer 6
-76.08887963970439: Forwarding from generator function -- Block 3 to Peer 5 from Peer 6
-76.08887963970439: Forwarding from generator function -- Block 3 to Peer 4 from Peer 6
-76.08887963970439: Forwarding from generator function -- Block 3 to Peer 2 from Peer 6
-76.08887963970439: Forwarding from generator function -- Block 3 to Peer 3 from Peer 6
-76.08887963970439: Forwarding from generator function -- Block 3 to Peer 0 from Peer 6
-76.11571690871442: Peer 3 received block 3.
-76.11571690871442: Block 3 is discarded by peer 3 since Txn 9 is invalid.
-76.40432186727277: Peer 4 received block 3.
-76.40432186727277: Block 3 is discarded by peer 4 since Txn 9 is invalid.
-76.5598355176432: Peer 0 received block 3.
-76.5598355176432: Block 3 is discarded by peer 0 since Txn 9 is invalid.
-76.57607628699338: Peer 2 received block 3.
-76.57607628699338: Block 3 is discarded by peer 2 since Txn 9 is invalid.
-76.59216710980019: Peer 5 received block 3.
-76.59216710980019: Block 3 is discarded by peer 5 since Txn 9 is invalid.
-76.66666973644807: Peer 1 received block 3.
-76.66666973644807: Block 3 is discarded by peer 1 since Txn 9 is invalid.
-76.87898210102351: Txn 102 created by 2.
-76.91212273807588: Txn 102 received by 5.
-76.94944834307628: Txn 102 received by 3.
-76.96859750515: Txn 102 received by 1.
-76.97123274654135: Txn 103 created by 4.
-76.97159325371797: Txn 102 received by 6.
-77.00756734134818: Txn 102 received by 4.
-77.02806710440667: Txn 103 received by 3.
-77.05083877621344: Txn 103 received by 6.
-77.05104012037268: Txn 102 received by 0.
-77.06770144854646: Txn 103 received by 5.
-77.10022014662582: Txn 103 received by 0.
-77.10240383733853: Txn 103 received by 2.
-77.12210732152259: Txn 103 received by 1.
-77.39180379316511: Txn 104 created by 6.
-77.41448374875985: Txn 104 received by 3.
-77.45147374720837: Txn 104 received by 5.
-77.47201748266646: Txn 104 received by 4.
-77.48510070093887: Txn 104 received by 2.
-77.51414274557699: Txn 104 received by 1.
-77.6032201076264: Txn 104 received by 0.
-77.93798907302345: Txn 105 created by 2.
-77.97448485350834: Txn 105 received by 5.
-78.01154984163139: Txn 105 received by 3.
-78.02831447092515: Txn 105 received by 1.
-78.036819545956: Txn 105 received by 6.
-78.07104221943037: Txn 105 received by 4.
-78.11845951809356: Txn 105 received by 0.
-78.28857677968293: Txn 106 created by 6.
-78.31010411110698: Txn 106 received by 3.
-78.3484302834279: Txn 106 received by 5.
-78.36806033297644: Txn 106 received by 4.
-78.3824317959238: Txn 106 received by 2.
-78.43002733778746: Txn 106 received by 1.
-78.49736720905061: Txn 106 received by 0.
-79.09029810679405: Txn 107 created by 5.
-79.1243142038206: Txn 107 received by 2.
-79.12700497293841: Txn 107 received by 3.
-79.14898906934896: Txn 107 received by 6.
-79.16962006724879: Txn 107 received by 1.
-79.18400678245354: Txn 107 received by 4.
-79.24895857460567: Txn 107 received by 0.
-79.53216675929987: Txn 108 created by 5.
-79.56539792439415: Txn 108 received by 2.
-79.5747375813414: Txn 108 received by 3.
-79.59609904432207: Txn 108 received by 6.
-79.62532881188: Txn 108 received by 1.
-79.63194155082246: Txn 108 received by 4.
-79.72040420346778: Txn 108 received by 0.
-80.0809307743394: Txn 109 created by 0.
-80.16228814716553: Txn 109 received by 1.
-80.20984663248333: Txn 109 received by 4.
-80.24320840334887: Txn 109 received by 5.
-80.2621994268414: Txn 109 received by 2.
-80.26746174270244: Txn 109 received by 3.
-80.28909468636567: Txn 109 received by 6.
-80.5975032250064: Txn 110 created by 6.
-80.62162712644081: Txn 110 received by 3.
-80.65805432687901: Txn 110 received by 5.
-80.67874580665395: Txn 110 received by 4.
-80.6911691751443: Txn 110 received by 2.
-80.72344121540242: Txn 110 received by 1.
-80.80836420189662: Txn 110 received by 0.
-81.69234118367254: Txn 111 created by 5.
-81.72713175775063: Txn 111 received by 2.
-81.72866489370277: Txn 111 received by 3.
-81.74795255073394: Txn 111 received by 1.
-81.7506082869515: Txn 111 received by 6.
-81.7860662643362: Txn 111 received by 4.
-81.85315373289195: Txn 111 received by 0.
-82.68236423654501: Txn 112 created by 2.
-82.71623888416599: Txn 112 received by 5.
-82.75252018834705: Txn 112 received by 3.
-82.77576805439696: Txn 112 received by 1.
-82.77641113049185: Txn 112 received by 6.
-82.80993419837002: Txn 112 received by 4.
-82.86317171595473: Txn 112 received by 0.
-82.90389215754776: Txn 113 created by 6.
-82.92549857306005: Txn 113 received by 3.
-82.96166122348511: Txn 113 received by 5.
-82.98415724863884: Txn 113 received by 4.
-82.99471750106035: Txn 113 received by 2.
-83.0680250282264: Txn 113 received by 1.
-83.11465298082688: Txn 113 received by 0.
-83.52133365111162: Txn 114 created by 6.
-83.54349771692802: Txn 114 received by 3.
-83.58178898927969: Txn 114 received by 5.
-83.6012630551473: Txn 114 received by 4.
-83.61589283324379: Txn 114 received by 2.
-83.64604929839602: Txn 114 received by 1.
-83.73226408065536: Txn 114 received by 0.
-83.74778666510807: Txn 115 created by 4.
-83.75705988243779: Txn 116 created by 6.
-83.77878602785971: Txn 116 received by 3.
-83.80462206136922: Txn 115 received by 3.
-83.81545592784352: Txn 116 received by 5.
-83.82675461224972: Txn 115 received by 6.
-83.83595285129378: Txn 116 received by 4.
-83.84342056335947: Txn 115 received by 5.
-83.84938049393456: Txn 116 received by 2.
-83.87358495338422: Txn 116 received by 1.
-83.87754013892015: Txn 115 received by 0.
-83.87809458626928: Txn 115 received by 2.
-83.91869564870359: Txn 115 received by 1.
-83.95180146253337: Txn 116 received by 0.
-84.23540029603257: Txn 117 created by 0.
-84.31477169896537: Txn 117 received by 1.
-84.36498036015661: Txn 117 received by 4.
-84.37533233530114: Txn 117 received by 5.
-84.4097928729497: Txn 117 received by 2.
-84.41285852376448: Txn 117 received by 3.
-84.43487911741404: Txn 117 received by 6.
-84.89926434664352: Txn 118 created by 4.
-84.95825017475644: Txn 118 received by 3.
-84.97979585396914: Txn 118 received by 6.
-84.99457378973405: Txn 118 received by 5.
-85.02841221590066: Txn 118 received by 0.
-85.02875937024261: Txn 118 received by 2.
-85.06540801015721: Txn 118 received by 1.
-86.51287330322228: Txn 119 created by 3.
-86.53616961756377: Txn 119 received by 6.
-86.55022997963846: Txn 119 received by 5.
-86.57083025224802: Txn 119 received by 4.
-86.58413476459287: Txn 119 received by 2.
-86.61933722329513: Txn 119 received by 1.
-86.69981704127152: Txn 119 received by 0.
-86.75810500231232: Txn 120 created by 4.
-86.81503590952404: Txn 120 received by 3.
-86.8352018781527: Txn 121 created by 1.
-86.83660064507814: Txn 120 received by 6.
-86.85133332741293: Txn 120 received by 5.
-86.8850954623704: Txn 120 received by 2.
-86.88706486830512: Txn 120 received by 0.
-86.91111349397146: Txn 120 received by 1.
-86.91315487917475: Txn 121 received by 0.
-86.9505753525211: Txn 121 received by 5.
-86.98396196420057: Txn 121 received by 2.
-86.98785833713397: Txn 121 received by 3.
-87.0093335501669: Txn 121 received by 6.
-87.04245055691487: Txn 121 received by 4.
-87.43243318323226: Txn 122 created by 6.
-87.45556743699733: Txn 122 received by 3.
-87.49198583753845: Txn 122 received by 5.
-87.51241970701498: Txn 122 received by 4.
-87.5252322361689: Txn 122 received by 2.
-87.5591251615694: Txn 122 received by 1.
-87.64176190924164: Txn 122 received by 0.
-88.09403072481592: Peer 2 ends mining
-88.09403072481592: Longest node 1 for 2 after mining
-88.09403072481592: Peer 2 was slow in mining someone else mined first.
-88.59314266662892: Txn 123 created by 1.
-88.68868518928439: Txn 123 received by 0.
-88.6901897502667: Txn 123 received by 5.
-88.72469729528245: Txn 123 received by 2.
-88.72657226521348: Txn 123 received by 3.
-88.74866163517498: Txn 123 received by 6.
-88.7837810237669: Txn 123 received by 4.
-89.44836587184602: Length of the longest path: 2
-89.44836587184602: path: [0, 1]
-89.44836587184602: Peer 2 starts mining
-89.44836587184602: Transactions in the longest chain: 5
-89.44836587184602: Transactions to be inserted in new block: 117
-89.44836587184602: Longest node 1 for 2 before mining
-89.635406243799: Length of the longest path: 2
-89.635406243799: path: [0, 2]
-89.635406243799: Peer 0 starts mining
-89.635406243799: Transactions in the longest chain: 19
-89.635406243799: Transactions to be inserted in new block: 103
-89.635406243799: Longest node 2 for 0 before mining
-90.20316466544111: Txn 124 created by 0.
-90.3071807757994: Txn 124 received by 1.
-90.33260508083589: Txn 124 received by 4.
-90.36889610721882: Txn 124 received by 5.
-90.38392477155668: Txn 124 received by 2.
-90.3895797488912: Txn 124 received by 3.
-90.41121967371751: Txn 124 received by 6.
-92.50916525949073: Txn 125 created by 6.
-92.53076973632359: Txn 125 received by 3.
-92.56755490782797: Txn 125 received by 5.
-92.58753227069188: Txn 125 received by 4.
-92.60109702301888: Txn 125 received by 2.
-92.65177837747572: Txn 125 received by 1.
-92.65427898264694: Txn 126 created by 0.
-92.7182908064186: Txn 125 received by 0.
-92.72024490944392: Txn 127 created by 2.
-92.75000293687667: Txn 126 received by 1.
-92.75339650393897: Txn 127 received by 5.
-92.78418367596156: Txn 126 received by 4.
-92.7898948219684: Txn 127 received by 3.
-92.8097080648539: Txn 126 received by 5.
-92.81128204281265: Txn 127 received by 6.
-92.83178747008499: Txn 127 received by 1.
-92.83499565192136: Txn 126 received by 2.
-92.84153321866829: Txn 126 received by 3.
-92.84678466725447: Txn 127 received by 4.
-92.86293478444739: Txn 126 received by 6.
-92.90123089738108: Txn 127 received by 0.
-94.04191313572075: Txn 128 created by 6.
-94.06364327023348: Txn 128 received by 3.
-94.10011023574464: Txn 128 received by 5.
-94.12102086605418: Txn 128 received by 4.
-94.13369054904662: Txn 128 received by 2.
-94.15478376981967: Txn 128 received by 1.
-94.2354084800692: Txn 128 received by 0.
-94.90757330427701: Txn 129 created by 2.
-94.9362896958199: Txn 130 created by 1.
-94.94242614564297: Txn 129 received by 5.
-94.97110706721226: Txn 131 created by 1.
-94.97849133072238: Txn 129 received by 3.
-94.9921695741915: Txn 130 received by 5.
-95.0029752559738: Txn 129 received by 6.
-95.0111573205984: Txn 129 received by 1.
-95.0254846316675: Txn 130 received by 2.
-95.02797947240403: Txn 131 received by 5.
-95.02833124366789: Txn 130 received by 3.
-95.03964277066366: Txn 129 received by 4.
-95.05058259733369: Txn 130 received by 6.
-95.06207978109893: Txn 131 received by 2.
-95.06482265978924: Txn 131 received by 3.
-95.06886715345554: Txn 131 received by 0.
-95.07661786428405: Txn 130 received by 0.
-95.08532862016315: Txn 130 received by 4.
-95.08865784893301: Txn 131 received by 6.
-95.08883497468412: Txn 129 received by 0.
-95.12219884793151: Txn 131 received by 4.
-95.4669371606665: Txn 132 created by 5.
-95.50113636509055: Txn 132 received by 2.
-95.5031270629046: Txn 132 received by 3.
-95.52232303189639: Txn 132 received by 1.
-95.52551278460143: Txn 132 received by 6.
-95.53786765219094: Txn 133 created by 0.
-95.55996341141895: Txn 132 received by 4.
-95.60527115145184: Txn 132 received by 0.
-95.6668515422497: Txn 133 received by 4.
-95.6682580769287: Txn 133 received by 1.
-95.71832664422772: Txn 133 received by 2.
-95.72415907595907: Txn 133 received by 3.
-95.74323885346014: Txn 133 received by 5.
-95.74569289735025: Txn 133 received by 6.
-97.55270149515937: Txn 134 created by 4.
-97.61032074240917: Txn 134 received by 3.
-97.63217934215808: Txn 134 received by 6.
-97.64696505204576: Txn 134 received by 5.
-97.68131585682913: Txn 134 received by 2.
-97.68249812075041: Txn 134 received by 0.
-97.70187835299056: Txn 134 received by 1.
-98.82655437906637: Txn 135 created by 1.
-98.8875774224553: Txn 135 received by 5.
-98.90709656634021: Txn 135 received by 0.
-98.92095208159834: Txn 135 received by 2.
-98.92375770250709: Txn 135 received by 3.
-98.94627339760245: Txn 135 received by 6.
-98.9819737491294: Txn 135 received by 4.
-99.13777003256988: Txn 136 created by 0.
-99.22104687680607: Txn 136 received by 1.
-99.26777473120377: Txn 136 received by 4.
-99.28987684852642: Txn 136 received by 5.
-99.31856933279143: Txn 136 received by 2.
-99.32458981371411: Txn 136 received by 3.
-99.34624322685545: Txn 136 received by 6.
-0 False 0.16393442622950818 75
+30.395504699508706: P5: Block 2 mined by 5 and added in its ledger
+30.395504699508706: P5: Peer 5 previous ledger [0, 1]
+1. FLAG: P5: ADD 2
+30.395504699508706: P5: Peer 5 updated ledger [0, 1, 2]
+30.395504699508706: P5: Forwarding from generator function -- Block 2 to Peer 0 from Peer 5
+30.395504699508706: P5: Forwarding from generator function -- Block 2 to Peer 3 from Peer 5
+30.395504699508706: P5: Forwarding from generator function -- Block 2 to Peer 2 from Peer 5
+30.395504699508706: P5: Forwarding from generator function -- Block 2 to Peer 6 from Peer 5
+30.395504699508706: P5: Forwarding from generator function -- Block 2 to Peer 1 from Peer 5
+30.498830800079105: P3: Peer 3 received block 2.
+FLAG: P3: 
+	 0 0
+	 2 1
+30.498830800079105: P3: Block 2 reached peer 3 and added to its ledger.
+30.498830800079105: P3: Peer 3 previuos ledger [0, 1]
+30.498830800079105: P3: Longest node 2 for 3
+1. FLAG: P3: ADD 2
+1. FLAG: P3: 2-2
+30.498830800079105: P3: Peer 3 updated ledger [0, 1, 2]
+30.498830800079105: P3: Forwarding from forward fucntion-- Block 2 to Peer 1 from Peer 3
+30.498830800079105: P3: Forwarding from forward fucntion-- Block 2 to Peer 6 from Peer 3
+30.55025284320268: P1: Peer 1 received block 2.
+FLAG: P1: 
+	 0 0
+	 1 1
+30.55025284320268: P1: Block 2 reached peer 1 and added to its ledger.
+30.55025284320268: P1: Peer 1 previuos ledger [0, 1]
+30.55025284320268: P1: Longest node 1 for 1
+1. FLAG: P1: ADD 2
+1. FLAG: P1: 1-2
+30.55025284320268: P1: Peer 1 updated ledger [0, 1, 2]
+30.55025284320268: P1: Forwarding from forward fucntion-- Block 2 to Peer 5 from Peer 1
+30.55025284320268: P1: Forwarding from forward fucntion-- Block 2 to Peer 4 from Peer 1
+30.55025284320268: P1: Forwarding from forward fucntion-- Block 2 to Peer 2 from Peer 1
+30.55025284320268: P1: Forwarding from forward fucntion-- Block 2 to Peer 6 from Peer 1
+30.67137293180037: P1: Returning from Peer 1 since block 2 is already here.!!
+30.690127306978543: P4: Peer 4 received block 2.
+FLAG: P4: 
+	 0 0
+30.690127306978543: P4: Block 2 reached peer 4 and added to its ledger.
+30.690127306978543: P4: Peer 4 previuos ledger [0, 1]
+30.690127306978543: P4: Longest node 0 for 4
+1. FLAG: P4: ADD 2
+1. FLAG: P4: 0-2
+30.690127306978543: P4: Peer 4 updated ledger [0, 1, 2]
+30.690127306978543: P4: Forwarding from forward fucntion-- Block 2 to Peer 0 from Peer 4
+30.690127306978543: P4: Forwarding from forward fucntion-- Block 2 to Peer 2 from Peer 4
+30.723617792375894: P2: Peer 2 received block 2.
+FLAG: P2: 
+	 0 0
+30.723617792375894: P2: Block 2 reached peer 2 and added to its ledger.
+30.723617792375894: P2: Peer 2 previuos ledger [0, 1]
+30.723617792375894: P2: Longest node 0 for 2
+1. FLAG: P2: ADD 2
+1. FLAG: P2: 0-2
+30.723617792375894: P2: Peer 2 updated ledger [0, 1, 2]
+30.723617792375894: P2: Forwarding from forward fucntion-- Block 2 to Peer 5 from Peer 2
+30.723617792375894: P2: Forwarding from forward fucntion-- Block 2 to Peer 4 from Peer 2
+30.723617792375894: P2: Forwarding from forward fucntion-- Block 2 to Peer 0 from Peer 2
+30.723617792375894: P2: Forwarding from forward fucntion-- Block 2 to Peer 6 from Peer 2
+30.73794076602014: P6: Peer 6 received block 2.
+FLAG: P6: 
+	 0 0
+	 2 1
+30.73794076602014: P6: Block 2 reached peer 6 and added to its ledger.
+30.73794076602014: P6: Peer 6 previuos ledger [0, 1]
+30.73794076602014: P6: Longest node 2 for 6
+1. FLAG: P6: ADD 2
+1. FLAG: P6: 2-2
+30.73794076602014: P6: Peer 6 updated ledger [0, 1, 2]
+30.73794076602014: P6: Forwarding from forward fucntion-- Block 2 to Peer 0 from Peer 6
+30.73794076602014: P6: Forwarding from forward fucntion-- Block 2 to Peer 3 from Peer 6
+30.73794076602014: P6: Forwarding from forward fucntion-- Block 2 to Peer 2 from Peer 6
+30.73794076602014: P6: Forwarding from forward fucntion-- Block 2 to Peer 1 from Peer 6
+30.85765398023497: P0: Peer 0 received block 2.
+FLAG: P0: 
+	 0 0
+	 2 1
+30.85765398023497: P0: Block 2 reached peer 0 and added to its ledger.
+30.85765398023497: P0: Peer 0 previuos ledger [0, 1]
+30.85765398023497: P0: Longest node 2 for 0
+1. FLAG: P0: ADD 2
+1. FLAG: P0: 2-2
+30.85765398023497: P0: Peer 0 updated ledger [0, 1, 2]
+30.85765398023497: P0: Forwarding from forward fucntion-- Block 2 to Peer 4 from Peer 0
+30.85765398023497: P0: Forwarding from forward fucntion-- Block 2 to Peer 6 from Peer 0
+30.85765398023497: P0: Forwarding from forward fucntion-- Block 2 to Peer 2 from Peer 0
+30.87674707193372: P6: Returning from Peer 6 since block 2 is already here.!!
+30.880707200172846: P2: Returning from Peer 2 since block 2 is already here.!!
+30.89158055280489: P2: Returning from Peer 2 since block 2 is already here.!!
+30.898200592713863: P5: Peer 5 received block 2.
+FLAG: P5: 
+	 0 0
+30.898200592713863: P5: Block 2 reached peer 5 and added to its ledger.
+30.898200592713863: P5: Peer 5 previuos ledger [0, 1, 2]
+30.898200592713863: P5: Longest node 0 for 5
+1. FLAG: P5: ADD 2
+1. FLAG: P5: 0-2
+30.898200592713863: P5: Peer 5 updated ledger [0, 1, 2]
+30.898200592713863: P5: Forwarding from forward fucntion-- Block 2 to Peer 0 from Peer 5
+30.898200592713863: P5: Forwarding from forward fucntion-- Block 2 to Peer 3 from Peer 5
+30.898200592713863: P5: Forwarding from forward fucntion-- Block 2 to Peer 2 from Peer 5
+30.898200592713863: P5: Forwarding from forward fucntion-- Block 2 to Peer 6 from Peer 5
+30.904164081599685: P6: Returning from Peer 6 since block 2 is already here.!!
+30.922067162944018: P5: Txn 55 created by 5: 5 to 4 coins 3
+30.978753765274824: P0: Returning from Peer 0 since block 2 is already here.!!
+30.99063395770052: P0: Returning from Peer 0 since block 2 is already here.!!
+30.998999535476113: P3: Returning from Peer 3 since block 2 is already here.!!
+31.021415940317432: P3: Txn 55 received by 3.
+31.02874144105301: P6: Returning from Peer 6 since block 2 is already here.!!
+31.05945429839762: P2: Returning from Peer 2 since block 2 is already here.!!
+31.065889866789973: P1: Txn 55 received by 1.
+31.096025019552204: P4: Returning from Peer 4 since block 2 is already here.!!
+31.102468255275166: P0: Returning from Peer 0 since block 2 is already here.!!
+31.11264214999179: P6: Returning from Peer 6 since block 2 is already here.!!
+31.142690728466107: P3: Returning from Peer 3 since block 2 is already here.!!
+31.144654772469014: P4: Returning from Peer 4 since block 2 is already here.!!
+31.208889196041568: P5: Returning from Peer 5 since block 2 is already here.!!
+31.219584515133953: P4: Txn 55 received by 4.
+31.233874833485732: P1: Returning from Peer 1 since block 2 is already here.!!
+31.236758511970606: P2: Returning from Peer 2 since block 2 is already here.!!
+31.23887700974779: P2: Txn 55 received by 2.
+31.23894746374626: P6: Returning from Peer 6 since block 2 is already here.!!
+31.261382146069835: P6: Txn 55 received by 6.
+31.35955311520535: P0: Returning from Peer 0 since block 2 is already here.!!
+31.382781547001915: P0: Txn 55 received by 0.
+31.38433349733355: P2: Returning from Peer 2 since block 2 is already here.!!
+31.899263266209598: P5: Txn 56 created by 5: 5 to 1 coins 2
+31.998984808699284: P3: Txn 56 received by 3.
+32.022815144361395: P1: Txn 56 received by 1.
+32.102094781501165: P2: Txn 57 created by 2: 2 to 5 coins 2
+32.148751944612656: P4: Txn 56 received by 4.
+32.18367043297012: P3: Txn 58 created by 3: 3 to 5 coins 3
+32.18624512228768: P2: Txn 56 received by 2.
+32.21209474054676: P1: Txn 58 received by 1.
+32.23911658493189: P6: Txn 56 received by 6.
+32.254697426701064: P6: Txn 57 received by 6.
+32.27075083756904: P1: Txn 57 received by 1.
+32.2827882205899: P5: Txn 58 received by 5.
+32.29171697277866: P3: Txn 57 received by 3.
+32.3533106054778: P4: Txn 58 received by 4.
+32.35988705333274: P0: Txn 56 received by 0.
+32.36719090391943: P2: Txn 58 received by 2.
+32.39024455072238: P4: Txn 57 received by 4.
+32.39087246010143: P5: Txn 57 received by 5.
+32.481396265258574: P0: Txn 57 received by 0.
+32.51925260468818: P6: Txn 58 received by 6.
+32.63948592563672: P0: Txn 58 received by 0.
+32.72942478176622: P4: Txn 59 created by 4: 4 to 5 coins 4
+32.855778351214774: P1: Txn 59 received by 1.
+32.876051573472715: P3: Txn 59 received by 3.
+32.97520060883961: P5: Txn 59 received by 5.
+33.014846967845166: P0: Txn 59 received by 0.
+33.03009251921179: P2: Txn 59 received by 2.
+33.1827144684957: P6: Txn 59 received by 6.
+33.307230474257246: P4: Txn 60 created by 4: 4 to 3 coins 3
+33.36147372931586: P5: Txn 61 created by 5: 5 to 6 coins 5
+33.434561805379595: P1: Txn 60 received by 1.
+33.45132411714322: P3: Txn 60 received by 3.
+33.46205402642321: P3: Txn 61 received by 3.
+33.50953163236671: P1: Txn 61 received by 1.
+33.54253905902519: P5: Txn 62 created by 5: 5 to 0 coins 5
+33.55036263220906: P5: Txn 60 received by 5.
+33.59356648385873: P0: Txn 60 received by 0.
+33.60584412959426: P2: Txn 60 received by 2.
+33.62893840347644: P4: Txn 61 received by 4.
+33.643025401643655: P3: Txn 62 received by 3.
+33.66268622055353: P1: Txn 62 received by 1.
+33.68591553255552: P2: Txn 61 received by 2.
+33.70127872614799: P6: Txn 61 received by 6.
+33.758135055149815: P6: Txn 60 received by 6.
+33.802331031859445: P4: Txn 62 received by 4.
+33.81930308735586: P2: Txn 62 received by 2.
+33.82311541211996: P0: Txn 61 received by 0.
+33.882539924618705: P6: Txn 62 received by 6.
+34.00363796628879: P0: Txn 62 received by 0.
+34.6812809522691: P2: Txn 63 created by 2: 2 to 6 coins 3
+34.8338340886014: P6: Txn 63 received by 6.
+34.87472071748888: P1: Txn 63 received by 1.
+34.925124947993616: P3: Txn 63 received by 3.
+35.02438943096116: P5: Txn 63 received by 5.
+35.05421089426595: P4: Txn 63 received by 4.
+35.05995032797088: P0: Txn 63 received by 0.
+35.11946118716815: P3: Length of the longest path: 2
+35.11946118716815: P3: path: [0, 1]
+35.11946118716815: P3: Peer 3 starts mining
+35.11946118716815: P3: Transactions in the longest chain: 5
+35.11946118716815: P3: Peer 3: Transactions to be inserted in new block: 58
+35.11946118716815: P3: Longest node 1 for 3 before mining
+36.185784543602715: P5: Txn 64 created by 5: 5 to 1 coins 3
+36.28510276324906: P3: Txn 64 received by 3.
+36.3008306994774: P1: Txn 64 received by 1.
+36.43163935713455: P4: Txn 64 received by 4.
+36.459979798656455: P2: Txn 64 received by 2.
+36.52548768940475: P6: Txn 64 received by 6.
+36.64683468503825: P0: Txn 64 received by 0.
+36.71931060111642: P5: Txn 65 created by 5: 5 to 0 coins 2
+36.81816951670543: P3: Txn 65 received by 3.
+36.846374113023515: P1: Txn 65 received by 1.
+36.852577781713904: P5: Txn 66 created by 5: 5 to 4 coins 5
+36.95373880413234: P3: Txn 66 received by 3.
+36.97287035869608: P4: Txn 65 received by 4.
+36.97933970610993: P1: Txn 66 received by 1.
+37.00115158830653: P2: Txn 65 received by 2.
+37.05889348000424: P6: Txn 65 received by 6.
+37.11826218407652: P4: Txn 66 received by 4.
+37.12926245747082: P2: Txn 66 received by 2.
+37.165906083338044: P2: Txn 67 created by 2: 2 to 0 coins 5
+37.18028128274271: P0: Txn 65 received by 0.
+37.192438420416565: P6: Txn 66 received by 6.
+37.27571233758394: P1: Txn 68 created by 1: 1 to 4 coins 2
+37.31383719209181: P0: Txn 66 received by 0.
+37.3162723078941: P1: Txn 67 received by 1.
+37.32012203980491: P6: Txn 67 received by 6.
+37.347208751726: P3: Txn 67 received by 3.
+37.35754535071693: P1: Txn 69 created by 1: 1 to 5 coins 5
+37.37126009796906: P3: Txn 68 received by 3.
+37.39660269486763: P3: Txn 69 received by 3.
+37.42398782176316: P2: Txn 68 received by 2.
+37.4477356064147: P5: Txn 67 received by 5.
+37.45415413504984: P4: Txn 67 received by 4.
+37.46835708312174: P4: Txn 68 received by 4.
+37.47023359060758: P5: Txn 68 received by 5.
+37.48606997662401: P4: Txn 69 received by 4.
+37.496764472615155: P5: Txn 69 received by 5.
+37.54388846876972: P0: Txn 67 received by 0.
+37.572453560618925: P2: Txn 69 received by 2.
+37.57651666399816: P6: Txn 68 received by 6.
+37.61589657061701: P5: Txn 70 created by 5: 5 to 3 coins 5
+37.71543788013492: P3: Txn 70 received by 3.
+37.72440333959704: P6: Txn 69 received by 6.
+37.73656258251027: P1: Txn 70 received by 1.
+37.75421194557842: P0: Txn 68 received by 0.
+37.77276140902226: P0: Txn 69 received by 0.
+37.85873242458056: P4: Txn 70 received by 4.
+37.87422365696784: P2: Peer 2 ends mining
+37.87422365696784: P2: Longest node 1 for 2 after mining
+37.87422365696784: P2: Peer 2 was slow in mining someone else mined first.
+37.93143227199784: P2: Txn 70 received by 2.
+37.95577998022606: P6: Txn 70 received by 6.
+38.07840051972824: P0: Txn 70 received by 0.
+38.11057331088348: P5: Txn 71 created by 5: 5 to 3 coins 4
+38.209320992621066: P3: Txn 71 received by 3.
+38.24728631443858: P1: Txn 71 received by 1.
+38.36706548805781: P4: Txn 71 received by 4.
+38.4052814950798: P2: Txn 71 received by 2.
+38.44975146836242: P6: Txn 71 received by 6.
+38.574633685636485: P0: Txn 71 received by 0.
+38.61783953653548: P3: Txn 72 created by 3: 3 to 4 coins 1
+38.63783042425695: P1: Txn 72 received by 1.
+38.718987730113824: P5: Txn 72 received by 5.
+38.77020708818749: P4: Txn 72 received by 4.
+38.81301637482548: P2: Txn 72 received by 2.
+38.96526629610512: P6: Txn 72 received by 6.
+39.02774523925745: P3: Txn 73 created by 3: 3 to 1 coins 4
+39.05702514897288: P0: Txn 72 received by 0.
+39.07605133446764: P1: Txn 73 received by 1.
+39.12733656165909: P5: Txn 73 received by 5.
+39.19506406033896: P4: Txn 73 received by 4.
+39.22615196171833: P1: Txn 74 created by 1: 1 to 2 coins 2
+39.229096654389785: P2: Txn 73 received by 2.
+39.28446985257637: P3: Txn 74 received by 3.
+39.36920490833697: P4: Txn 74 received by 4.
+39.37854495378744: P2: Txn 74 received by 2.
+39.38116044797064: P6: Txn 73 received by 6.
+39.384939954178236: P5: Txn 74 received by 5.
+39.48191261627364: P0: Txn 73 received by 0.
+39.53363678060051: P6: Txn 74 received by 6.
+39.65496271376259: P0: Txn 74 received by 0.
+41.18726316920972: P3: Txn 75 created by 3: 3 to 6 coins 2
+41.211682588956194: P1: Txn 75 received by 1.
+41.28646354886898: P5: Txn 75 received by 5.
+41.334775060789696: P4: Txn 75 received by 4.
+41.368476414575795: P2: Txn 75 received by 2.
+41.426306192428754: P3: Peer 3 ends mining
+41.426306192428754: P3: Longest node 1 for 3 after mining
+Block prev   Block 1 --- prevBlock 0 --------- mined by 4 at 8.46434660504215.
+41.426306192428754: P3: Block 3 mined by 3 and added in its ledger
+41.426306192428754: P3: Peer 3 previous ledger [0, 1, 2]
+1. FLAG: P3: ADD 3
+41.426306192428754: P3: Peer 3 updated ledger [0, 1, 2, 3]
+41.426306192428754: P3: Forwarding from generator function -- Block 3 to Peer 5 from Peer 3
+41.426306192428754: P3: Forwarding from generator function -- Block 3 to Peer 1 from Peer 3
+41.426306192428754: P3: Forwarding from generator function -- Block 3 to Peer 6 from Peer 3
+41.52061846897144: P6: Txn 75 received by 6.
+41.52969098194259: P5: Peer 5 received block 3.
+FLAG: P5: 
+	 0 0
+	 1 1
+	 3 2
+41.52969098194259: P5: Block 3 reached peer 5 and added to its ledger.
+41.52969098194259: P5: Peer 5 previuos ledger [0, 1, 2]
+41.52969098194259: P5: Longest node 3 for 5
+1. FLAG: P5: ADD 3
+1. FLAG: P5: 3-3
+41.52969098194259: P5: Peer 5 updated ledger [0, 1, 2, 3]
+41.52969098194259: P5: Forwarding from forward fucntion-- Block 3 to Peer 0 from Peer 5
+41.52969098194259: P5: Forwarding from forward fucntion-- Block 3 to Peer 2 from Peer 5
+41.52969098194259: P5: Forwarding from forward fucntion-- Block 3 to Peer 6 from Peer 5
+41.52969098194259: P5: Forwarding from forward fucntion-- Block 3 to Peer 1 from Peer 5
+41.55565724223706: P1: Peer 1 received block 3.
+FLAG: P1: 
+	 0 0
+	 1 1
+	 3 2
+41.55565724223706: P1: Block 3 reached peer 1 and added to its ledger.
+41.55565724223706: P1: Peer 1 previuos ledger [0, 1, 2]
+41.55565724223706: P1: Longest node 3 for 1
+1. FLAG: P1: ADD 3
+1. FLAG: P1: 3-3
+41.55565724223706: P1: Peer 1 updated ledger [0, 1, 2, 3]
+41.55565724223706: P1: Forwarding from forward fucntion-- Block 3 to Peer 5 from Peer 1
+41.55565724223706: P1: Forwarding from forward fucntion-- Block 3 to Peer 4 from Peer 1
+41.55565724223706: P1: Forwarding from forward fucntion-- Block 3 to Peer 2 from Peer 1
+41.55565724223706: P1: Forwarding from forward fucntion-- Block 3 to Peer 6 from Peer 1
+41.620224971219706: P0: Txn 75 received by 0.
+41.77212242318471: P4: Peer 4 received block 3.
+FLAG: P4: 
+	 0 0
+41.77212242318471: P4: Block 3 reached peer 4 and added to its ledger.
+41.77212242318471: P4: Peer 4 previuos ledger [0, 1, 2]
+41.77212242318471: P4: Longest node 0 for 4
+1. FLAG: P4: ADD 3
+1. FLAG: P4: 0-3
+41.77212242318471: P4: Peer 4 updated ledger [0, 1, 2, 3]
+41.77212242318471: P4: Forwarding from forward fucntion-- Block 3 to Peer 0 from Peer 4
+41.77212242318471: P4: Forwarding from forward fucntion-- Block 3 to Peer 2 from Peer 4
+41.81498060586989: P2: Peer 2 received block 3.
+FLAG: P2: 
+	 0 0
+41.81498060586989: P2: Block 3 reached peer 2 and added to its ledger.
+41.81498060586989: P2: Peer 2 previuos ledger [0, 1, 2]
+41.81498060586989: P2: Longest node 0 for 2
+1. FLAG: P2: ADD 3
+1. FLAG: P2: 0-3
+41.81498060586989: P2: Peer 2 updated ledger [0, 1, 2, 3]
+41.81498060586989: P2: Forwarding from forward fucntion-- Block 3 to Peer 5 from Peer 2
+41.81498060586989: P2: Forwarding from forward fucntion-- Block 3 to Peer 4 from Peer 2
+41.81498060586989: P2: Forwarding from forward fucntion-- Block 3 to Peer 0 from Peer 2
+41.81498060586989: P2: Forwarding from forward fucntion-- Block 3 to Peer 6 from Peer 2
+41.83550248990576: P6: Peer 6 received block 3.
+FLAG: P6: 
+	 0 0
+	 1 1
+	 3 2
+41.83550248990576: P6: Block 3 reached peer 6 and added to its ledger.
+41.83550248990576: P6: Peer 6 previuos ledger [0, 1, 2]
+41.83550248990576: P6: Longest node 3 for 6
+1. FLAG: P6: ADD 3
+1. FLAG: P6: 3-3
+41.83550248990576: P6: Peer 6 updated ledger [0, 1, 2, 3]
+41.83550248990576: P6: Forwarding from forward fucntion-- Block 3 to Peer 5 from Peer 6
+41.83550248990576: P6: Forwarding from forward fucntion-- Block 3 to Peer 0 from Peer 6
+41.83550248990576: P6: Forwarding from forward fucntion-- Block 3 to Peer 2 from Peer 6
+41.83550248990576: P6: Forwarding from forward fucntion-- Block 3 to Peer 1 from Peer 6
+41.86967392784687: P1: Returning from Peer 1 since block 3 is already here.!!
+41.87594167799769: P6: Returning from Peer 6 since block 3 is already here.!!
+41.908504916699: P5: Returning from Peer 5 since block 3 is already here.!!
+41.973537871282744: P6: Returning from Peer 6 since block 3 is already here.!!
+41.99370769065188: P2: Returning from Peer 2 since block 3 is already here.!!
+41.995363823222156: P0: Peer 0 received block 3.
+FLAG: P0: 
+	 0 0
+	 2 1
+41.995363823222156: P0: Block 3 reached peer 0 and added to its ledger.
+41.995363823222156: P0: Peer 0 previuos ledger [0, 1, 2]
+41.995363823222156: P0: Longest node 2 for 0
+1. FLAG: P0: ADD 3
+1. FLAG: P0: 2-3
+41.995363823222156: P0: Peer 0 updated ledger [0, 1, 2, 3]
+41.995363823222156: P0: Forwarding from forward fucntion-- Block 3 to Peer 4 from Peer 0
+41.995363823222156: P0: Forwarding from forward fucntion-- Block 3 to Peer 6 from Peer 0
+41.995363823222156: P0: Forwarding from forward fucntion-- Block 3 to Peer 2 from Peer 0
+42.01904964999355: P2: Returning from Peer 2 since block 3 is already here.!!
+42.06297233118082: P0: Returning from Peer 0 since block 3 is already here.!!
+42.0920399862568: P0: Returning from Peer 0 since block 3 is already here.!!
+42.10998535090729: P6: Returning from Peer 6 since block 3 is already here.!!
+42.14628836694504: P2: Returning from Peer 2 since block 3 is already here.!!
+42.18133660278794: P5: Returning from Peer 5 since block 3 is already here.!!
+42.18803486781787: P4: Returning from Peer 4 since block 3 is already here.!!
+42.19787031289466: P0: Returning from Peer 0 since block 3 is already here.!!
+42.25145882918547: P6: Returning from Peer 6 since block 3 is already here.!!
+42.286918448638325: P4: Returning from Peer 4 since block 3 is already here.!!
+42.30356583482137: P5: Returning from Peer 5 since block 3 is already here.!!
+42.37802804438865: P2: Returning from Peer 2 since block 3 is already here.!!
+42.394116041683525: P1: Returning from Peer 1 since block 3 is already here.!!
+42.463510705250535: P0: Txn 77 created by 0: 0 to 2 coins 1
+42.56543953599646: P3: Txn 78 created by 3: 3 to 5 coins 1
+42.58681990813657: P1: Txn 78 received by 1.
+42.66498639191892: P5: Txn 78 received by 5.
+42.71523813765715: P6: Txn 77 received by 6.
+42.7344185915081: P4: Txn 78 received by 4.
+42.74945581966254: P4: Txn 77 received by 4.
+42.79546364188162: P2: Txn 78 received by 2.
+42.84237882459874: P2: Txn 77 received by 2.
+42.88194971395782: P1: Txn 77 received by 1.
+42.90380769396842: P3: Txn 77 received by 3.
+42.92442936908056: P5: Txn 77 received by 5.
+42.94749109669229: P6: Txn 78 received by 6.
+43.022593974727066: P0: Txn 78 received by 0.
+43.14742123612653: P5: Txn 79 created by 5: 5 to 3 coins 3
+43.170374993670585: P4: Txn 80 created by 4: 4 to 5 coins 2
+43.248077620612634: P3: Txn 79 received by 3.
+43.264570010431655: P1: Txn 79 received by 1.
+43.32470871657249: P1: Txn 80 received by 1.
+43.35009821726517: P3: Txn 80 received by 3.
+43.39066590202898: P4: Txn 79 received by 4.
+43.44255866632181: P2: Txn 79 received by 2.
+43.44959717090968: P5: Txn 80 received by 5.
+43.45714008325242: P0: Txn 80 received by 0.
+43.48802786322167: P6: Txn 79 received by 6.
+43.516921207835324: P2: Txn 80 received by 2.
+43.60768034930351: P0: Txn 79 received by 0.
+43.67319533699109: P6: Txn 80 received by 6.
+46.28454492287894: P3: Txn 81 created by 3: 3 to 5 coins 3
+46.32869949334896: P1: Txn 81 received by 1.
+46.38426488945107: P5: Txn 81 received by 5.
+46.46480032370414: P4: Txn 81 received by 4.
+46.48416571706388: P2: Txn 81 received by 2.
+46.6363407735702: P6: Txn 81 received by 6.
+46.75015571731892: P0: Txn 81 received by 0.
+46.797226530584894: P6: Txn 82 created by 6: 6 to 5 coins 1
+46.953029471919926: P2: Txn 82 received by 2.
+47.04967360614641: P0: Txn 82 received by 0.
+47.121682837314424: P1: Txn 82 received by 1.
+47.136455299770766: P5: Txn 82 received by 5.
+47.1406782966604: P3: Txn 82 received by 3.
+47.25720588733322: P4: Txn 82 received by 4.
+48.47193902144852: P2: Txn 83 created by 2: 2 to 3 coins 4
+48.621180360287426: P1: Txn 83 received by 1.
+48.625077922425774: P6: Txn 83 received by 6.
+48.6579675160011: P3: Txn 83 received by 3.
+48.757598524350875: P5: Txn 83 received by 5.
+48.75785926098447: P0: Txn 84 created by 0: 0 to 5 coins 3
+48.758364568515645: P4: Txn 83 received by 4.
+48.84965998281858: P0: Txn 83 received by 0.
+49.00919183965337: P6: Txn 84 received by 6.
+49.04336559577873: P4: Txn 84 received by 4.
+49.08163461576052: P4: Txn 85 created by 4: 4 to 5 coins 3
+49.135645386592046: P2: Txn 84 received by 2.
+49.20061293518383: P2: Length of the longest path: 2
+49.20061293518383: P2: path: [0, 1]
+49.20061293518383: P2: Peer 2 starts mining
+49.20061293518383: P2: Transactions in the longest chain: 5
+49.20061293518383: P2: Peer 2: Transactions to be inserted in new block: 78
+49.20061293518383: P2: Longest node 1 for 2 before mining
+49.21678028847554: P1: Txn 85 received by 1.
+49.21815638543417: P5: Txn 84 received by 5.
+49.238953898001704: P3: Txn 85 received by 3.
+49.255736627372144: P5: Txn 86 created by 5: 5 to 2 coins 3
+49.264544336069: P1: Txn 84 received by 1.
+49.28449301149793: P3: Txn 84 received by 3.
+49.33826201371082: P5: Txn 85 received by 5.
+49.354817831099076: P3: Txn 86 received by 3.
+49.36728515050159: P2: Txn 85 received by 2.
+49.36854723290655: P0: Txn 85 received by 0.
+49.37489039046946: P1: Txn 87 created by 1: 1 to 2 coins 5
+49.4108063773617: P1: Txn 86 received by 1.
+49.43129034164636: P3: Txn 87 received by 3.
+49.495435204130715: P4: Txn 87 received by 4.
+49.521324731448814: P6: Txn 85 received by 6.
+49.52474819272649: P2: Txn 87 received by 2.
+49.531435577938296: P5: Txn 87 received by 5.
+49.54483782361855: P4: Txn 86 received by 4.
+49.568669748316324: P2: Txn 86 received by 2.
+49.59576658304662: P6: Txn 86 received by 6.
+49.677907438418245: P6: Txn 87 received by 6.
+49.71621713575395: P0: Txn 86 received by 0.
+49.781205412953554: P0: Txn 87 received by 0.
+52.78016742975618: P5: Txn 88 created by 5: 5 to 2 coins 5
+52.882313114189756: P3: Txn 88 received by 3.
+52.90531318852338: P1: Txn 88 received by 1.
+53.01179352694496: P6: Peer 6 ends mining
+53.01179352694496: P6: Longest node 0 for 6 after mining
+Block prev   Block 0 --- prevBlock None --------- mined by None at 0.
+53.01179352694496: P6: Block 4 mined by 6 and added in its ledger
+53.01179352694496: P6: Peer 6 previous ledger [0, 1, 2, 3]
+1. FLAG: P6: ADD 4
+53.01179352694496: P6: Peer 6 updated ledger [0, 1, 2, 3, 4]
+53.01179352694496: P6: Forwarding from generator function -- Block 4 to Peer 5 from Peer 6
+53.01179352694496: P6: Forwarding from generator function -- Block 4 to Peer 0 from Peer 6
+53.01179352694496: P6: Forwarding from generator function -- Block 4 to Peer 3 from Peer 6
+53.01179352694496: P6: Forwarding from generator function -- Block 4 to Peer 2 from Peer 6
+53.01179352694496: P6: Forwarding from generator function -- Block 4 to Peer 1 from Peer 6
+53.031548335618716: P4: Txn 88 received by 4.
+53.11683102053629: P2: Txn 88 received by 2.
+53.11978593219909: P6: Txn 88 received by 6.
+53.167364809492035: P2: Peer 2 received block 4.
+FLAG: P2: 
+	 0 0
+	 4 1
+53.167364809492035: P2: Block 4 reached peer 2 and added to its ledger.
+53.167364809492035: P2: Peer 2 previuos ledger [0, 1, 2, 3]
+53.167364809492035: P2: Longest node 4 for 2
+1. FLAG: P2: ADD 4
+1. FLAG: P2: 4-4
+53.167364809492035: P2: Peer 2 updated ledger [0, 1, 2, 3, 4]
+53.167364809492035: P2: Forwarding from forward fucntion-- Block 4 to Peer 5 from Peer 2
+53.167364809492035: P2: Forwarding from forward fucntion-- Block 4 to Peer 4 from Peer 2
+53.167364809492035: P2: Forwarding from forward fucntion-- Block 4 to Peer 0 from Peer 2
+53.167364809492035: P2: Forwarding from forward fucntion-- Block 4 to Peer 1 from Peer 2
+53.24079182664865: P0: Txn 88 received by 0.
+53.26912216888472: P0: Peer 0 received block 4.
+FLAG: P0: 
+	 0 0
+	 4 1
+53.26912216888472: P0: Block 4 reached peer 0 and added to its ledger.
+53.26912216888472: P0: Peer 0 previuos ledger [0, 1, 2, 3]
+53.26912216888472: P0: Longest node 4 for 0
+1. FLAG: P0: ADD 4
+1. FLAG: P0: 4-4
+53.26912216888472: P0: Peer 0 updated ledger [0, 1, 2, 3, 4]
+53.26912216888472: P0: Forwarding from forward fucntion-- Block 4 to Peer 4 from Peer 0
+53.26912216888472: P0: Forwarding from forward fucntion-- Block 4 to Peer 5 from Peer 0
+53.26912216888472: P0: Forwarding from forward fucntion-- Block 4 to Peer 2 from Peer 0
+53.35432257613421: P5: Peer 5 received block 4.
+FLAG: P5: 
+	 0 0
+	 4 1
+53.35432257613421: P5: Block 4 reached peer 5 and added to its ledger.
+53.35432257613421: P5: Peer 5 previuos ledger [0, 1, 2, 3]
+53.35432257613421: P5: Longest node 4 for 5
+1. FLAG: P5: ADD 4
+1. FLAG: P5: 4-4
+53.35432257613421: P5: Peer 5 updated ledger [0, 1, 2, 3, 4]
+53.35432257613421: P5: Forwarding from forward fucntion-- Block 4 to Peer 0 from Peer 5
+53.35432257613421: P5: Forwarding from forward fucntion-- Block 4 to Peer 3 from Peer 5
+53.35432257613421: P5: Forwarding from forward fucntion-- Block 4 to Peer 2 from Peer 5
+53.35432257613421: P5: Forwarding from forward fucntion-- Block 4 to Peer 1 from Peer 5
+53.36477338349618: P4: Peer 4 ends mining
+53.36477338349618: P4: Longest node 1 for 4 after mining
+Block prev   Block 1 --- prevBlock 0 --------- mined by 4 at 8.46434660504215.
+53.36477338349618: P4: Block 5 mined by 4 and added in its ledger
+53.36477338349618: P4: Peer 4 previous ledger [0, 1, 2, 3]
+1. FLAG: P4: ADD 5
+53.36477338349618: P4: Peer 4 updated ledger [0, 1, 2, 3, 5]
+53.36477338349618: P4: Forwarding from generator function -- Block 5 to Peer 0 from Peer 4
+53.36477338349618: P4: Forwarding from generator function -- Block 5 to Peer 1 from Peer 4
+53.36477338349618: P4: Forwarding from generator function -- Block 5 to Peer 2 from Peer 4
+53.39243094906339: P1: Peer 1 received block 4.
+FLAG: P1: 
+	 0 0
+	 1 1
+	 2 1
+	 3 1
+53.39243094906339: P1: Block 4 reached peer 1 and added to its ledger.
+53.39243094906339: P1: Peer 1 previuos ledger [0, 1, 2, 3]
+53.39243094906339: P1: Longest node 1 for 1
+1. FLAG: P1: ADD 4
+1. FLAG: P1: 1-4
+53.39243094906339: P1: Peer 1 updated ledger [0, 1, 2, 3, 4]
+53.39243094906339: P1: Forwarding from forward fucntion-- Block 4 to Peer 5 from Peer 1
+53.39243094906339: P1: Forwarding from forward fucntion-- Block 4 to Peer 4 from Peer 1
+53.39243094906339: P1: Forwarding from forward fucntion-- Block 4 to Peer 3 from Peer 1
+53.39243094906339: P1: Forwarding from forward fucntion-- Block 4 to Peer 6 from Peer 1
+53.419016748237745: P3: Peer 3 received block 4.
+FLAG: P3: 
+	 0 0
+	 4 1
+53.419016748237745: P3: Block 4 reached peer 3 and added to its ledger.
+53.419016748237745: P3: Peer 3 previuos ledger [0, 1, 2, 3]
+53.419016748237745: P3: Longest node 4 for 3
+1. FLAG: P3: ADD 4
+1. FLAG: P3: 4-4
+53.419016748237745: P3: Peer 3 updated ledger [0, 1, 2, 3, 4]
+53.419016748237745: P3: Forwarding from forward fucntion-- Block 4 to Peer 5 from Peer 3
+53.419016748237745: P3: Forwarding from forward fucntion-- Block 4 to Peer 1 from Peer 3
+53.45805020120153: P3: Returning from Peer 3 since block 4 is already here.!!
+53.48745534131011: P3: Returning from Peer 3 since block 4 is already here.!!
+53.50445714322403: P1: Returning from Peer 1 since block 4 is already here.!!
+53.50528983498825: P1: Peer 1 received block 5.
+FLAG: P1: 
+	 0 0
+	 1 1
+	 2 1
+	 3 1
+	 5 2
+53.50528983498825: P1: Block 5 reached peer 1 and added to its ledger.
+53.50528983498825: P1: Peer 1 previuos ledger [0, 1, 2, 3, 4]
+53.50528983498825: P1: Longest node 5 for 1
+1. FLAG: P1: ADD 5
+1. FLAG: P1: 5-5
+53.50528983498825: P1: Peer 1 updated ledger [0, 1, 2, 3, 4, 5]
+53.50528983498825: P1: Forwarding from forward fucntion-- Block 5 to Peer 5 from Peer 1
+53.50528983498825: P1: Forwarding from forward fucntion-- Block 5 to Peer 3 from Peer 1
+53.50528983498825: P1: Forwarding from forward fucntion-- Block 5 to Peer 2 from Peer 1
+53.50528983498825: P1: Forwarding from forward fucntion-- Block 5 to Peer 6 from Peer 1
+53.52508190643594: P5: Returning from Peer 5 since block 4 is already here.!!
+53.538626979067345: P4: Peer 4 received block 4.
+FLAG: P4: 
+	 0 0
+	 1 1
+	 2 1
+	 3 1
+53.538626979067345: P4: Block 4 reached peer 4 and added to its ledger.
+53.538626979067345: P4: Peer 4 previuos ledger [0, 1, 2, 3, 5]
+53.538626979067345: P4: Longest node 1 for 4
+1. FLAG: P4: ADD 4
+1. FLAG: P4: 1-4
+53.538626979067345: P4: Peer 4 updated ledger [0, 1, 2, 3, 5, 4]
+53.538626979067345: P4: Forwarding from forward fucntion-- Block 4 to Peer 0 from Peer 4
+53.538626979067345: P4: Forwarding from forward fucntion-- Block 4 to Peer 1 from Peer 4
+53.548088695758125: P3: Peer 3 received block 5.
+FLAG: P3: 
+	 0 0
+53.548088695758125: P3: Block 5 reached peer 3 and added to its ledger.
+53.548088695758125: P3: Peer 3 previuos ledger [0, 1, 2, 3, 4]
+53.548088695758125: P3: Longest node 0 for 3
+1. FLAG: P3: ADD 5
+1. FLAG: P3: 0-5
+53.548088695758125: P3: Peer 3 updated ledger [0, 1, 2, 3, 4, 5]
+53.548088695758125: P3: Forwarding from forward fucntion-- Block 5 to Peer 5 from Peer 3
+53.548088695758125: P3: Forwarding from forward fucntion-- Block 5 to Peer 6 from Peer 3
+53.548639294483664: P0: Returning from Peer 0 since block 4 is already here.!!
+53.55224497024844: P1: Returning from Peer 1 since block 4 is already here.!!
+53.5572166108881: P4: Returning from Peer 4 since block 4 is already here.!!
+53.58675705243225: P4: Returning from Peer 4 since block 4 is already here.!!
+53.64886729639581: P5: Peer 5 received block 5.
+FLAG: P5: 
+	 0 0
+	 1 1
+	 5 1
+	 3 2
+53.64886729639581: P5: Block 5 reached peer 5 and added to its ledger.
+53.64886729639581: P5: Peer 5 previuos ledger [0, 1, 2, 3, 4]
+53.64886729639581: P5: Longest node 3 for 5
+1. FLAG: P5: ADD 5
+1. FLAG: P5: 3-5
+53.64886729639581: P5: Peer 5 updated ledger [0, 1, 2, 3, 4, 5]
+53.64886729639581: P5: Forwarding from forward fucntion-- Block 5 to Peer 0 from Peer 5
+53.64886729639581: P5: Forwarding from forward fucntion-- Block 5 to Peer 2 from Peer 5
+53.64886729639581: P5: Forwarding from forward fucntion-- Block 5 to Peer 6 from Peer 5
+53.64886729639581: P5: Forwarding from forward fucntion-- Block 5 to Peer 1 from Peer 5
+53.64999484510095: P2: Returning from Peer 2 since block 4 is already here.!!
+53.6542162123413: P5: Returning from Peer 5 since block 4 is already here.!!
+53.65450650508675: P0: Peer 0 received block 5.
+FLAG: P0: 
+	 0 0
+	 1 1
+	 2 1
+	 3 1
+	 5 2
+	 4 2
+53.65450650508675: P0: Block 5 reached peer 0 and added to its ledger.
+53.65450650508675: P0: Peer 0 previuos ledger [0, 1, 2, 3, 4]
+53.65450650508675: P0: Longest node 5 for 0
+1. FLAG: P0: ADD 5
+1. FLAG: P0: 5-5
+53.65450650508675: P0: Peer 0 updated ledger [0, 1, 2, 3, 4, 5]
+53.65450650508675: P0: Forwarding from forward fucntion-- Block 5 to Peer 5 from Peer 0
+53.65450650508675: P0: Forwarding from forward fucntion-- Block 5 to Peer 6 from Peer 0
+53.65450650508675: P0: Forwarding from forward fucntion-- Block 5 to Peer 2 from Peer 0
+53.668839628722694: P1: Returning from Peer 1 since block 4 is already here.!!
+53.68931076521388: P5: Returning from Peer 5 since block 4 is already here.!!
+53.690865701605425: P2: Peer 2 received block 5.
+FLAG: P2: 
+	 0 0
+53.690865701605425: P2: Block 5 reached peer 2 and added to its ledger.
+53.690865701605425: P2: Peer 2 previuos ledger [0, 1, 2, 3, 4]
+53.690865701605425: P2: Longest node 0 for 2
+1. FLAG: P2: ADD 5
+1. FLAG: P2: 0-5
+53.690865701605425: P2: Peer 2 updated ledger [0, 1, 2, 3, 4, 5]
+53.690865701605425: P2: Forwarding from forward fucntion-- Block 5 to Peer 5 from Peer 2
+53.690865701605425: P2: Forwarding from forward fucntion-- Block 5 to Peer 4 from Peer 2
+53.690865701605425: P2: Forwarding from forward fucntion-- Block 5 to Peer 0 from Peer 2
+53.690865701605425: P2: Forwarding from forward fucntion-- Block 5 to Peer 6 from Peer 2
+53.71300397541795: P1: Returning from Peer 1 since block 4 is already here.!!
+53.732677493566705: P5: Returning from Peer 5 since block 4 is already here.!!
+53.73393186546397: P2: Returning from Peer 2 since block 5 is already here.!!
+53.78683723716819: P5: Returning from Peer 5 since block 5 is already here.!!
+53.82035756336468: P0: Returning from Peer 0 since block 4 is already here.!!
+53.8269671133845: P0: Returning from Peer 0 since block 4 is already here.!!
+53.84098719457208: P2: Returning from Peer 2 since block 4 is already here.!!
+53.84505668018697: P6: Peer 6 received block 5.
+FLAG: P6: 
+	 0 0
+	 1 1
+	 2 1
+	 3 1
+	 5 1
+53.84505668018697: P6: Block 5 reached peer 6 and added to its ledger.
+53.84505668018697: P6: Peer 6 previuos ledger [0, 1, 2, 3, 4]
+53.84505668018697: P6: Longest node 1 for 6
+1. FLAG: P6: ADD 5
+1. FLAG: P6: 1-5
+53.84505668018697: P6: Peer 6 updated ledger [0, 1, 2, 3, 4, 5]
+53.84505668018697: P6: Forwarding from forward fucntion-- Block 5 to Peer 5 from Peer 6
+53.84505668018697: P6: Forwarding from forward fucntion-- Block 5 to Peer 0 from Peer 6
+53.84505668018697: P6: Forwarding from forward fucntion-- Block 5 to Peer 3 from Peer 6
+53.84505668018697: P6: Forwarding from forward fucntion-- Block 5 to Peer 1 from Peer 6
+53.90469416199244: P6: Peer 6 received block 4.
+FLAG: P6: 
+	 0 0
+53.90469416199244: P6: Block 4 reached peer 6 and added to its ledger.
+53.90469416199244: P6: Peer 6 previuos ledger [0, 1, 2, 3, 4, 5]
+53.90469416199244: P6: Longest node 0 for 6
+1. FLAG: P6: ADD 4
+1. FLAG: P6: 0-4
+53.90469416199244: P6: Peer 6 updated ledger [0, 1, 2, 3, 4, 5]
+53.90469416199244: P6: Forwarding from forward fucntion-- Block 4 to Peer 5 from Peer 6
+53.90469416199244: P6: Forwarding from forward fucntion-- Block 4 to Peer 0 from Peer 6
+53.90469416199244: P6: Forwarding from forward fucntion-- Block 4 to Peer 3 from Peer 6
+53.90469416199244: P6: Forwarding from forward fucntion-- Block 4 to Peer 2 from Peer 6
+53.910217237292315: P6: Returning from Peer 6 since block 5 is already here.!!
+53.93515262257655: P1: Returning from Peer 1 since block 5 is already here.!!
+53.952881048769726: P6: Returning from Peer 6 since block 5 is already here.!!
+53.9896158999456: P6: Returning from Peer 6 since block 5 is already here.!!
+54.00297145353939: P6: Returning from Peer 6 since block 5 is already here.!!
+54.03350870297195: P2: Returning from Peer 2 since block 5 is already here.!!
+54.060022179986575: P2: Returning from Peer 2 since block 4 is already here.!!
+54.0603884865877: P4: Peer 4 received block 5.
+FLAG: P4: 
+	 0 0
+	 1 1
+	 2 1
+	 3 1
+	 5 1
+54.0603884865877: P4: Block 5 reached peer 4 and added to its ledger.
+54.0603884865877: P4: Peer 4 previuos ledger [0, 1, 2, 3, 5, 4]
+54.0603884865877: P4: Longest node 1 for 4
+1. FLAG: P4: ADD 5
+1. FLAG: P4: 1-5
+54.0603884865877: P4: Peer 4 updated ledger [0, 1, 2, 3, 5, 4]
+54.0603884865877: P4: Forwarding from forward fucntion-- Block 5 to Peer 0 from Peer 4
+54.0603884865877: P4: Forwarding from forward fucntion-- Block 5 to Peer 1 from Peer 4
+54.07125806127485: P0: Returning from Peer 0 since block 5 is already here.!!
+54.101709397014815: P0: Returning from Peer 0 since block 5 is already here.!!
+54.11074204537697: P0: Returning from Peer 0 since block 5 is already here.!!
+54.11593909772678: P5: Returning from Peer 5 since block 5 is already here.!!
+54.134291706692146: P2: Returning from Peer 2 since block 5 is already here.!!
+54.16166928227408: P0: Returning from Peer 0 since block 4 is already here.!!
+54.17998839734347: P5: Returning from Peer 5 since block 5 is already here.!!
+54.18543444929248: P5: Returning from Peer 5 since block 5 is already here.!!
+54.20356819566568: P1: Returning from Peer 1 since block 5 is already here.!!
+54.24837749691248: P5: Returning from Peer 5 since block 4 is already here.!!
+54.2513178266757: P3: Returning from Peer 3 since block 5 is already here.!!
+54.26782857011794: P6: Txn 91 created by 6: 6 to 0 coins 3
+54.31232771777095: P3: Returning from Peer 3 since block 4 is already here.!!
+54.331529920161586: P1: Returning from Peer 1 since block 5 is already here.!!
+54.34370927067953: P5: Txn 92 created by 5: 5 to 2 coins 1
+54.34753439723747: P0: Returning from Peer 0 since block 5 is already here.!!
+54.41980313534028: P2: Txn 91 received by 2.
+54.44259525440643: P3: Txn 92 received by 3.
+54.474544661167116: P1: Txn 92 received by 1.
+54.519054965197185: P0: Txn 91 received by 0.
+54.59934632127528: P4: Txn 92 received by 4.
+54.60928776825644: P5: Txn 91 received by 5.
+54.6229561235097: P1: Txn 91 received by 1.
+54.63994602768589: P3: Txn 91 received by 3.
+54.64076265570756: P2: Txn 92 received by 2.
+54.68419999908466: P6: Txn 92 received by 6.
+54.74779636103805: P4: Txn 91 received by 4.
+54.804843092467834: P0: Txn 92 received by 0.
+55.68647656236034: P5: Txn 93 created by 5: 5 to 0 coins 2
+55.785327187443954: P3: Txn 93 received by 3.
+55.8424900986627: P1: Txn 93 received by 1.
+55.87784221141251: P5: Txn 94 created by 5: 5 to 1 coins 5
+55.97870800078413: P4: Txn 93 received by 4.
+55.97937455165076: P3: Txn 94 received by 3.
+55.99327285180306: P2: Txn 93 received by 2.
+56.01278970939263: P1: Txn 94 received by 1.
+56.02617315639502: P6: Txn 93 received by 6.
+56.05707602605814: P3: Txn 95 created by 3: 3 to 6 coins 4
+56.11093040966285: P1: Txn 95 received by 1.
+56.14699080062134: P0: Txn 93 received by 0.
+56.156056153366464: P4: Txn 94 received by 4.
+56.157090020606255: P5: Txn 95 received by 5.
+56.1744285823605: P2: Txn 94 received by 2.
+56.219225904397355: P6: Txn 94 received by 6.
+56.231264380104726: P4: Txn 95 received by 4.
+56.28468494782053: P2: Txn 95 received by 2.
+56.33978598806621: P0: Txn 94 received by 0.
+56.44129197296996: P6: Txn 95 received by 6.
+56.518581677128374: P0: Txn 95 received by 0.
+56.77243183130639: P5: Txn 96 created by 5: 5 to 1 coins 2
+56.87285514445377: P3: Txn 96 received by 3.
+56.88813747312821: P1: Txn 96 received by 1.
+57.041297945373664: P2: Txn 96 received by 2.
+57.076591363523654: P4: Txn 97 created by 4: 4 to 5 coins 2
+57.07789744592076: P4: Txn 96 received by 4.
+57.11162828307596: P6: Txn 96 received by 6.
+57.2133721064658: P1: Txn 97 received by 1.
+57.23314216017815: P0: Txn 96 received by 0.
+57.26181333683264: P3: Txn 97 received by 3.
+57.31631696965331: P2: Txn 98 created by 2: 2 to 3 coins 5
+57.36107943847894: P5: Txn 97 received by 5.
+57.3628418530193: P0: Txn 97 received by 0.
+57.393256956178995: P2: Txn 97 received by 2.
+57.469890097075414: P6: Txn 98 received by 6.
+57.489677421036596: P1: Txn 98 received by 1.
+57.5399565198973: P3: Txn 98 received by 3.
+57.54550723852323: P6: Txn 97 received by 6.
+57.54923190567263: P6: Length of the longest path: 2
+57.54923190567263: P6: path: [0, 4]
+57.54923190567263: P6: Peer 6 starts mining
+57.54923190567263: P6: Transactions in the longest chain: 35
+57.54923190567263: P6: Peer 6: Transactions to be inserted in new block: 60
+57.54923190567263: P6: Longest node 4 for 6 before mining
+57.63723964670742: P4: Txn 98 received by 4.
+57.639118652406324: P5: Txn 98 received by 5.
+57.643886036811416: P6: Txn 99 created by 6: 6 to 0 coins 2
+57.695664800833015: P0: Txn 98 received by 0.
+57.79976701959032: P2: Txn 99 received by 2.
+57.84916379609012: P4: Length of the longest path: 3
+57.84916379609012: P4: path: [0, 1, 5]
+57.84916379609012: P4: Peer 4 starts mining
+57.84916379609012: P4: Transactions in the longest chain: 20
+57.84916379609012: P4: Peer 4: Transactions to be inserted in new block: 76
+57.84916379609012: P4: Longest node 5 for 4 before mining
+57.86891655100649: P1: Txn 100 created by 1: 1 to 0 coins 4
+57.89529634938334: P0: Txn 99 received by 0.
+57.90651327817454: P3: Txn 100 received by 3.
+57.98447302576503: P5: Txn 99 received by 5.
+57.98549036503786: P1: Txn 99 received by 1.
+58.00123192341567: P4: Txn 100 received by 4.
+58.00659000402938: P5: Txn 100 received by 5.
+58.01557678018391: P3: Txn 99 received by 3.
+58.05445132275713: P2: Txn 100 received by 2.
+58.12445066527165: P4: Txn 99 received by 4.
+58.20807292166611: P6: Txn 100 received by 6.
+58.28813178549497: P0: Txn 100 received by 0.
+58.490027246832014: P5: Length of the longest path: 2
+58.490027246832014: P5: path: [0, 2]
+58.490027246832014: P5: Peer 5 starts mining
+58.490027246832014: P5: Transactions in the longest chain: 13
+58.490027246832014: P5: Peer 5: Transactions to be inserted in new block: 84
+58.490027246832014: P5: Longest node 2 for 5 before mining
+58.59815124381754: P0: Txn 101 created by 0: 0 to 1 coins 1
+58.850448210585775: P6: Txn 101 received by 6.
+58.88425514577936: P4: Txn 101 received by 4.
+58.97923296512474: P2: Txn 101 received by 2.
+59.018128087811476: P1: Txn 101 received by 1.
+59.05588844725347: P2: Txn 102 created by 2: 2 to 0 coins 3
+59.05710287741002: P3: Txn 101 received by 3.
+59.05996712705298: P5: Txn 101 received by 5.
+59.208265096086286: P6: Txn 102 received by 6.
+59.22073539983421: P1: Txn 102 received by 1.
+59.24630523430502: P3: Txn 102 received by 3.
+59.34282467248031: P4: Txn 102 received by 4.
+59.34525877092539: P5: Txn 102 received by 5.
+59.43391816655556: P0: Txn 102 received by 0.
+60.91834664817642: P0: Txn 103 created by 0: 0 to 1 coins 1
+61.170264040053134: P6: Txn 103 received by 6.
+61.20389686472582: P4: Txn 103 received by 4.
+61.29621382806891: P2: Txn 103 received by 2.
+61.3317737907776: P1: Txn 103 received by 1.
+61.37983116877328: P3: Txn 103 received by 3.
+61.37989480153636: P5: Txn 103 received by 5.
+61.54693888180907: P4: Txn 104 created by 4: 4 to 3 coins 1
+61.69469483795677: P1: Txn 104 received by 1.
+61.723326494751795: P2: Txn 105 created by 2: 2 to 4 coins 2
+61.74075967159284: P3: Txn 104 received by 3.
+61.832801064726844: P0: Txn 104 received by 0.
+61.840166442080324: P5: Txn 104 received by 5.
+61.850035442966785: P2: Txn 104 received by 2.
+61.875993257663254: P6: Txn 105 received by 6.
+61.90389325821809: P1: Txn 105 received by 1.
+61.9215317880194: P3: Txn 105 received by 3.
+62.002567919451195: P6: Txn 104 received by 6.
+62.020793057453226: P5: Txn 105 received by 5.
+62.02322063223692: P4: Txn 105 received by 4.
+62.10199572804877: P0: Txn 105 received by 0.
+62.469868372943736: P6: Txn 106 created by 6: 6 to 1 coins 3
+62.489443867706775: P1: Txn 107 created by 1: 1 to 4 coins 3
+62.5371290514566: P3: Txn 107 received by 3.
+62.621710438692546: P2: Txn 106 received by 2.
+62.62174503086027: P4: Txn 107 received by 4.
+62.637024849574686: P5: Txn 107 received by 5.
+62.64024232648391: P2: Txn 107 received by 2.
+62.72240903469981: P0: Txn 106 received by 0.
+62.789639121834945: P1: Txn 106 received by 1.
+62.79290044112432: P6: Txn 107 received by 6.
+62.81166723174436: P5: Txn 106 received by 5.
+62.814691683278255: P3: Txn 106 received by 3.
+62.90733848955438: P0: Txn 107 received by 0.
+62.92577590514851: P4: Txn 106 received by 4.
+63.625524697086384: P1: Txn 108 created by 1: 1 to 0 coins 3
+63.65653724178619: P2: Txn 109 created by 2: 2 to 3 coins 3
+63.65946861839015: P3: Txn 108 received by 3.
+63.760253302202344: P5: Txn 108 received by 5.
+63.76085714174052: P4: Txn 108 received by 4.
+63.80904715180488: P6: Txn 109 received by 6.
+63.8182172664026: P2: Txn 108 received by 2.
+63.84690150125627: P1: Txn 109 received by 1.
+63.87351418211029: P3: Txn 109 received by 3.
+63.970126793959444: P6: Txn 108 received by 6.
+63.972439276574946: P5: Txn 109 received by 5.
+63.973789707399206: P4: Txn 109 received by 4.
+64.03590572268224: P0: Txn 109 received by 0.
+64.0466808215516: P0: Txn 108 received by 0.
+64.3422464919623: P3: Txn 110 created by 3: 3 to 4 coins 4
+64.35911316462169: P1: Txn 110 received by 1.
+64.41324955116772: P4: Txn 111 created by 4: 4 to 6 coins 4
+64.44132046593239: P5: Txn 110 received by 5.
+64.49642269537587: P4: Txn 110 received by 4.
+64.54491151609237: P2: Txn 110 received by 2.
+64.55378537839799: P1: Txn 111 received by 1.
+64.59067929769067: P3: Txn 111 received by 3.
+64.69060778422116: P5: Txn 111 received by 5.
+64.69911468430304: P0: Txn 111 received by 0.
+64.6993302716536: P6: Txn 110 received by 6.
+64.71164257355419: P2: Txn 111 received by 2.
+64.7299684775042: P0: Txn 112 created by 0: 0 to 2 coins 4
+64.78180788434717: P0: Txn 110 received by 0.
+64.86394984597932: P6: Txn 111 received by 6.
+64.98122665845524: P6: Txn 112 received by 6.
+65.01531336160151: P4: Txn 112 received by 4.
+65.10765973747326: P2: Txn 112 received by 2.
+65.1624495690298: P1: Txn 112 received by 1.
+65.19348002834148: P5: Txn 112 received by 5.
+65.19673281635723: P3: Txn 112 received by 3.
+67.27709611822131: P4: Txn 113 created by 4: 4 to 5 coins 1
+67.39614948616216: P1: Txn 113 received by 1.
+67.41737531700619: P3: Txn 113 received by 3.
+67.51631630583687: P5: Txn 113 received by 5.
+67.54729799795273: P2: Txn 113 received by 2.
+67.56294289434517: P0: Txn 113 received by 0.
+67.70045782813423: P6: Txn 113 received by 6.
+69.41066528489965: P6: Txn 114 created by 6: 6 to 5 coins 2
+69.42356155187915: P6: Txn 115 created by 6: 6 to 1 coins 4
+69.56254734048301: P2: Txn 114 received by 2.
+69.57734547924925: P2: Txn 115 received by 2.
+69.66228078196102: P0: Txn 114 received by 0.
+69.67480023748264: P0: Txn 115 received by 0.
+69.71897783319423: P1: Txn 114 received by 1.
+69.73680081908645: P1: Txn 115 received by 1.
+69.74906880734183: P2: Txn 116 created by 2: 2 to 6 coins 2
+69.75183018245339: P5: Txn 114 received by 5.
+69.75376463422081: P1: Txn 117 created by 1: 1 to 5 coins 2
+69.75626122443381: P3: Txn 114 received by 3.
+69.7635270963346: P5: Txn 115 received by 5.
+69.77386929504864: P3: Txn 115 received by 3.
+69.78178220146268: P3: Txn 117 received by 3.
+69.83762480133791: P4: Txn 114 received by 4.
+69.87400280404746: P4: Txn 115 received by 4.
+69.8812768732859: P5: Txn 117 received by 5.
+69.88339303084918: P4: Txn 117 received by 4.
+69.90094488003037: P6: Txn 116 received by 6.
+69.9052858627268: P1: Txn 116 received by 1.
+69.92813418765357: P2: Txn 117 received by 2.
+69.97649145515282: P3: Txn 116 received by 3.
+70.03354494764226: P4: Txn 116 received by 4.
+70.07561570596434: P5: Txn 116 received by 5.
+70.08156923479424: P6: Txn 117 received by 6.
+70.12705115698324: P0: Txn 116 received by 0.
+70.16978742399557: P0: Txn 117 received by 0.
+71.94422199042496: P1: Txn 118 created by 1: 1 to 5 coins 3
+71.98150406942982: P3: Txn 118 received by 3.
+72.07956498434079: P4: Txn 118 received by 4.
+72.08038322330442: P5: Txn 118 received by 5.
+72.14664417295113: P2: Txn 118 received by 2.
+72.29934930144887: P6: Txn 118 received by 6.
+72.36505942337261: P0: Txn 118 received by 0.
+72.65294270000376: P6: Txn 119 created by 6: 6 to 5 coins 3
+72.80510913242058: P2: Txn 119 received by 2.
+72.90437794670076: P0: Txn 119 received by 0.
+72.95321332650344: P1: Txn 119 received by 1.
+72.97945850440934: P3: Txn 119 received by 3.
+72.99261653479944: P5: Txn 119 received by 5.
+73.0023662265929: P0: Txn 120 created by 0: 0 to 1 coins 5
+73.07665050229805: P4: Txn 119 received by 4.
+73.25394387280535: P6: Txn 120 received by 6.
+73.2880950367093: P4: Txn 120 received by 4.
+73.31054822433477: P4: Txn 121 created by 4: 4 to 6 coins 4
+73.38018087787684: P2: Txn 120 received by 2.
+73.42237751215295: P1: Txn 120 received by 1.
+73.43298812307667: P1: Txn 121 received by 1.
+73.45981044866973: P3: Txn 120 received by 3.
+73.46043580578855: P3: Txn 121 received by 3.
+73.46274871582389: P5: Txn 120 received by 5.
+73.53090431725866: P5: Txn 122 created by 5: 5 to 4 coins 4
+73.55933548062613: P5: Txn 121 received by 5.
+73.59356490009696: P2: Txn 121 received by 2.
+73.59676332512967: P0: Txn 121 received by 0.
+73.63132622994998: P3: Txn 122 received by 3.
+73.73799584742767: P1: Txn 122 received by 1.
+73.74605931060538: P6: Txn 121 received by 6.
+73.76638980330377: P4: Txn 123 created by 4: 4 to 3 coins 1
+73.87016104388607: P6: Txn 122 received by 6.
+73.88927929878506: P1: Txn 123 received by 1.
+73.9099995359638: P3: Txn 123 received by 3.
+73.92857759506698: P4: Txn 122 received by 4.
+73.93457368452823: P2: Txn 122 received by 2.
+73.99156864029028: P0: Txn 122 received by 0.
+74.00925184790367: P5: Txn 123 received by 5.
+74.0480092209289: P2: Txn 123 received by 2.
+74.05274757873387: P0: Txn 123 received by 0.
+74.20034266231714: P6: Txn 123 received by 6.
+75.54598882877397: P2: Txn 124 created by 2: 2 to 1 coins 4
+75.69962844712616: P6: Txn 124 received by 6.
+75.76590841571691: P1: Txn 124 received by 1.
+75.83077574518713: P3: Txn 124 received by 3.
+75.88665209391526: P4: Txn 124 received by 4.
+75.92485581220873: P0: Txn 124 received by 0.
+75.93079284101572: P5: Txn 124 received by 5.
+76.38465503907082: P6: Txn 125 created by 6: 6 to 5 coins 3
+76.5368025027167: P2: Txn 125 received by 2.
+76.63591460393727: P0: Txn 125 received by 0.
+76.71281111288302: P1: Txn 125 received by 1.
+76.72492575550731: P5: Txn 125 received by 5.
+76.7478561509953: P3: Txn 125 received by 3.
+76.83526732238958: P4: Txn 125 received by 4.
+77.25348173689787: P3: Txn 126 created by 3: 3 to 2 coins 1
+77.29075222713746: P1: Txn 126 received by 1.
+77.35237386442486: P5: Txn 126 received by 5.
+77.43455521223389: P4: Txn 126 received by 4.
+77.4611139003049: P2: Txn 126 received by 2.
+77.61350640131441: P6: Txn 126 received by 6.
+77.72079566355517: P0: Txn 126 received by 0.
+78.36979779424001: P3: Txn 127 created by 3: 3 to 4 coins 3
+78.39038245563567: P1: Txn 127 received by 1.
+78.46853656834065: P5: Txn 127 received by 5.
+78.48039146125052: P2: Txn 128 created by 2: 2 to 3 coins 4
+78.51936836192509: P4: Txn 127 received by 4.
+78.54569416296644: P2: Txn 127 received by 2.
+78.63265960987384: P6: Txn 128 received by 6.
+78.64632131391124: P1: Txn 128 received by 1.
+78.6728161448543: P3: Txn 128 received by 3.
+78.69779135083502: P6: Txn 127 received by 6.
+78.77192312911274: P5: Txn 128 received by 5.
+78.77673698903726: P4: Txn 128 received by 4.
+78.80537173054525: P0: Txn 127 received by 0.
+78.86052300082667: P0: Txn 128 received by 0.
+79.45125780267047: P0: Txn 129 created by 0: 0 to 3 coins 3
+79.70394592547521: P6: Txn 129 received by 6.
+79.73823427440007: P4: Txn 129 received by 4.
+79.82939123065991: P2: Txn 129 received by 2.
+79.86785158943682: P1: Txn 129 received by 1.
+79.91167404772152: P5: Txn 129 received by 5.
+79.91412861138713: P3: Txn 129 received by 3.
+80.88305636036498: P4: Txn 130 created by 4: 4 to 3 coins 5
+81.01058539719503: P1: Txn 130 received by 1.
+81.02773069555661: P3: Txn 130 received by 3.
+81.12799814428334: P5: Txn 130 received by 5.
+81.16897544945276: P0: Txn 130 received by 0.
+81.18055906482631: P2: Txn 130 received by 2.
+81.3336906442394: P6: Txn 130 received by 6.
+81.97080349954497: P2: Peer 2 ends mining
+81.97080349954497: P2: Longest node 1 for 2 after mining
+Block prev   Block 1 --- prevBlock 0 --------- mined by 4 at 8.46434660504215.
+81.97080349954497: P2: Block 6 mined by 2 and added in its ledger
+81.97080349954497: P2: Peer 2 previous ledger [0, 1, 2, 3, 4, 5]
+1. FLAG: P2: ADD 6
+81.97080349954497: P2: Peer 2 updated ledger [0, 1, 2, 3, 4, 5, 6]
+81.97080349954497: P2: Forwarding from generator function -- Block 6 to Peer 5 from Peer 2
+81.97080349954497: P2: Forwarding from generator function -- Block 6 to Peer 4 from Peer 2
+81.97080349954497: P2: Forwarding from generator function -- Block 6 to Peer 0 from Peer 2
+81.97080349954497: P2: Forwarding from generator function -- Block 6 to Peer 6 from Peer 2
+81.97080349954497: P2: Forwarding from generator function -- Block 6 to Peer 1 from Peer 2
+82.1297092355622: P6: Peer 6 received block 6.
+FLAG: P6: 
+	 0 0
+	 1 1
+	 2 1
+	 3 1
+	 5 1
+	 6 2
+82.1297092355622: P6: Block 6 reached peer 6 and added to its ledger.
+82.1297092355622: P6: Peer 6 previuos ledger [0, 1, 2, 3, 4, 5]
+82.1297092355622: P6: Longest node 6 for 6
+1. FLAG: P6: ADD 6
+1. FLAG: P6: 6-6
+82.1297092355622: P6: Peer 6 updated ledger [0, 1, 2, 3, 4, 5, 6]
+82.1297092355622: P6: Forwarding from forward fucntion-- Block 6 to Peer 5 from Peer 6
+82.1297092355622: P6: Forwarding from forward fucntion-- Block 6 to Peer 0 from Peer 6
+82.1297092355622: P6: Forwarding from forward fucntion-- Block 6 to Peer 3 from Peer 6
+82.1297092355622: P6: Forwarding from forward fucntion-- Block 6 to Peer 1 from Peer 6
+82.25052848670822: P1: Peer 1 received block 6.
+FLAG: P1: 
+	 0 0
+	 1 1
+	 2 1
+	 3 1
+	 5 1
+	 6 2
+82.25052848670822: P1: Block 6 reached peer 1 and added to its ledger.
+82.25052848670822: P1: Peer 1 previuos ledger [0, 1, 2, 3, 4, 5]
+82.25052848670822: P1: Longest node 6 for 1
+1. FLAG: P1: ADD 6
+1. FLAG: P1: 6-6
+82.25052848670822: P1: Peer 1 updated ledger [0, 1, 2, 3, 4, 5, 6]
+82.25052848670822: P1: Forwarding from forward fucntion-- Block 6 to Peer 5 from Peer 1
+82.25052848670822: P1: Forwarding from forward fucntion-- Block 6 to Peer 4 from Peer 1
+82.25052848670822: P1: Forwarding from forward fucntion-- Block 6 to Peer 3 from Peer 1
+82.25052848670822: P1: Forwarding from forward fucntion-- Block 6 to Peer 6 from Peer 1
+82.345888141105: P4: Peer 4 received block 6.
+FLAG: P4: 
+	 0 0
+	 1 1
+	 2 1
+	 3 1
+	 5 1
+	 6 2
+82.345888141105: P4: Block 6 reached peer 4 and added to its ledger.
+82.345888141105: P4: Peer 4 previuos ledger [0, 1, 2, 3, 5, 4]
+82.345888141105: P4: Longest node 6 for 4
+1. FLAG: P4: ADD 6
+1. FLAG: P4: 6-6
+82.345888141105: P4: Peer 4 updated ledger [0, 1, 2, 3, 5, 4, 6]
+82.345888141105: P4: Forwarding from forward fucntion-- Block 6 to Peer 0 from Peer 4
+82.345888141105: P4: Forwarding from forward fucntion-- Block 6 to Peer 1 from Peer 4
+82.35574346055004: P0: Peer 0 received block 6.
+FLAG: P0: 
+	 0 0
+	 1 1
+	 2 1
+	 3 1
+	 5 1
+	 6 2
+82.35574346055004: P0: Block 6 reached peer 0 and added to its ledger.
+82.35574346055004: P0: Peer 0 previuos ledger [0, 1, 2, 3, 4, 5]
+82.35574346055004: P0: Longest node 6 for 0
+1. FLAG: P0: ADD 6
+1. FLAG: P0: 6-6
+82.35574346055004: P0: Peer 0 updated ledger [0, 1, 2, 3, 4, 5, 6]
+82.35574346055004: P0: Forwarding from forward fucntion-- Block 6 to Peer 4 from Peer 0
+82.35574346055004: P0: Forwarding from forward fucntion-- Block 6 to Peer 5 from Peer 0
+82.35574346055004: P0: Forwarding from forward fucntion-- Block 6 to Peer 6 from Peer 0
+82.38733799735539: P0: Returning from Peer 0 since block 6 is already here.!!
+82.4058458396687: P3: Peer 3 received block 6.
+FLAG: P3: 
+	 0 0
+82.4058458396687: P3: Block 6 reached peer 3 and added to its ledger.
+82.4058458396687: P3: Peer 3 previuos ledger [0, 1, 2, 3, 4, 5]
+82.4058458396687: P3: Longest node 0 for 3
+1. FLAG: P3: ADD 6
+1. FLAG: P3: 0-6
+82.4058458396687: P3: Peer 3 updated ledger [0, 1, 2, 3, 4, 5, 6]
+82.4058458396687: P3: Forwarding from forward fucntion-- Block 6 to Peer 5 from Peer 3
+82.4058458396687: P3: Forwarding from forward fucntion-- Block 6 to Peer 6 from Peer 3
+82.4656113227346: P5: Peer 5 received block 6.
+FLAG: P5: 
+	 0 0
+	 1 1
+	 2 1
+	 3 1
+	 5 1
+	 6 2
+82.4656113227346: P5: Block 6 reached peer 5 and added to its ledger.
+82.4656113227346: P5: Peer 5 previuos ledger [0, 1, 2, 3, 4, 5]
+82.4656113227346: P5: Longest node 6 for 5
+1. FLAG: P5: ADD 6
+1. FLAG: P5: 6-6
+82.4656113227346: P5: Peer 5 updated ledger [0, 1, 2, 3, 4, 5, 6]
+82.4656113227346: P5: Forwarding from forward fucntion-- Block 6 to Peer 0 from Peer 5
+82.4656113227346: P5: Forwarding from forward fucntion-- Block 6 to Peer 3 from Peer 5
+82.4656113227346: P5: Forwarding from forward fucntion-- Block 6 to Peer 6 from Peer 5
+82.4656113227346: P5: Forwarding from forward fucntion-- Block 6 to Peer 1 from Peer 5
+82.47582570116397: P5: Returning from Peer 5 since block 6 is already here.!!
+82.49538558753892: P3: Txn 132 created by 3: 3 to 4 coins 1
+82.49547403912248: P4: Returning from Peer 4 since block 6 is already here.!!
+82.51256217806227: P5: Returning from Peer 5 since block 6 is already here.!!
+82.54004454224257: P3: Returning from Peer 3 since block 6 is already here.!!
+82.55769971594006: P1: Txn 132 received by 1.
+82.57076704292695: P3: Returning from Peer 3 since block 6 is already here.!!
+82.5951408840611: P5: Txn 132 received by 5.
+82.61387475994223: P6: Returning from Peer 6 since block 6 is already here.!!
+82.63791925491269: P0: Returning from Peer 0 since block 6 is already here.!!
+82.63963676206991: P5: Returning from Peer 5 since block 6 is already here.!!
+82.64438960045489: P1: Returning from Peer 1 since block 6 is already here.!!
+82.64762383448075: P4: Returning from Peer 4 since block 6 is already here.!!
+82.68801618352536: P4: Txn 132 received by 4.
+82.7093834795745: P1: Returning from Peer 1 since block 6 is already here.!!
+82.72080409103008: P2: Txn 132 received by 2.
+82.8129874532361: P6: Returning from Peer 6 since block 6 is already here.!!
+82.8157607148027: P6: Returning from Peer 6 since block 6 is already here.!!
+82.82231760475402: P5: Returning from Peer 5 since block 6 is already here.!!
+82.84996604858634: P6: Returning from Peer 6 since block 6 is already here.!!
+82.85734668109454: P1: Returning from Peer 1 since block 6 is already here.!!
+82.87329873423045: P6: Txn 132 received by 6.
+82.9330466622184: P0: Returning from Peer 0 since block 6 is already here.!!
+82.97367377946307: P0: Txn 132 received by 0.
+83.41711133584325: P3: Txn 133 created by 3: 3 to 6 coins 3
+83.44046513961007: P1: Txn 133 received by 1.
+83.51692282992269: P5: Txn 133 received by 5.
+83.54995146301046: P5: Txn 134 created by 5: 5 to 1 coins 1
+83.56799129977165: P4: Txn 133 received by 4.
+83.61429491977525: P2: Txn 133 received by 2.
+83.64900704604672: P3: Txn 134 received by 3.
+83.6824916797838: P1: Txn 134 received by 1.
+83.7674205692178: P6: Txn 133 received by 6.
+83.79742894973944: P6: Txn 135 created by 6: 6 to 1 coins 4
+83.82342785081738: P4: Txn 134 received by 4.
+83.85373074312928: P0: Txn 133 received by 0.
+83.85573777338824: P2: Txn 134 received by 2.
+83.89021575207707: P6: Txn 134 received by 6.
+83.95028987919531: P2: Txn 135 received by 2.
+84.0103150631793: P0: Txn 134 received by 0.
+84.04864330703843: P0: Txn 135 received by 0.
+84.13689589084967: P5: Txn 135 received by 5.
+84.13900665847218: P1: Txn 135 received by 1.
+84.17986543708858: P3: Txn 135 received by 3.
+84.27850762142312: P4: Txn 135 received by 4.
+84.54125781631645: P5: Txn 136 created by 5: 5 to 3 coins 2
+84.64041621170351: P3: Txn 136 received by 3.
+84.65493350496342: P0: Txn 137 created by 0: 0 to 2 coins 2
+84.66467045659348: P1: Txn 136 received by 1.
+84.77297905334035: P2: Txn 138 created by 2: 2 to 3 coins 2
+84.78310448467009: P4: Txn 136 received by 4.
+84.84756297347526: P2: Txn 136 received by 2.
+84.88107459718519: P6: Txn 136 received by 6.
+84.90741879036638: P6: Txn 137 received by 6.
+84.9250057820529: P6: Txn 138 received by 6.
+84.94094738725629: P4: Txn 137 received by 4.
+84.94749487153781: P1: Txn 138 received by 1.
+84.9854951334017: P3: Txn 138 received by 3.
+85.00163129214646: P0: Txn 136 received by 0.
+85.03295536969426: P2: Txn 137 received by 2.
+85.05577626110029: P4: Txn 139 created by 4: 4 to 2 coins 4
+85.06855968729099: P4: Txn 138 received by 4.
+85.07262568268895: P1: Txn 137 received by 1.
+85.0852305283127: P5: Txn 138 received by 5.
+85.10005220266063: P3: Txn 137 received by 3.
+85.11804896252431: P5: Txn 137 received by 5.
+85.15108704937529: P0: Txn 138 received by 0.
+85.20413623675465: P1: Txn 139 received by 1.
+85.2069186516893: P0: Txn 140 created by 0: 0 to 2 coins 1
+85.22604649002128: P3: Txn 139 received by 3.
+85.32487399457227: P5: Txn 139 received by 5.
+85.34117382965404: P0: Txn 139 received by 0.
+85.36604521951249: P2: Txn 139 received by 2.
+85.45905011020338: P6: Txn 140 received by 6.
+85.49502117474769: P4: Txn 140 received by 4.
+85.51830123150796: P6: Txn 139 received by 6.
+85.58488986816997: P2: Txn 140 received by 2.
+85.63480411395993: P1: Txn 140 received by 1.
+85.66836304023364: P5: Txn 140 received by 5.
+85.66874552021339: P1: Txn 141 created by 1: 1 to 4 coins 3
+85.69484647806509: P3: Txn 141 received by 3.
+85.70766701492306: P3: Txn 140 received by 3.
+85.79524454303893: P5: Txn 141 received by 5.
+85.82213723989271: P4: Txn 141 received by 4.
+85.83133821230591: P2: Txn 141 received by 2.
+85.98331056172597: P6: Txn 141 received by 6.
+86.10811507149428: P0: Txn 141 received by 0.
+87.807009922963: P2: Length of the longest path: 3
+87.807009922963: P2: path: [0, 1, 6]
+87.807009922963: P2: Peer 2 starts mining
+87.807009922963: P2: Transactions in the longest chain: 84
+87.807009922963: P2: Peer 2: Transactions to be inserted in new block: 54
+87.807009922963: P2: Longest node 6 for 2 before mining
+89.3647398093337: P1: Txn 142 created by 1: 1 to 5 coins 2
+89.37984211987802: P3: Txn 142 received by 3.
+89.48012145196745: P5: Txn 142 received by 5.
+89.51321186640334: P2: Txn 142 received by 2.
+89.54008601420713: P4: Txn 142 received by 4.
+89.66528905601324: P6: Txn 142 received by 6.
+89.82551119330293: P3: Txn 143 created by 3: 3 to 0 coins 2
+89.8264834657289: P0: Txn 142 received by 0.
+89.85762313155513: P3: Length of the longest path: 3
+89.85762313155513: P3: path: [0, 1, 3]
+89.85762313155513: P3: Peer 3 starts mining
+89.85762313155513: P3: Transactions in the longest chain: 64
+89.85762313155513: P3: Peer 3: Transactions to be inserted in new block: 76
+89.85762313155513: P3: Longest node 3 for 3 before mining
+89.88882070404692: P1: Txn 143 received by 1.
+89.92488632745378: P5: Txn 143 received by 5.
+90.0312926328236: P4: Txn 143 received by 4.
+90.04442378939561: P2: Txn 143 received by 2.
+90.19665958203241: P6: Txn 143 received by 6.
+90.31725025374723: P0: Txn 143 received by 0.
+90.96294075654235: P6: Peer 6 ends mining
+90.96294075654235: P6: Longest node 4 for 6 after mining
+Block prev   Block 4 --- prevBlock 0 --------- mined by 6 at 53.01179352694496.
+90.96294075654235: P6: Block 7 mined by 6 and added in its ledger
+90.96294075654235: P6: Peer 6 previous ledger [0, 1, 2, 3, 4, 5, 6]
+1. FLAG: P6: ADD 7
+90.96294075654235: P6: Peer 6 updated ledger [0, 1, 2, 3, 4, 5, 6, 7]
+90.96294075654235: P6: Forwarding from generator function -- Block 7 to Peer 5 from Peer 6
+90.96294075654235: P6: Forwarding from generator function -- Block 7 to Peer 0 from Peer 6
+90.96294075654235: P6: Forwarding from generator function -- Block 7 to Peer 3 from Peer 6
+90.96294075654235: P6: Forwarding from generator function -- Block 7 to Peer 2 from Peer 6
+90.96294075654235: P6: Forwarding from generator function -- Block 7 to Peer 1 from Peer 6
+91.11999605408687: P2: Peer 2 received block 7.
+FLAG: P2: 
+	 0 0
+	 4 1
+	 7 2
+91.11999605408687: P2: Block 7 reached peer 2 and added to its ledger.
+91.11999605408687: P2: Peer 2 previuos ledger [0, 1, 2, 3, 4, 5, 6]
+91.11999605408687: P2: Longest node 7 for 2
+1. FLAG: P2: ADD 7
+1. FLAG: P2: 7-7
+91.11999605408687: P2: Peer 2 updated ledger [0, 1, 2, 3, 4, 5, 6, 7]
+91.11999605408687: P2: Forwarding from forward fucntion-- Block 7 to Peer 5 from Peer 2
+91.11999605408687: P2: Forwarding from forward fucntion-- Block 7 to Peer 4 from Peer 2
+91.11999605408687: P2: Forwarding from forward fucntion-- Block 7 to Peer 0 from Peer 2
+91.11999605408687: P2: Forwarding from forward fucntion-- Block 7 to Peer 1 from Peer 2
+91.21379522453081: P6: Txn 145 created by 6: 6 to 5 coins 2
+91.22210511653378: P0: Peer 0 received block 7.
+FLAG: P0: 
+	 0 0
+	 4 1
+	 7 2
+91.22210511653378: P0: Block 7 reached peer 0 and added to its ledger.
+91.22210511653378: P0: Peer 0 previuos ledger [0, 1, 2, 3, 4, 5, 6]
+91.22210511653378: P0: Longest node 7 for 0
+1. FLAG: P0: ADD 7
+1. FLAG: P0: 7-7
+91.22210511653378: P0: Peer 0 updated ledger [0, 1, 2, 3, 4, 5, 6, 7]
+91.22210511653378: P0: Forwarding from forward fucntion-- Block 7 to Peer 4 from Peer 0
+91.22210511653378: P0: Forwarding from forward fucntion-- Block 7 to Peer 5 from Peer 0
+91.22210511653378: P0: Forwarding from forward fucntion-- Block 7 to Peer 2 from Peer 0
+91.30844462841024: P5: Peer 5 received block 7.
+FLAG: P5: 
+	 0 0
+	 4 1
+	 7 2
+91.30844462841024: P5: Block 7 reached peer 5 and added to its ledger.
+91.30844462841024: P5: Peer 5 previuos ledger [0, 1, 2, 3, 4, 5, 6]
+91.30844462841024: P5: Longest node 7 for 5
+1. FLAG: P5: ADD 7
+1. FLAG: P5: 7-7
+91.30844462841024: P5: Peer 5 updated ledger [0, 1, 2, 3, 4, 5, 6, 7]
+91.30844462841024: P5: Forwarding from forward fucntion-- Block 7 to Peer 0 from Peer 5
+91.30844462841024: P5: Forwarding from forward fucntion-- Block 7 to Peer 3 from Peer 5
+91.30844462841024: P5: Forwarding from forward fucntion-- Block 7 to Peer 2 from Peer 5
+91.30844462841024: P5: Forwarding from forward fucntion-- Block 7 to Peer 1 from Peer 5
+91.36568107448608: P2: Txn 145 received by 2.
+91.3714912711956: P3: Peer 3 received block 7.
+FLAG: P3: 
+	 0 0
+	 4 1
+	 7 2
+91.3714912711956: P3: Block 7 reached peer 3 and added to its ledger.
+91.3714912711956: P3: Peer 3 previuos ledger [0, 1, 2, 3, 4, 5, 6]
+91.3714912711956: P3: Longest node 7 for 3
+1. FLAG: P3: ADD 7
+1. FLAG: P3: 7-7
+91.3714912711956: P3: Peer 3 updated ledger [0, 1, 2, 3, 4, 5, 6, 7]
+91.3714912711956: P3: Forwarding from forward fucntion-- Block 7 to Peer 5 from Peer 3
+91.3714912711956: P3: Forwarding from forward fucntion-- Block 7 to Peer 1 from Peer 3
+91.38073017963438: P1: Peer 1 received block 7.
+FLAG: P1: 
+	 0 0
+	 1 1
+	 2 1
+	 3 1
+	 5 1
+	 6 2
+91.38073017963438: P1: Block 7 reached peer 1 and added to its ledger.
+91.38073017963438: P1: Peer 1 previuos ledger [0, 1, 2, 3, 4, 5, 6]
+91.38073017963438: P1: Longest node 6 for 1
+1. FLAG: P1: ADD 7
+1. FLAG: P1: 6-7
+91.38073017963438: P1: Peer 1 updated ledger [0, 1, 2, 3, 4, 5, 6, 7]
+91.38073017963438: P1: Forwarding from forward fucntion-- Block 7 to Peer 5 from Peer 1
+91.38073017963438: P1: Forwarding from forward fucntion-- Block 7 to Peer 4 from Peer 1
+91.38073017963438: P1: Forwarding from forward fucntion-- Block 7 to Peer 3 from Peer 1
+91.38073017963438: P1: Forwarding from forward fucntion-- Block 7 to Peer 6 from Peer 1
+91.4125574774904: P3: Returning from Peer 3 since block 7 is already here.!!
+91.4652225556678: P0: Txn 145 received by 0.
+91.4761292538578: P5: Returning from Peer 5 since block 7 is already here.!!
+91.49289134481877: P1: Returning from Peer 1 since block 7 is already here.!!
+91.49329770495065: P4: Peer 4 received block 7.
+FLAG: P4: 
+	 0 0
+	 1 1
+	 2 1
+	 3 1
+	 5 1
+	 6 2
+91.49329770495065: P4: Block 7 reached peer 4 and added to its ledger.
+91.49329770495065: P4: Peer 4 previuos ledger [0, 1, 2, 3, 5, 4, 6]
+91.49329770495065: P4: Longest node 6 for 4
+1. FLAG: P4: ADD 7
+1. FLAG: P4: 6-7
+91.49329770495065: P4: Peer 4 updated ledger [0, 1, 2, 3, 5, 4, 6, 7]
+91.49329770495065: P4: Forwarding from forward fucntion-- Block 7 to Peer 0 from Peer 4
+91.49329770495065: P4: Forwarding from forward fucntion-- Block 7 to Peer 1 from Peer 4
+91.50266128423914: P0: Returning from Peer 0 since block 7 is already here.!!
+91.51184559907756: P3: Returning from Peer 3 since block 7 is already here.!!
+91.51229544337242: P4: Returning from Peer 4 since block 7 is already here.!!
+91.51567059483514: P1: Txn 145 received by 1.
+91.53490973049004: P3: Txn 145 received by 3.
+91.54214662292725: P1: Returning from Peer 1 since block 7 is already here.!!
+91.55299422544444: P5: Txn 145 received by 5.
+91.60496813061236: P2: Returning from Peer 2 since block 7 is already here.!!
+91.6087553571418: P5: Returning from Peer 5 since block 7 is already here.!!
+91.61887555198669: P4: Returning from Peer 4 since block 7 is already here.!!
+91.6380094167865: P4: Txn 145 received by 4.
+91.66935726289307: P1: Returning from Peer 1 since block 7 is already here.!!
+91.68882635285242: P5: Returning from Peer 5 since block 7 is already here.!!
+91.71550557968699: P1: Returning from Peer 1 since block 7 is already here.!!
+91.71837643911245: P5: Returning from Peer 5 since block 7 is already here.!!
+91.7421773565527: P6: Length of the longest path: 3
+91.7421773565527: P6: path: [0, 4, 7]
+91.7421773565527: P6: Peer 6 starts mining
+91.7421773565527: P6: Transactions in the longest chain: 96
+91.7421773565527: P6: Peer 6: Transactions to be inserted in new block: 45
+91.7421773565527: P6: Longest node 7 for 6 before mining
+91.77359034961265: P0: Returning from Peer 0 since block 7 is already here.!!
+91.78479449924981: P0: Returning from Peer 0 since block 7 is already here.!!
+91.7972752976: P2: Returning from Peer 2 since block 7 is already here.!!
+91.96530752707318: P6: Peer 6 received block 7.
+FLAG: P6: 
+	 0 0
+91.96530752707318: P6: Block 7 reached peer 6 and added to its ledger.
+91.96530752707318: P6: Peer 6 previuos ledger [0, 1, 2, 3, 4, 5, 6, 7]
+91.96530752707318: P6: Longest node 0 for 6
+1. FLAG: P6: ADD 7
+1. FLAG: P6: 0-7
+91.96530752707318: P6: Peer 6 updated ledger [0, 1, 2, 3, 4, 5, 6, 7]
+91.96530752707318: P6: Forwarding from forward fucntion-- Block 7 to Peer 5 from Peer 6
+91.96530752707318: P6: Forwarding from forward fucntion-- Block 7 to Peer 0 from Peer 6
+91.96530752707318: P6: Forwarding from forward fucntion-- Block 7 to Peer 3 from Peer 6
+91.96530752707318: P6: Forwarding from forward fucntion-- Block 7 to Peer 2 from Peer 6
+92.12199781409028: P2: Returning from Peer 2 since block 7 is already here.!!
+92.17826844272929: P5: Txn 146 created by 5: 5 to 1 coins 2
+92.22334104860208: P0: Returning from Peer 0 since block 7 is already here.!!
+92.28084674380737: P3: Txn 146 received by 3.
+92.31005987039819: P5: Returning from Peer 5 since block 7 is already here.!!
+92.31636162714868: P1: Txn 146 received by 1.
+92.37382641418893: P3: Returning from Peer 3 since block 7 is already here.!!
+92.43906467119548: P4: Txn 146 received by 4.
+92.47797534043377: P2: Txn 146 received by 2.
+92.51758025454347: P6: Txn 146 received by 6.
+92.64008708932677: P0: Txn 146 received by 0.
+93.0782711604675: P3: Txn 147 created by 3: 3 to 4 coins 3
+93.10278557861474: P1: Txn 147 received by 1.
+93.17874317913164: P5: Txn 147 received by 5.
+93.22284474716953: P4: Txn 147 received by 4.
+93.27844751099487: P2: Txn 147 received by 2.
+93.4340815332925: P6: Txn 147 received by 6.
+93.50853466165977: P0: Txn 147 received by 0.
+93.69842436734527: P4: Txn 148 created by 4: 4 to 3 coins 2
+93.86459710388301: P1: Txn 148 received by 1.
+93.88351370816495: P3: Txn 148 received by 3.
+93.98399141604892: P0: Txn 148 received by 0.
+93.98518533084797: P5: Txn 148 received by 5.
+94.0289491755557: P2: Txn 148 received by 2.
+94.18116644087515: P6: Txn 148 received by 6.
+94.81032197306283: P3: Txn 149 created by 3: 3 to 6 coins 3
+94.83472999450319: P1: Txn 149 received by 1.
+94.91237163244517: P5: Txn 149 received by 5.
+94.96311985896678: P4: Txn 149 received by 4.
+95.03271620631324: P2: Txn 149 received by 2.
+95.18456093114844: P6: Txn 149 received by 6.
+95.25246419729122: P0: Txn 149 received by 0.
+96.22817476431464: P1: Txn 150 created by 1: 1 to 6 coins 2
+96.26976703676567: P3: Txn 150 received by 3.
+96.34969742926573: P4: Txn 150 received by 4.
+96.36910207005666: P5: Txn 150 received by 5.
+96.37853473241591: P2: Txn 150 received by 2.
+96.5363232234854: P6: Txn 150 received by 6.
+96.63604113292809: P0: Txn 150 received by 0.
+96.72062518407031: P2: Txn 151 created by 2: 2 to 0 coins 5
+96.87324573561209: P6: Txn 151 received by 6.
+96.8769683523016: P1: Txn 151 received by 1.
+96.8954357281012: P3: Txn 151 received by 3.
+96.99440744787297: P5: Txn 151 received by 5.
+96.99678034443612: P4: Txn 151 received by 4.
+97.09831185949119: P0: Txn 151 received by 0.
+99.00507333655308: P1: Txn 152 created by 1: 1 to 5 coins 1
+99.0214318594902: P3: Txn 152 received by 3.
+99.1202906254787: P5: Txn 152 received by 5.
+99.1488679209675: P4: Txn 152 received by 4.
+99.16171136334707: P2: Txn 152 received by 2.
+99.31453138114136: P6: Txn 152 received by 6.
+99.4342334098834: P0: Txn 152 received by 0.
+0 False 0.16393442622950818 10
 
-1 True 0.016393442622950817 7
+1 True 0.016393442622950817 17
 
-2 False 0.16393442622950818 11
+2 False 0.16393442622950818 19
 
-3 False 0.16393442622950818 17
+3 False 0.16393442622950818 13
 
-4 False 0.16393442622950818 1
+4 False 0.16393442622950818 15
 
-5 False 0.16393442622950818 61
+5 False 0.16393442622950818 21
 
-6 False 0.16393442622950818 112
+6 False 0.16393442622950818 25
 
 Peer 0 blockchain tree
-	  Block 2 --- prevBlock 0 --------- mined by 0 at 73.49702096111861.
+	  Block 2 --- prevBlock 0 --------- mined by 5 at 30.395504699508706.
+	  Block 5 --- prevBlock 1 --------- mined by 4 at 53.36477338349618.
+	  Block 6 --- prevBlock 1 --------- mined by 2 at 81.97080349954497.
+	  Block 1 --- prevBlock 0 --------- mined by 4 at 8.46434660504215.
 	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 7 --- prevBlock 4 --------- mined by 6 at 90.96294075654235.
+	  Block 3 --- prevBlock 1 --------- mined by 3 at 41.426306192428754.
+	  Block 4 --- prevBlock 0 --------- mined by 6 at 53.01179352694496.
 Peer 1 blockchain tree
-	  Block 1 --- prevBlock 0 --------- mined by 5 at 37.694325362260976.
+	  Block 2 --- prevBlock 0 --------- mined by 5 at 30.395504699508706.
+	  Block 5 --- prevBlock 1 --------- mined by 4 at 53.36477338349618.
+	  Block 6 --- prevBlock 1 --------- mined by 2 at 81.97080349954497.
+	  Block 1 --- prevBlock 0 --------- mined by 4 at 8.46434660504215.
 	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 7 --- prevBlock 4 --------- mined by 6 at 90.96294075654235.
+	  Block 3 --- prevBlock 1 --------- mined by 3 at 41.426306192428754.
+	  Block 4 --- prevBlock 0 --------- mined by 6 at 53.01179352694496.
 Peer 2 blockchain tree
-	  Block 1 --- prevBlock 0 --------- mined by 5 at 37.694325362260976.
+	  Block 2 --- prevBlock 0 --------- mined by 5 at 30.395504699508706.
+	  Block 5 --- prevBlock 1 --------- mined by 4 at 53.36477338349618.
+	  Block 6 --- prevBlock 1 --------- mined by 2 at 81.97080349954497.
+	  Block 1 --- prevBlock 0 --------- mined by 4 at 8.46434660504215.
 	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 7 --- prevBlock 4 --------- mined by 6 at 90.96294075654235.
+	  Block 3 --- prevBlock 1 --------- mined by 3 at 41.426306192428754.
+	  Block 4 --- prevBlock 0 --------- mined by 6 at 53.01179352694496.
 Peer 3 blockchain tree
-	  Block 1 --- prevBlock 0 --------- mined by 5 at 37.694325362260976.
+	  Block 2 --- prevBlock 0 --------- mined by 5 at 30.395504699508706.
+	  Block 5 --- prevBlock 1 --------- mined by 4 at 53.36477338349618.
+	  Block 6 --- prevBlock 1 --------- mined by 2 at 81.97080349954497.
+	  Block 1 --- prevBlock 0 --------- mined by 4 at 8.46434660504215.
 	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 7 --- prevBlock 4 --------- mined by 6 at 90.96294075654235.
+	  Block 3 --- prevBlock 1 --------- mined by 3 at 41.426306192428754.
+	  Block 4 --- prevBlock 0 --------- mined by 6 at 53.01179352694496.
 Peer 4 blockchain tree
+	  Block 2 --- prevBlock 0 --------- mined by 5 at 30.395504699508706.
+	  Block 5 --- prevBlock 1 --------- mined by 4 at 53.36477338349618.
+	  Block 6 --- prevBlock 1 --------- mined by 2 at 81.97080349954497.
+	  Block 1 --- prevBlock 0 --------- mined by 4 at 8.46434660504215.
 	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 7 --- prevBlock 4 --------- mined by 6 at 90.96294075654235.
+	  Block 3 --- prevBlock 1 --------- mined by 3 at 41.426306192428754.
+	  Block 4 --- prevBlock 0 --------- mined by 6 at 53.01179352694496.
 Peer 5 blockchain tree
-	  Block 1 --- prevBlock 0 --------- mined by 5 at 37.694325362260976.
+	  Block 2 --- prevBlock 0 --------- mined by 5 at 30.395504699508706.
+	  Block 5 --- prevBlock 1 --------- mined by 4 at 53.36477338349618.
+	  Block 6 --- prevBlock 1 --------- mined by 2 at 81.97080349954497.
+	  Block 1 --- prevBlock 0 --------- mined by 4 at 8.46434660504215.
 	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 7 --- prevBlock 4 --------- mined by 6 at 90.96294075654235.
+	  Block 3 --- prevBlock 1 --------- mined by 3 at 41.426306192428754.
+	  Block 4 --- prevBlock 0 --------- mined by 6 at 53.01179352694496.
 Peer 6 blockchain tree
-	  Block 3 --- prevBlock 1 --------- mined by 6 at 76.08887963970439.
-	  Block 1 --- prevBlock 0 --------- mined by 5 at 37.694325362260976.
+	  Block 2 --- prevBlock 0 --------- mined by 5 at 30.395504699508706.
+	  Block 5 --- prevBlock 1 --------- mined by 4 at 53.36477338349618.
+	  Block 6 --- prevBlock 1 --------- mined by 2 at 81.97080349954497.
+	  Block 1 --- prevBlock 0 --------- mined by 4 at 8.46434660504215.
 	  Block 0 --- prevBlock None --------- mined by None at 0.
+	  Block 7 --- prevBlock 4 --------- mined by 6 at 90.96294075654235.
+	  Block 3 --- prevBlock 1 --------- mined by 3 at 41.426306192428754.
+	  Block 4 --- prevBlock 0 --------- mined by 6 at 53.01179352694496.
 ------------------------------------The end--------------------------------------------

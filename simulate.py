@@ -5,7 +5,6 @@ from Transaction import *
 from Graph_utils import *
 import simpy as sp
 
-
 n_peers = 7
 z0 = 0.2
 z1 = 0.3
@@ -16,7 +15,7 @@ P2P_network , peers = P2P_network_generate(n_peers, z0, z1)
 
 env = sp.Environment()
 
-transactions = []
+
 
 def generate_transaction(env, sender : Peer, receiver : Peer): 
     txn = Transaction(env.now,sender,receiver,random.randint(1,5))
@@ -25,7 +24,7 @@ def generate_transaction(env, sender : Peer, receiver : Peer):
     sender.mempool.append(txn)
     # txn.peers_already_received.add(sender.ID)
     # print(f"Txn {txn.TxnID} created by {sender.ID} sender balance {sender.balance} amount {txn.amount} and added in its mempool at {env.now}.")
-    print(f"{env.now}: Txn {txn.TxnID} created by {sender.ID}.")
+    print(f"{env.now}: P{sender.ID}: Txn {txn.TxnID} created by {sender.ID}: {txn.sender.ID} to {txn.receiver.ID} coins {txn.amount}")
     for neigh in sender.neighbours:
         # if neigh not in txn.peers_already_received:
         env.process(forward_transaction(env,txn,sender,neigh))
@@ -38,7 +37,7 @@ def forward_transaction(env,txn : Transaction,peer1 : Peer,peer2 : Peer):
     if txn.TxnID in [trxn.TxnID for trxn in peer2.mempool]:
         return
     peer2.mempool.append(txn)
-    print(f"{env.now}: Txn {txn.TxnID} received by {peer2.ID}.")
+    print(f"{env.now}: P{peer2.ID}: Txn {txn.TxnID} received by {peer2.ID}.")
     # print(f"Txn {txn.TxnID} reached peer {peer2.ID} and added to its mempool at time {env.now}.")
     # txn.peers_already_received.add(peer2.ID)
     for neigh in peer2.neighbours:
@@ -51,47 +50,60 @@ def forward_block(env,block : Block,peer : Peer, peer2 : Peer):
     yield env.timeout(latency)
 
     if block.BlkId in peer2.blocklist:
-        print(f"{env.now}: Returning from Peer {peer2.ID} since block {block.BlkId} is already here.!!")
+        print(f"{env.now}: P{peer2.ID}: Returning from Peer {peer2.ID} since block {block.BlkId} is already here.!!")
         return 
     
     peer2.blocklist.append(block.BlkId)
-    print(f"{env.now}: Peer {peer2.ID} received block {block.BlkId}.")
+    print(f"{env.now}: P{peer2.ID}: Peer {peer2.ID} received block {block.BlkId}.")
 
-    #  validate
+
+    # validate
+    for q in peers:
+        peer.everyones_balance[q.ID] = 50
     for txn in block.TxnList:
-        if txn.sender is not None and txn.sender.balance < txn.amount:
-            print(f"{env.now}: Block {block.BlkId} is discarded by peer {peer2.ID} since Txn {txn.TxnID} is invalid.")
-            return
-
+        # if txn.sender is not None and txn.sender.balance < txn:
+        #     print(f"{env.now}: P{peer.ID}: Block {block.BlkId} is discarded by peer {peer2.ID} since Txn {txn.TxnID} is invalid.")
+        if txn.sender is not None:
+            peer.everyones_balance[txn.sender.ID] -= txn.amount
+            if peer.everyones_balance[txn.sender.ID] < 0:
+                print(f"{env.now}: P{peer2.ID}: Block {block.BlkId} is discarded by peer {peer2.ID}")
+                return
+        # else: # coinbase transaction
+        peer.everyones_balance[txn.receiver.ID] += txn.amount
     # all txns are valid now update balance of sender and receiver
-    for txn in block.TxnList:
-        print(f'{env.now}:  here for txn {txn.TxnID}')
-        if txn.sender is not None: # not coinbase txn 
-            txn.sender.balance -= txn.amount
-            txn.receiver.balance += txn.amount
+    # for txn in block.TxnList:
+    #     print(f'{env.now}: P{peer.ID}:  here for txn {txn.TxnID}')
+    #     if txn.sender is not None: # not coinbase txn 
+    #         txn.sender.balance -= txn.amount
+    #         txn.receiver.balance += txn.amount
 
-    lengths = nx.single_source_shortest_path_length(peer2.ledger,source=peer2.genesis)
-    longest_chain_node = None
-    max_length = -1
-    for blk in lengths:
-        if lengths[blk] > max_length:
-            longest_chain_node = blk
-            max_length = lengths[blk]
+    lengths = nx.single_source_shortest_path_length(peer.ledger,source=peer.genesis)
+    longest_chain_node = max(lengths, key=lengths.get)
+    print(f"FLAG: P{peer2.ID}: ")
+    for x, y in lengths.items():
+        print('\t', x.BlkId, y)
     
-    print(f"{env.now}: Block {block.BlkId} reached peer {peer2.ID} and added to its ledger.")
-    print(f"{env.now}: Peer {peer2.ID} previuos ledger",[blk.BlkId for blk in peer2.ledger.nodes])
+    print(f"{env.now}: P{peer2.ID}: Block {block.BlkId} reached peer {peer2.ID} and added to its ledger.")
+    print(f"{env.now}: P{peer2.ID}: Peer {peer2.ID} previuos ledger",[blk.BlkId for blk in peer2.ledger.nodes])
 
-    print(f'{env.now}: Longest node {longest_chain_node.BlkId} for {peer2.ID}')
+    print(f'{env.now}: P{peer2.ID}: Longest node {longest_chain_node.BlkId} for {peer2.ID}')
+    # print(f'HELLO EVERYONE: P{peer2.ID}: Tree edge {longest_chain_node.BlkId} -> {block.BlkId}')
     peer2.ledger.add_node(block)
+    print(f'1. FLAG: P{peer2.ID}: ADD {block.BlkId}')
     peer2.Tree.add(block)
+    # if longest_chain_node == block:
+    #     print("=====================")
+    #     print("=====================")
+    #     print("=====================")
+    print(f'1. FLAG: P{peer2.ID}: {longest_chain_node.BlkId}-{block.BlkId}')
     peer2.ledger.add_edge(longest_chain_node,block)
 
-    print(f"{env.now}: Peer {peer2.ID} updated ledger",[blk.BlkId for blk in peer2.ledger.nodes])
+    print(f"{env.now}: P{peer2.ID}: Peer {peer2.ID} updated ledger",[blk.BlkId for blk in peer2.ledger.nodes])
 
 
     for neigh in peer2.neighbours:
         if neigh != peer:
-            print(f"{env.now}: Forwarding from forward fucntion-- Block {block.BlkId} to Peer {neigh.ID} from Peer {peer2.ID}")
+            print(f"{env.now}: P{peer2.ID}: Forwarding from forward fucntion-- Block {block.BlkId} to Peer {neigh.ID} from Peer {peer2.ID}")
             env.process(forward_block(env,block,peer2,neigh))
 
 
@@ -101,15 +113,15 @@ def generate_block(env,peer :Peer):
     paths = nx.single_source_shortest_path(peer.ledger, source=peer.genesis)
     longest_chain_node = max(lengths, key=lengths.get)
     longest_path = paths[longest_chain_node]
-    print(f'{env.now}: Length of the longest path: {len(paths[longest_chain_node])}')
-    print(f'{env.now}: path: {[e.BlkId for e in longest_path]}')
-    print(f"{env.now}: Peer {peer.ID} starts mining")
+    print(f'{env.now}: P{peer.ID}: Length of the longest path: {len(paths[longest_chain_node])}')
+    print(f'{env.now}: P{peer.ID}: path: {[e.BlkId for e in longest_path]}')
+    print(f"{env.now}: P{peer.ID}: Peer {peer.ID} starts mining")
 
     transactions_in_the_longest_path = []
     for blk in paths[longest_chain_node]:
         transactions_in_the_longest_path.extend(blk.TxnList)
 
-    print(f"{env.now}: Transactions in the longest chain: {len(transactions_in_the_longest_path)}")
+    print(f"{env.now}: P{peer.ID}: Transactions in the longest chain: {len(transactions_in_the_longest_path)}")
 
     transactions_to_be_inserted_in_new_block = []
     number_of_transactions_the_new_block_can_accomodate = 998
@@ -123,37 +135,39 @@ def generate_block(env,peer :Peer):
             transactions_to_be_inserted_in_new_block.append(txn)
             number_of_transactions_the_new_block_can_accomodate -= 1
         
-    print(f"{env.now}: Transactions to be inserted in new block: {len(transactions_to_be_inserted_in_new_block)}")
+    print(f"{env.now}: P{peer.ID}: Peer {peer.ID}: Transactions to be inserted in new block: {len(transactions_to_be_inserted_in_new_block)}")
 
     mining_time = random.expovariate(peer.hashingPower/IaT) #//TODO:
-    print(f'{env.now}: Longest node {longest_chain_node.BlkId} for {peer.ID} before mining')
+    print(f'{env.now}: P{peer.ID}: Longest node {longest_chain_node.BlkId} for {peer.ID} before mining')
     yield env.timeout(mining_time)
 
 
     lengths = nx.single_source_shortest_path_length(peer.ledger,source=peer.genesis)
     longest_chain_node_new = max(lengths, key=lengths.get)
 
-    print(f"{env.now}: Peer {peer.ID} ends mining")
-    print(f'{env.now}: Longest node {longest_chain_node_new.BlkId} for {peer.ID} after mining')
+    print(f"{env.now}: P{peer.ID}: Peer {peer.ID} ends mining")
+    print(f'{env.now}: P{peer.ID}: Longest node {longest_chain_node_new.BlkId} for {peer.ID} after mining')
 
     if longest_chain_node != longest_chain_node_new:
-        print(f"{env.now}: Peer {peer.ID} was slow in mining someone else mined first.")
+        print(f"{env.now}: P{peer.ID}: Peer {peer.ID} was slow in mining someone else mined first.")
         return
 
     # if longest_chain_node == longest_chain_node_new:
     block = Block(peer,env.now,longest_chain_node,transactions_to_be_inserted_in_new_block)
     block.TxnList.append(Transaction(env.now,None,peer,50)) # add coinbase txn to block
-    print(f"{env.now}: Block {block.BlkId} mined by {peer.ID} and added in its ledger")
-    print(f"{env.now}: Peer {peer.ID} previous ledger",[blk.BlkId for blk in peer.ledger.nodes])
+    print(f"{env.now}: P{peer.ID}: Block {block.BlkId} mined by {peer.ID} and added in its ledger")
+    print(f"{env.now}: P{peer.ID}: Peer {peer.ID} previous ledger",[blk.BlkId for blk in peer.ledger.nodes])
     peer.Tree.add(block)
+    # print(f'HELLO EVERYONE: P{peer.ID}: Tree edge {longest_chain_node.BlkId} -> {block.BlkId}')
+    print(f'1. FLAG: P{peer.ID}: ADD {block.BlkId}')
     peer.ledger.add_node(block)
     peer.ledger.add_edge(longest_chain_node,block)
-    print(f"{env.now}: Peer {peer.ID} updated ledger",[blk.BlkId for blk in peer.ledger.nodes])
+    print(f"{env.now}: P{peer.ID}: Peer {peer.ID} updated ledger",[blk.BlkId for blk in peer.ledger.nodes])
 
     # if longest_chain_node == longest_chain_node_new:
-    peer.balance += 50
+    # peer.everyones_balance[peer.ID] += 50
     for neigh in peer.neighbours:
-        print(f"{env.now}: Forwarding from generator function -- Block {block.BlkId} to Peer {neigh.ID} from Peer {peer.ID}")
+        print(f"{env.now}: P{peer.ID}: Forwarding from generator function -- Block {block.BlkId} to Peer {neigh.ID} from Peer {peer.ID}")
         env.process(forward_block(env,block,peer,neigh))
     # else:
     #     print(f"Peer {peer.ID} was slow in mining someone else mined first.")
