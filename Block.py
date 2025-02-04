@@ -61,6 +61,7 @@ def forward_block(env, block: Block, peer: Peer, peer2: Peer, P2P_network: nx.Gr
     # add it to its ledger
     peer2.ledger.add_node(block.BlkId)
     peer2.ledger.add_edge(block.parentID, block.BlkId)
+    print(f"{env.now}: P{peer2.ID}: New block in its tree: Block-{block.BlkId}.")
 
     # forward to other peers
     for neighID in P2P_network[peer2.ID]:
@@ -140,6 +141,7 @@ def generate_block(env, peer: Peer, IaT, P2P_network: nx.Graph):
     peer.ledger.add_node(block.BlkId)
     peer.ledger.add_edge(longest_chain_node, block.BlkId)
     print(f"{env.now}: P{peer.ID}: mined Block-{block.BlkId}.")
+    print(f"{env.now}: P{peer.ID}: New block in its tree: Block-{block.BlkId}.")
     peer.everyones_balance[peer.ID] += 50
 
     # broadcast this coinbase transaction to the neighbours
