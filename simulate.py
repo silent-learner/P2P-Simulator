@@ -64,5 +64,8 @@ for peer in peers:
     make_blockChainTree(
         peer.ledger, 0, f"./BlockChainTrees/Block Chain Tree {peer.ID}.png"
     )
+    with open(f"./Trees/P{peer.ID}.txt", "w") as f:
+        f.write(str(0) + "\n")
+        print_nx_tree(graph=peer.ledger, node=0, prefix="", f=f)
 
 print("-------------------------------The end---------------------------------------")

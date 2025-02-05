@@ -8,6 +8,7 @@ import random
 # Peer_B is the receiver
 # m is size of the message in KB
 def delay(A: Peer, B: Peer, m, P2P_network):
+    return 10
     # prop_delay is measured in seconds
     prop_delay = P2P_network[A.ID][B.ID]["pij"]
 
@@ -44,3 +45,13 @@ def make_blockChainTree(graph, genesisID, filename="tree_multipartite.png"):
 
     plt.savefig(filename, format="png", dpi=300)
     plt.clf()
+
+
+def print_nx_tree(graph, node=0, prefix="", f=""):
+    children = list(graph.successors(node))
+    for i, child in enumerate(children):
+        is_last = i == len(children) - 1
+        connector = "└── " if is_last else "├── "
+        f.write(prefix + connector + str(child) + "\n")
+        new_prefix = prefix + ("    " if is_last else "│   ")
+        print_nx_tree(graph=graph, node=child, prefix=new_prefix, f=f)
