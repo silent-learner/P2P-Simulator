@@ -62,6 +62,9 @@ def forward_block(env, block: Block, peer: Peer, peer2: Peer, P2P_network: nx.Gr
     peer2.ledger.add_edge(block.parentID, block.BlkId)
     print(f"{env.now}: P{peer2.ID}: New block in its tree: Block-{block.BlkId}.")
 
+    # store the arrival time
+    peer2.arrival_times[block.BlkId] = env.now
+
     # forward to other peers
     for neighID in P2P_network[peer2.ID]:
         if neighID != peer2.ID:
@@ -142,6 +145,9 @@ def generate_block(env, peer: Peer, IaT, P2P_network: nx.Graph):
     print(f"{env.now}: P{peer.ID}: mined Block-{block.BlkId}.")
     print(f"{env.now}: P{peer.ID}: New block in its tree: Block-{block.BlkId}.")
     peer.everyones_balance[peer.ID] += 50
+
+    # store the arrival time for this block
+    peer.arrival_times[block.BlkId] = env.now
 
     # broadcast this coinbase transaction to the neighbours
     peer.mempool.append(coinbase_txn.TxnID)

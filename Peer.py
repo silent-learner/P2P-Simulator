@@ -31,6 +31,10 @@ class Peer:
         # output = balance of that peer
         self.everyones_balance = []
 
+        # dict for arrival time for each block
+        self.arrival_times = {}
+        self.arrival_times[0] = 0
+
         Peer.peers.append(self)
 
     def __str__(self):

@@ -65,7 +65,12 @@ for peer in peers:
         peer.ledger, 0, f"./BlockChainTrees/Block Chain Tree {peer.ID}.png"
     )
     with open(f"./Trees/P{peer.ID}.txt", "w") as f:
+        # store the blockchain tree for every peer
         f.write(str(0) + "\n")
         print_nx_tree(graph=peer.ledger, node=0, prefix="", f=f)
+
+        # print the arrival time for each block
+        for blkId, t in peer.arrival_times.items():
+            f.write(f"Block-{blkId} arrived at time {t}\n")
 
 print("-------------------------------The end---------------------------------------")
