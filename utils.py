@@ -8,7 +8,6 @@ import random
 # Peer_B is the receiver
 # m is size of the message in KB
 def delay(A: Peer, B: Peer, m, P2P_network):
-    return 10
     # prop_delay is measured in seconds
     prop_delay = P2P_network[A.ID][B.ID]["pij"]
 
