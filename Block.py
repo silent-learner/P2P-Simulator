@@ -19,13 +19,13 @@ class Block:
 
 
 def is_valid_transactions_array(txnID_list):
-    initial_balance = Peer.initial_balances.copy()
+    balance = Peer.initial_balances.copy()
     for txnID in txnID_list:
         txn = Transaction.transactions[txnID]
         if txn.sender:
-            initial_balance[txn.sender.ID] -= txn.amount
-        initial_balance[txn.receiver.ID] += txn.amount
-    return min(initial_balance) >= 0
+            balance[txn.sender.ID] -= txn.amount
+        balance[txn.receiver.ID] += txn.amount
+    return min(balance) >= 0
 
 
 def forward_block(env, block: Block, peer: Peer, peer2: Peer, P2P_network: nx.Graph):
@@ -44,7 +44,6 @@ def forward_block(env, block: Block, peer: Peer, peer2: Peer, P2P_network: nx.Gr
         return
 
     # find the path from genesis node to the parent
-    peer2.ledger.add_node(block.BlkId)
     path = nx.shortest_path(peer2.ledger, 0, block.parentID)
 
     # validate the block

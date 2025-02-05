@@ -7,10 +7,10 @@ from Block import *
 import simpy as sp
 
 n_peers = 10
-z0 = 1
-z1 = 0
-Ttx = 0.5
-IaT = 0.5
+z0 = 0.5
+z1 = 0.5
+Ttx = 10
+IaT = 3.5
 
 # create a peer to peer network
 # define which nodes are slow/fast

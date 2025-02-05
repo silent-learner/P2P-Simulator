@@ -29,7 +29,7 @@ def make_blockChainTree(graph, genesisID, filename="tree_multipartite.png"):
     for node in graph.nodes:
         graph.nodes[node]["subset"] = layers.get(node, 0)
 
-    pos = nx.multipartite_layout(graph, align="horizontal", subset_key="subset")
+    pos = nx.multipartite_layout(graph, align="vertical", subset_key="subset")
 
     nx.draw(
         graph,
@@ -39,6 +39,7 @@ def make_blockChainTree(graph, genesisID, filename="tree_multipartite.png"):
         edge_color="black",
         font_weight="bold",
         arrows=True,
+        node_size=50,
     )
 
     plt.savefig(filename, format="png", dpi=300)
